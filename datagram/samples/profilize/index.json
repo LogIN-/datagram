@@ -1,0 +1,557 @@
+[
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Arabic",
+    "sub_category": [
+      "Arabic"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/ar.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Bulgarian",
+    "sub_category": [
+      "Bulgarian"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/bg.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Czech",
+    "sub_category": [
+      "Czech"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/cs.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Danish",
+    "sub_category": [
+      "Danish"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/da.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "German",
+    "sub_category": [
+      "German"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/de.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Greek",
+    "sub_category": [
+      "Greek"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/el.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "English",
+    "sub_category": [
+      "English"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/en.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Spanish",
+    "sub_category": [
+      "Spanish"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/es.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Estonian",
+    "sub_category": [
+      "Estonian"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/et.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Farsi",
+    "sub_category": [
+      "Farsi"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/fa.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Finnish",
+    "sub_category": [
+      "Finnish"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/fi.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "French",
+    "sub_category": [
+      "French"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/fr.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Hebrew",
+    "sub_category": [
+      "Hebrew"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/he.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Croatian",
+    "sub_category": [
+      "Croatian"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/hr.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Hungarian",
+    "sub_category": [
+      "Hungarian"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/hu.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Indonesian",
+    "sub_category": [
+      "Indonesian"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/id.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Icelandic",
+    "sub_category": [
+      "Icelandic"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/is.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Italian",
+    "sub_category": [
+      "Italian"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/it.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": true,
+    "file_name": "Korean",
+    "sub_category": [
+      "Korean"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/ko.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Lithuanian",
+    "sub_category": [
+      "Lithuanian"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/lt.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Latvian",
+    "sub_category": [
+      "Latvian"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/lv.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Macedonian",
+    "sub_category": [
+      "Macedonian"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/mk.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Malay",
+    "sub_category": [
+      "Malay"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/ms.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Dutch",
+    "sub_category": [
+      "Dutch"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/nl.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": true,
+    "file_name": "Norwegian",
+    "sub_category": [
+      "Norwegian"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/no.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Polish",
+    "sub_category": [
+      "Polish"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/pl.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Portuguese",
+    "sub_category": [
+      "Portuguese"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/pt.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Romanian",
+    "sub_category": [
+      "Romanian"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/ro.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Russian",
+    "sub_category": [
+      "Russian"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/ru.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Slovak",
+    "sub_category": [
+      "Slovak"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/sk.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Slovenian",
+    "sub_category": [
+      "Slovenian"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/sl.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Albanian",
+    "sub_category": [
+      "Albanian"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/sq.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Serbian",
+    "sub_category": [
+      "Serbian"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/sr.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Swedish",
+    "sub_category": [
+      "Swedish"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/sv.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Turkish",
+    "sub_category": [
+      "Turkish"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/tr.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": false,
+    "file_name": "Ukrainian",
+    "sub_category": [
+      "Ukrainian"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/uk.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  },
+  {
+    "main_category": "languages",
+    "enabled": true,
+    "file_name": "Chinese",
+    "sub_category": [
+      "Simplified Chinese"
+    ],
+    "training_sets": [
+      {
+        "uri": "languages/zh_cn.txt",
+        "type": "text",
+        "analyzer": "dictionary"
+      }
+    ]
+  }
+]

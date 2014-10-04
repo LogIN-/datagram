@@ -1,0 +1,541 @@
+太阳
+维基百科，自由的百科全书
+太陽 Sun symbol.svg 太阳
+觀測資料
+与地球
+平均距離 1.496×108 km
+以約光速8分19秒
+视星等（V） −26.74 [1]
+絕對星等 4.83 [1]
+光譜類型 G2V
+金屬量 Z = 0.0122[2]
+角直徑 31.6′ – 32.7′ [3]
+軌道特性
+与銀河系核心
+平均距離 ~2.5×1017 km
+26000光年
+銀河的周期 (2.25–2.50)×108 a
+速度 ~220 km/秒 （環繞銀河系中心的軌道）
+~20 km/秒（相對於在星際間鄰近恆星的平均速度）
+~370 km/秒[4]（相對於宇宙微波背景）
+物理特性
+平均直徑 1.392×106 km [1]
+109 × 地球
+赤道半徑 6.955×105 km [5]
+109 × 地球[5]
+赤道圓周 4.379×106 km [5]
+109 × 地球[5]
+扁率 9×10−6
+表面積 6.0877×1012 km2
+[5]
+11,990 × 地球[5]
+體積 1.412×1018 km3 [5]
+1,300,000 × 地球
+質量 1.9891×1030 kg[1]
+333,000 × 地球[1]
+平均密度 1.408×103 kg/m3 [1][5][6]
+密度 中心（模型）：1.622×105 kg/m3 [1]
+光球底部：2×10−4 kg/m3
+色球底部：5×10−6 kg/m3
+日冕（平均）：1×10−12 kg/m3 [7]
+赤道表面重力 274.0 m/s2 [1]
+27.94 g
+28 × 地球[5]
+逃逸速度
+（從表面） 617.7 km/s [5]
+55 × 地球[5]
+溫度 中心（模型）：~1.57×107 K [1]
+光球（有效）：5,778 K [1]
+日冕: ~5×106 K
+光度
+（L太陽） 3.846×1026 W [1]
+~3.75×1028 lm
+~98 lm/W 发光功效
+平均強度
+（I太陽） 2.009×107 W•m−2•sr−1
+自轉特性
+傾角 7.25° [1]
+（對黃道）
+67.23°
+（對銀河平面）
+赤經
+北極[8] 286.13°
+19h 4min 30s
+赤緯
+北極 +63.87°
+63°52' North
+恆星自轉週期
+（在赤道） 25.05天 [1]
+（在緯度16°） 25.38天[1]
+25d 9h 7min 12s [8]
+（在極區） 34.4天[1]
+自轉速度
+（在赤道） 7.189×103 km/h [5]
+光球的組成（依質量）
+氫 73.46%[9]
+氦 24.85%
+氧 0.77%
+碳 0.29%
+鐵 0.16%
+氖 0.12%
+氮 0.09%
+矽 0.07%
+鎂 0.05%
+硫 0.04%
+太陽或日是位於太陽系中心的恆星，它幾乎是熱電漿與磁場交織著的一個理想球體[10][11]。其直徑大約是1,392,000（1.392×106）公里，相當於地球直徑的109倍；質量大約是2×1030千克（地球的330,000倍），約佔太陽系總質量的99.86%[12]。 从化學組成来看，太陽質量的大約四分之三是氫，剩下的幾乎都是氦，包括氧、碳、氖、鐵和其他的重元素質量少於2%[13]。
+太陽的恆星光譜分類為G型主序星（G2V）。雖然它是白色的，但因為在可见光的頻譜中以黃綠色的部分最為強烈，從地球表面觀看時，大氣層的散射使天空成為藍色，所以它呈現黃色，因而被非正式的稱為“黃矮星”[14][15]。 光譜分類標示中的G2表示其表面溫度大約是5778K（5505°C），V则表示太陽像其他大多數的恆星一樣，是一顆主序星，它的能量來自於氫融合成氦的核融合反應。太陽的核心每秒鐘燃燒6.2億噸的氫。太陽一度被天文學家認為是一顆微小平凡的恆星，但因為銀河系內大部分的恆星都是紅矮星，現在認為太陽比85%的恆星都要明亮[16][17]。太陽的絕對星等是 +4.83，但是由于其非常靠近地球，因此从地球上看来，它是天空中最亮的天體，視星等達到−26.74[18][19]。太陽高溫的日冕持續的向太空中拓展，創造的太陽風延伸到100天文單位遠的日球層頂。這個太陽風形成的“氣泡”称为太陽圈，是太陽系中最大的連續結構[20][21]。
+太陽目前正在穿越銀河系內部邊緣獵戶臂的本地泡區中的本星際雲。在距離地球17光年的距離內有50顆最鄰近的恆星系（最接近的一顆是紅矮星，被稱為比鄰星，距太阳大約4.2光年），太陽的質量在這些恆星中排在第四[22]。 太陽在距離銀河中心24,000至26,000光年的距離上繞著銀河公轉，從銀河北極鳥瞰，太陽沿顺时针軌道运行，大約2.25億至2.5億年遶行一周。由於銀河系在宇宙微波背景輻射（CMB）中以550公里/秒的速度朝向長蛇座的方向運動，这两个速度合成之后，太陽相對於CMB的速度是370公里/秒，朝向巨爵座或獅子座的方向運動[23]。
+地球围绕太阳公转的轨道是椭圆形的，每年1月离太阳最近（称为近日点），7月最远（称为远日点），平均距離是1.496億公里（天文学上称这个距离为1天文單位）[24]。以平均距離算，光從太陽到地球大約需要经过8分19秒。太陽光中的能量通过光合作用等方式支持着地球上所有生物的生长[25]，也支配了地球的氣候和天氣。人类從史前時代就一直認為太陽對地球有巨大影響，有許多文化將太陽當成神来崇拜。 對太陽的正確科學認識進展得很慢，直到19世紀初期，傑出的科學家才對太陽的物質組成和能量來源有了一點認識。直至今日，人类对太阳的理解一直在不断进展中，还有大量有关太陽活动机制方面的未解之謎等待着人们来破解。
+目录
+ 1 特徵
+ 1.1 核心
+ 1.2 輻射帶
+ 1.3 對流帶
+ 1.4 光球
+ 1.5 大氣層
+ 1.5.1 溫度極小區
+ 1.5.2 色球
+ 1.5.3 過渡區
+ 1.5.4 日冕
+ 1.5.5 太陽圈
+ 1.6 磁場
+ 2 化學構造
+ 2.1 個別電離的鐵族元素
+ 2.2 太陽和行星的質量分化的關係
+ 3 太陽週期
+ 3.1 太陽黑子和太陽黑子週期
+ 3.2 可能的長週期
+ 4 生命周期
+ 5 陽光
+ 6 在銀河系中的位置和運動
+ 7 理論上的問題
+ 7.1 太陽微中子問題
+ 7.2 日冕高溫問題
+ 7.3 年輕太陽黯淡問題
+ 7.4 現在的異常
+ 8 觀測的歷史
+ 8.1 早期的了解和語源
+ 8.2 科學認識的發展
+ 8.3 太陽太空任務
+ 9 觀測和成效
+ 10 術語
+ 11 太阳伴星
+ 12 人類文化中的太陽
+ 12.1 太阳的重要性
+ 12.2 太阳与神话
+ 13 參見
+ 14 註解
+ 15 參看
+ 16 參考資料
+ 17 延伸閱讀
+ 18 外部鏈結
+特徵
+太陽上出現的C-3級閃焰（在左上角的白色區域），一個太陽海嘯（右上，波狀的結構）和多個絲狀的磁力線從恆星表面離開。
+太陽結構的圖解：
+1. 核心
+2. 輻射層
+3. 對流層
+4. 光球
+5. 色球
+6. 日冕
+7. 黑子
+8. 米粒
+9. 日珥
+太陽是一顆G型主序星，佔太陽系總質量的99.8632%。太阳的形状接近理想的球體，估計扁率只有900萬分之一[26]，這意味著極直徑和赤道直徑的差别不到10公里。由於太陽是由電漿組成，並不是固體，所以他的赤道轉得比極區快。這種现象稱作較差自轉，其原因是從太阳核心向外伸展的溫度变化，引發的太陽物質的對流運動。這些物質攜帶著一部份從黃道北極看是逆時鐘的太陽角動量，因而重新分配了角速度。實際的轉動周期在赤道大約是25.6天，在極區是33.5天，但是因為地球在環繞太陽時，不斷改變公转軌道的角度，使得太陽赤道自轉的視運動大約是28天[27]。這種緩慢旋轉作用的離心力在赤道的效應不及太陽引力的1,800萬分之一，即使是行星產生的潮汐力也因為太微弱而對太陽的形狀起不了作用[28]，但大質量的木星仍使核心偏離中心達一個太陽半徑。
+太陽是富金屬星[note 1][29]。太陽的形成可能是一顆或多顆鄰近的超新星激震波所致。[30]这个猜测是基于太陽系中高度的重元素含量。在太阳系中，重金属元素如金和鈾的含量远高於被稱為貧金屬恆星高豐度。表面上看來這些元素只会由超新星產生的吸能核反應，或第二代恆星內部的核遷變而產生[29]。
+太陽沒有像固态行星一樣明確的界線，並且它外面的氣體密度是隨著中心距離的增加呈指數下降[31]。然而太阳也有明確的結構划分。一般定义太陽的半徑为從它的中心到光球邊緣的距离。光球只是氣體层的上層，因為太冷或太薄而輻射出大量可见光，並且因此成為肉眼最容易看見的表面[32]。
+太陽的內部不能被直接觀察到，對電磁輻射也是不透明的。但是，正如地球上通过研究地震波來揭露地球的內部結構，日震學中也可借由在太陽內部的壓力波（人耳聽不見的次聲波）来測量和明确太阳內部的結構[33]。太陽的深層内在构造也可以通过電腦建模等理論工具来研究。
+核心
+太陽型恆星的橫截面圖（NASA）。
+太陽的核心是指距离太陽的中心不超过太陽半徑的五分之一或四分之一的區域[34]，核心内部的物质密度高達150 g/cm3[35][36]，大約是水密度的150倍，溫度接近1,360萬K。相較之下，太陽表面的溫度大約只有5,800K。根据太陽和太陽風層探測器任務最近的資料分析，太阳核心的自轉速率比輻射帶等其它區域要快[34]。太陽形成后的大部分的時間裡，核融合的能量是經过一系列被称为質子-質子鏈反應的过程产生的；這個過程將氫變成氦[37]，只有少於2%的氦是經由碳氮氧循環產生的。
+核心是太陽內唯一能經由核融合產生大量熱能的區域，99%的能量產生在太陽半徑的24%以內，而在30%半徑處，融合反應幾乎完全停止。太阳的外层只是被從核心传出的能量加熱。在核心經由核融合產生的能量首先需穿过由内到外接连的多层区域，才能到达光球层，然后化为光波或粒子的动能，散逸到外层的宇宙空间去[38][39]。
+太陽核心每秒大約進行着9.2×1037次質子-質子鏈反應。這個反應是將4個自由的質子（氫原子核）融合成氦原子核（α粒子），每秒大約有3.7×1038個質子成為α粒子（太陽擁有的自由質子大約有8.9×1056個），相当于大約每秒6.2×1011千克[39]。每次氢原子核聚合成氦時，大約會有0.7%的質量转化成能量[40]。因此，太陽的質能轉換速率為每秒鐘426萬噸（质量转变为輻射能的形式离开，参考質能等效性），釋放出384.6 佑瓦特（3.846×1026 W）的能量[1]，这相当于每秒鐘产生919.2×1010 萬噸TNT炸药爆炸的能量。
+太阳核心的核融合功率隨着与太阳中心的距離增大而减小，理論模型估計，在太陽的中心，核聚变的功率密度大約是76.5 W/m3[41]。是成年人平均單位體積消耗功率的1/10倍。[note 2]太陽的巨大功率輸出不是由於其能量输出密度高，而是因為它規模巨大。
+太阳核心的核融合是在自我修正下达到平衡：速率只要略微提升，就會造成核心的溫度上升，压强增大，更能抵抗外围物质的压力，因此核心会膨脹，从而降低核聚变速率，修正之前核融合速率增加所造成的扰动；而如果反應速率稍微下降，就会導致溫度略微下降，压强降低，从而核心會收縮，使核融合的速率又再提高，回復到它之前的水平[42][43]。
+核融合产生的γ射線（高能量的光子流）從太阳核心釋放出來後，只要經過幾微米就會被太陽中的電漿吸收，然後再以較低的能量隨機地輻射向各个方向。因此，在不斷反覆的吸收和再輻射中，光子流要經過漫長的時間才能到達太阳表面。估計每個光子抵達太阳表面需要10,000年至170,000年的時間[44]。
+在穿過對流帶，進入透明的光球表面時，光子就以可見光的型態散逸。每一股γ射線在核心產生的在逃逸入太空之前，都已經轉化成數百萬個可見光频率的光子。核心的核聚變時也釋放出中微子，但是與光子不同的是它很難與其它的物質交互作用，因此幾乎是立刻就从太陽表面逃逸出去。多年來，測量到來自太陽的中微子數量都只有理論數值的三分之一，因而產生了太陽微中子問題。這個差異直到2001年發現微中子振盪才獲得解決：太陽發出的微中子數量一如理論的預測，但是微中子探測器偵測到的少了2⁄3，這是因為在被偵測時微中子改變了它們的味[45]。
+輻射帶
+太陽內部輻射帶與對流帶的對比圖
+從大約0.25至0.7太陽半徑处，太陽物質是熱且稠密的，只以熱輻射就將將核心的炙熱充分的向外轉移[46]。在這個區域內沒有熱對流；同時隨著與中心距離的增加，溫度也從7,000,000K降至2,000,000K，這種溫度梯度小於絕熱下降率，因此不會造成對流[36]。能量的傳輸依賴輻射——氫和氦的離子發射的光子，但每個光子被其它的離子再吸收之前，只能傳遞很短的距離[46]。從輻射帶的底部至頂端的密度下降達到百倍（從20公克/立方公分降至只有0.2公克/立方公分）[46]。
+輻射帶和對流帶之間形成的一個過渡層叫差旋層（tachocline）。它是均勻旋轉的輻射帶和較差自轉的對流帶之間有着急遽轉變工作狀態的區域，結果造成巨大的切變——當接連的平面層滑過另一個時的條件[47]。在上面的對流帶發現的流體運動，從這一層的頂端至底部慢慢的消失，與輻射带頂段平靜的特徵相匹配。目前這還是一個假說（參見太陽發電機），在這一層內的磁發電機產生太陽的磁場[36]。
+對流帶
+太陽的外層，從它的表面向下至大約200,000公里（或是70%的太陽半徑），太陽的電漿已經不夠稠密或不夠熱，不再能經由傳導作用有效的將內部的熱向外傳送；換言之，它已經不夠透明了。結果是，當熱柱攜帶熱物質前往表面（光球），產生了熱對流。一旦這些物質在表面變冷，它會向下切入對流帶的底部，再從輻射帶的頂部獲得更多的熱量。在可見的太陽表面，溫度已經降至5,700K，而且密度也只有0.2公克/立方米（大約是海平面密度的六千分之一）[36]。
+在對流帶的熱柱形成在太陽表面上非常重要的，像是米粒組織和超米粒組織。在對流帶的湍流會在太陽內部的外圍部分造成“小尺度”的發電機，這會在太陽表面的各處產生磁南極和磁北極[36]。太陽的熱柱是貝納得穴流，因此往往像六角型的稜鏡[48]。
+光球
+太陽的有效溫度或黑體溫度（5777K）是一個相同大小的黑體，在產生完全輻射的功率時所對應的溫度。
+太陽可見的表面，光球，在這一層下面的太陽對可見光是不透明[49]，在光球之上可見光可以自由的傳播到太空之中，而它的能量可以完全從太陽帶走。透明度的變化是因為會吸收可見光的H−離子數量減少[49]。相反的，我們看見的可見光是電子與氫再作用產生H−離子時產生的[50][51]。 光球的厚度只有數十至數百公里的厚度，只是略比球的空氣不透明了些。因為光球上半部分的溫度比下半部的低，因此太陽盤面的影像會呈現中央比周圍的邊緣或周邊明亮的現像，這一種現象稱為周邊昏暗[49]。陽光有著近似於黑體的光譜，穿插著數千條來自光球之上稀薄的原子吸收線，指示其溫度大約是6,000K。光球的粒子密度大約是1023米−3（大約是地球大氣層在海平面粒子密度的0.37%，但是光球中的粒子是電子和質子，所以空氣的平均質量只是58倍）[46]。
+在研究光球可見光譜的早期，發現有些吸收譜線不能符合地球上任何已知的化學元素。在1868年，諾曼·洛克假設這些吸收譜線是一種新元素造成的，他以希臘的太陽神為依據，將之命名為氦，而在25年之後才在地球上分離出氦元素[52]。
+大氣層
+日全食，於短暫的全食階段可以用肉眼看見太陽的日冕。
+太陽光球以上的部分統稱為太陽大氣層[49]，跨過整個電磁頻譜，從無線電、可見光到伽瑪射線，都可以觀察它們，分為5個主要的部分：溫度極小區、色球、過渡區、日冕、和太陽圈[49]。太陽圈，可能是太陽大氣層最稀薄的外緣，並且延伸到冥王星軌道之外與星際物質交界，交界處稱為日鞘，並且在那兒形成剪切的激波前緣。色球、過渡區、和日冕的溫度都比太陽表面高[49]，原因還沒有獲得證實，但證據指向阿爾文波可能攜帶了足夠的能量將日冕加熱[53]。
+溫度極小區
+太陽上溫度最低的地區稱為溫度極小區，大約在光球上方500 公里，溫度大約是4,100 K[49]。這一部分的溫度低到可以維持簡單的分子，像是一氧化碳和水，並且可以從檢出它們的吸收譜線[54]。
+色球
+在溫度極小區之上是一層大約2,000 公里厚，主導著譜線的吸收和發射[49]。因為在日全食的開始和結束時可以看見彩色的閃光，因此稱為色球，名字來自希臘的字根chroma，意思就是顏色[46]。色球層的溫度隨著高度從底部逐步向上提升，接近頂端的溫度大約在20,000 K [49]。在色球的上層部分，氦開始被部分的電離[55]。
+過渡區
+這張影像是使用日出衛星的光學望遠鏡在2007年1月12日拍攝的，顯示出因為磁場極性的不同自然的電漿連接成纖維的區域。
+在色球之上，是一層薄至大約只有200公里的過渡區，溫度從色球頂端大約200,000K上升至接階近1,000,000K的日冕溫度[56]。溫度的上升使氦在過渡區很容易就被完全的電離，這可以大量減少電漿的輻射冷卻[55]。過渡區沒有明確的出現高度，它形成一種環繞著色球的光輪，外型很像針狀體和暗條，並處於持續不斷的渾沌運動[46]。從地球表面很難看到過渡區，但在太空中使用對電磁頻譜的超紫外線靈敏的儀氣很容易觀察到[57]。
+日冕
+日冕是太陽向外擴展的大氣層，它的體積比太陽本身大了許多。不斷擴展的日冕在太空中形成太陽風，充滿了整個的太陽系[58]。日冕的低層非常靠近太陽的表面，粒子的密度環繞在1015–1016米−3[55][note 3]，日冕和太陽風的平均溫度大約是1,000,000–2,000,000 K；而在最高溫度的區域是8,000,000–20,000,000 K[56]。日冕的温度虽然很高，但密度很低，因此所含的热量很少。雖然還沒有完整的理論可以說明日冕的溫度，但至少已經知道有一部分熱是來自磁重聯[56][58]。
+太陽圈
+太陽圈，從大約20太陽半徑（0.1天文單位）到太陽系的邊緣，這一大片環繞著太陽的空間充滿了伴隨太陽風離開太陽的電漿。他的內側邊界是太陽風成為超阿耳芬波的那層位置－流體的速度超過阿耳芬波[59]。因為訊息只能以阿耳芬波的速度傳遞，所以在這個界限之外的湍流和動力學的力量不再能影響到內部的日冕形狀。太陽風源源不斷的進入太陽圈之中並向外吹拂，使得太陽的磁場形成螺旋的形狀[58]，直到在距離太陽超過50天文單位之外撞擊到日鞘為止。在2004年12月，航海家1號已穿越過被認為是日鞘部分的激波前緣。兩艘航海家太空船在穿越邊界時都偵測與記錄到能量超過一般微粒的高能粒子[60]。
+磁場
+太陽圈電流片延伸到太陽系外，結果是來自太陽的旋轉磁場影響到星際物質中的電漿[61]。
+太陽是磁力活躍的恆星，它支撐一個強大、年復一年在變化的磁場，並且大約每11年環繞著太陽極大期反轉它的方向[62]。太陽磁場會導致很多影響，稱為太陽活動，包括在太陽表面的太陽黑子、太陽閃焰、和攜帶著物質穿越太陽系且不斷變化的太陽風[63]。太陽活動對地球的影響包括在高緯度的極光，和擾亂無線電通訊和電力。太陽活動被認為在太陽系的形成和演化扮演了很重要的角色[64]。
+太陽因為高溫的緣故，所有的物質都是氣體和電漿，這使得太陽的轉速可能在赤道（大約25天）較快，而不是高緯度（在兩極約為35天）。太陽因緯度不同的較差自轉造成它的磁場線隨著時間而糾纏在一起，造成磁場圈，從太陽表面噴發出來，並觸發太陽形成系距性的太陽黑子和日珥（參見磁重聯）。隨著太陽每11年反轉它本身的磁場，這種糾纏創造了太陽發電機和11年的太陽磁場活動太陽週期[65][66]。
+太陽磁場朝太陽本體外更遠處延伸，磁化的太陽風電漿攜帶著太陽的磁場進入太空，形成所謂的行星際磁場[58]。由於電漿只能沿著磁場線移動，離開太陽的行星際磁場起初是沿著徑向伸展的。因位在太陽赤道上方和下方離開太陽的磁場具有不同的極性，因此在太陽的赤道平面存在著一層薄薄的電流層，稱為太陽圈電流片[58]。太陽的自轉使得遠距離的磁場和電流片旋轉成像是阿基米德螺旋結構，稱為派克螺旋[58]。行星際磁場的強度遠比太陽的偶極性磁場強大。太陽50-400μT的磁偶極（在光球）隨著距離的三次方衰減，在地球的距離上只有0.1 nT。然而，依據太空船的觀測，在地球附近的行星際磁場視這個數值的100倍，大約是5nT[67]。
+化學構造
+組成太陽的化學元素主要是氫和氦，以質量計算它們在太陽光球中分別佔74.9%和23.8%[68]。所有的重元素，在天文學中稱為金屬，只佔不到總質量的2%，含量最豐富的是氧（大約佔太陽質量的1%）、碳（0.3%）、氖（0.2%）、和鐵（0.2%）[69]。
+太陽繼承了形成它的星際物質中的化學成分：在太陽中的氫和氦來自太初核合成，金屬是由前一代恆星經由恆星核合成產生的，並在太陽誕生之前完成恆星演化將產物返回星際介質中的[70]。光球的化學成分通常被認為是與原始太陽系的組成相當[71]。然而，自從太陽形成，氦和重元素已經遷移出光球，因此現在光球中只有微量的氦，並且重元素也只有原始太陽的84%，而原恆星的太陽71.1%是氫，27.4%是氦，1.5%是金屬[68]。
+在太陽內部的部分，核融合將氫轉化成氦已經修改了組成，所以太陽的最內層大約有60%是氦，金屬的豐度則沒有改變。因為內部是輻射帶，沒有對流（參見之前的結構），沒有核融合的產物從核心上升進入光球[72]。
+前面所述的太陽重元素豐度通常都是使用分光術測量太陽表面的光球，和測量隕石中沒有被加熱溫度熔化的豐度。這些隕石被認為保留了恆星太陽的組成，因此沒有受到重元素的汙染。這兩種方法的結果是一致的[13]。
+個別電離的鐵族元素
+在1970年代，許多的研究聚焦在太陽鐵族元素的豐度[73][74]。雖然進行了一些重大的研究，但是直到1978年發現超精細結構之前，對鐵族元素（例如：鈷和錳）的豐度測定仍很困難[73]。
+基本上，在1960年代就已經完成對鐵族元素振子強度的第一次完整測量[75]，並且在1976年改進了振子強度的計算[76]。在1978年，得到了個別電離的鐵族元素豐度[73]。
+太陽和行星的質量分化的關係
+許多的作者都曾考慮過惰性氣體和同位素在太陽和行星之間的組成存在的質量分化[77]，例如行星的氖和氙與同位素在行星和太陽之間的相關性[78]。然而，至少在1983年，仍然普遍的認為整個太陽的成分如同大氣層的組成[79]。
+在1983年，才宣稱太陽本身的分化是造成行星和太陽風植入惰性氣體之間的分化關係[79]。
+太陽週期
+太陽黑子和太陽黑子週期
+在過去30年測量的太陽週期變化。
+當使用適當的過濾觀察太陽時，通常最能立刻看見的特徵就是太陽黑子，因為那是溫度較低而明確出現比周圍黑暗的區域。太陽黑子是強磁場的區域，對流受到強量磁場的抑制，減少了從高熱的內部傳送到表面的能量。磁場造成大量的熱進入日冕，形成的活動區是激烈的太陽閃焰和日冕物質拋射的來源。最大的太陽黑子有數萬公里的直徑[80]。
+在太陽上可以看見的太陽黑子數量並不是固定的，它以平均約11年的週期變化，形成所知的太陽週期。當太陽黑子週期進展時，太陽黑子的數量會增加，並且初系的位置也逐漸接近太陽的赤道，史波勒定律就是描述這種現象。太陽黑子通常都以磁性相異的形式成對出現，每一個太陽週期的前導黑子磁性會交替的改變，所以當一個太陽週期是磁北極前導，下一個太陽週期就是磁南極前導[81]。
+在過去大約250年觀測的太陽黑子數量，顯示出大約11年的太陽週期。
+因為太陽的光度與磁場活動有直接的關係，太陽週期不僅對太空天氣有很大的影響，對地球的氣候也有重大的影響[82]。太陽活動極小往往和低溫連繫再一起，而超過平均長度的週期則與高溫相關聯。在17世紀，太陽週期似乎完全停止了數十年，在這段期間只觀測到少數幾個太陽黑子。那個時代稱為蒙德極小期或小冰期，歐洲經歷了很冷的溫度[83]。分析樹木的年輪發現更早的一些極小期，並且也顯現出與全球的溫度低於平均溫度的期間相符合[84]。
+可能的長週期
+最近有理論宣稱在太陽核心的磁性不穩定導致週期為41,000年或100,000年的變異。這可以對冰河期和米蘭科維奇循環提供更好的解釋[85][86]。
+生命周期
+太陽是在大約45.7億年前在一個坍縮的氫分子雲內形成[87]。太陽形成的時間以兩種方法測量：太陽目前在主序帶上的年齡，使用恆星演化和太初核合成的電腦模型確認，大約就是45.7億年[88]。這與放射性定年法得到的太陽最古老的物質是45.67億年非常的吻合[89][90]。 太陽在其主序的演化階段已經到了中年期，在這個階段的核融合是在核心將氫融合成氦。每秒中有超過400萬吨的物質在太陽的核心轉化成能量，產生中微子和太陽輻射。以這個速率，到目前为止，太陽大約轉化了100個地球質量的物質成為能量，太陽在主序帶上耗費的時間總共大約為100億年[91]。
+太陽沒有足夠的質量爆發成為超新星，替代的是，在約50億年後它將進入紅巨星的階段，氦核心为抵抗重力而收缩，同时变热；紧挨核心的氢包层因温度上升而加速聚变，结果产生的热量持续增加，传导到外層，使其向外膨脹。當核心的溫度達到1亿K時，氦融合將開始進行並燃燒生成碳。由于此时的氦核心已经相当于一个小型“白矮星”（电子简并态），热失控的氦聚变将导致氦闪，释放的巨大能量使太阳核心大幅度膨胀，解除了电子简并态，然后核心剩余的氦进行稳定的聚变。从外部看，太阳将如新星般突然增亮5～10个星等（相比于此前的“红巨星”阶段），接着体积大幅度缩小，变得比原先的红巨星暗淡得多（但仍将比现在的太阳亮），直到核心的碳逐步累积，再次进入核心收缩、外层膨胀阶段。这就是漸近巨星分支階段[29]。
+太陽的生命循環；未依照大小的比例繪製。
+地球的命運是不確定的，當太陽成為紅巨星時，其半径大约会是現在的200倍，表面可能將膨脹至地球現在的軌道——1 AU（1.5×1011 m）[92]。然而，當太陽成為漸近巨星分支的恆星時，由於恆星風的作用，它大約已經流失30%的質量，所以地球的軌道會向外移動。如果只是這樣，地球或許可以倖免，但新的研究認為地球可能會因為潮汐的交互作用而被太陽吞噬掉[92]。但即使地球能逃推被太陽焚毀的命運，地球上的水仍然都會沸騰，大部分的氣體都會逃逸入太空。即使太陽仍在主序帶的現階段，太陽的光度仍然在緩慢的增加（每10億年约增加10%），表面的溫度也緩緩的提升。太陽過去的光度比較暗淡，這可能是生命在10億年前才出現在陸地上的原因。太陽的溫度若依照這樣的速率增加，在未來的10億年，地球可能會變得太熱，使水不再能以液態存在於地球表面，而使地球上所有的生物趋于滅絕[92][93]。
+繼紅巨星階段之後，激烈的熱脉动將導致太陽外層的氣體逃逸，形成行星狀星雲。在外層被剝離後，唯一留存下來的就是恆星炙熱的核心——白矮星，并在數十億年中逐漸冷卻和黯淡。這是低質量與中質量恆星演化的典型[94][95]。
+陽光
+陽光是地球能量的主要來源。太陽常數是在距離太陽1天文單位的位置（也就是在或接近地球），直接暴露在陽光下的每單位面積接收到的能量，其值約相當於1,368 W/m2（瓦每平方米）[96]。經過大氣層的吸收後，抵達地球表面的陽光已經衰減－在大氣清澈且太陽接近天頂的條件下也只有約1,000 W/m2[97]。
+有許多種天然的合成過程可以利用太陽能－光合作用是植物以化學的方式從陽光中擷取能量（氧的釋出和碳化合物的減少），直接加熱或使用太陽電池轉換成電的儀器被使用在太陽能發電的設備上，或進行其他的工作；有時也會使用集光式太陽能（也就是凝聚陽光）。儲存在原油和其它化石燃料中的能量是來自遙遠的過去經由光合作用轉換的太陽能[98]。
+在銀河系中的位置和運動
+太陽位於銀河系內側邊緣的獵戶臂，在本星際雲或古爾德帶，距離銀河中心7,500－8,500秒差距（25,000－28,000光年）的假設距離[99][100][101][102]，包含在太空中的一個稀薄高溫氣體，可能是由一顆超新星殘骸杰敏卡γ射線源的本地泡[103]。本地臂和外側的下一個旋臂，英仙臂，的距離大約是6,500光年[104]。太陽，和進而的太陽系，被發現是在科學家所謂的星系適居帶。 太陽奔赴點的方向，或是太陽向點，是太陽相對於鄰近恆星，穿越銀河系空間的運動方向。太陽在銀河系中的運動方向大約是朝向天琴座的織女星，與銀河中心在天空中分離的角度大約是60度。
+太陽繞銀河的軌道大致上是如預期橢圓形，但還要加上受到銀河系的旋臂和質量分布不均勻的擾動。此外，太陽相對於銀河平面上下的擺動大約是每一週期2.7次；這非常像是一種沒有受到阻尼的簡諧振盪。有人提出太陽經過高密度螺旋臂的時間與地球上大滅絕的時刻屢屢不謀而合，或許是因為碰撞事件增加了[105]。它大約花2億2500萬至2億5000萬年完整的繞行銀河一周（一個銀河年）[106]，所以在太陽過去的生命期中大概已經完整的繞行銀河20至25次了。太陽相對於銀河中心的軌道速度大約是250公里/秒[107]。以這樣的速度，太陽系大約1,190年可以旅行一光年的距離，或是7天移動1天文單位[108]。
+太陽相對於太陽系質心的運動受到來自行星的攝動是複雜的。每隔數百年變換一次順行和逆行[109]。
+理論上的問題
+太陽微中子問題
+多年以來從地球上檢測到的太陽電微中子數量只有標準模型預測的1⁄3到1⁄2，這種異常的結果被稱為太陽微中子問題。要解決這個問題，理論上曾試圖降低太陽內部的溫度，以解釋為中子流量的減少，或是提出電微中子可以振盪－也就是，在他們從太陽到地球的旅途中間轉變成為無法偵測到的τ微中子和μ微中子[110]。在1980年代建造了一些微中子觀測台，包括薩德伯里微中子天文台和神岡探測器，並盡可能的準確的測量微中子通量[111]。從這些觀測的結果最終導致發現微中子有很小的靜止質量和確實會振盪[45][112]。此外，薩德伯里微中子天文台在2001年有能力直接檢測出所有的三種微中子，並且發現太陽的總微中子輻射量與標準模型符合，而依據的依然只是從地球上看到，只佔總數三分之一的電微中子的能量[111][113]。這個比例是由米希耶夫-斯米爾諾夫-沃夫安史坦效應（也稱為物值效應）預測的，它描述微中子在物質間的振盪，而現在被重視成為這個問題的解答[111]。
+日冕高溫問題
+已知可見光的太陽表面（光球）只有大約6,000K的溫度，但是在其上的日冕溫度卻升高至1,000,000－2,000,000K[56]。日冕的高溫顯示它除了直接從光球傳導的熱之外，還有其他的熱能來源[58]。
+人們認為加熱日冕的能量來自光球下方對流帶的湍流，並且提出兩個加熱日冕的主要機制[56]。第一個是波加熱，來自於聲音、重力或磁流體坡在對流帶產生湍流[56]，這些波向上旅行並且在日冕中消散，將它們的能量以熱的形式儲存在包圍在四周的氣體內[114]。另一種是磁化熱，在光球的運動中磁能不斷的被建立，並且經由磁重聯的形式釋放能量，規模較大的是閃焰還有無數規模較小但相似的事件－毫微閃焰（Nanoflares）[115]。
+目前，還不清楚波是否有效的加熱機制，但除了阿耳芬波之外，已經發現其它的波在抵達日冕前都已經被驅散或折射[116]。另一方面，阿耳芬波在日冕中不容易消散，因此目前的研究已經聚焦和轉移到閃焰的加熱機制[56]。
+年輕太陽黯淡問題
+理論模型認為太陽在38至25億年前的古代時期，亮度只有現在的75%。這樣微弱的恆星不足以使地球表面的水維持液態，因此生命應該還沒有發展出來。然而，在地質上的紀錄表明當時的地球在其歷史上有相當穩定的溫度，並且年輕的地球和現在一樣的溫暖。科學家們的共識是年輕的地球大氣包含的溫室氣體（像是二氧化碳、甲烷和/或氨）的量比現在要多，而被困住的熱量足以彌補抵達地球太陽能的不足[117]。
+現在的異常
+太陽目前有一些行為出現了異常[118][119]：
+ 這是一次非比尋常的極小期，自2008年5月起，有比以往長的一段時間，太陽表面一塵不染，看不見任何一顆黑子的出現。
+ 它比平常暗了一些；與上一次的極小期比較，在可見光波長的輸出少了0.02%，在遠紫外線波長上少了6% [120]。
+ 在過去的20年，太陽風的速度下降了3%，溫度下降13%，密度也減少了20% [121]。
+ 與22年前的極小期比較，它的磁場強度只有當時的一半，結果是造成充滿整個太陽系的太陽圈收縮，因此撞擊到地球和它的大氣層的宇宙射線的程度增加。
+觀測的歷史
+人类对太阳的观测可以追溯到公元前2000年，在中国古代的典籍《尚书》中记载了发生在夏代的一次日食。中国古代汉字中用⊙代表太阳，表明中国很早以前就已看到了太阳黑子。《汉书·五行志》中记载了人类最早的黑子记录：“日出黄，有黑气大如钱，居日中央。”公元前400年，希腊人曾经看到过太阳黑子，但在欧洲被遗忘，直到1605年伽利略通过望远镜重新发现了它。
+早期的了解和語源
+這個在丹麥國家博物館中展出的雕塑可能是前1350年的作品。這個由一匹馬拉著的雷鳴太陽戰車雕塑，相信在闡明北歐青銅時代的神話中占有很重要的地位。
+說文解字：日，實也，大易之精不虧，從○一象形。凡日之屬皆從日。日古文象形。
+人類對太陽的最基本了解是在天空上發光的一個圓盤，當它在地平線上時創造了白天，消失時就造成夜晚。在許多古文化和史前文化中，太陽被認為是太陽神或其他超自然的現象。像是南美的印加和阿茲特克（現在的墨西哥）都有崇拜太陽的中心文化；許多古蹟的修築都與太陽現象有關，例如巨石準確的標示出冬至或夏至至點的方向（一些知名的石柱群諸如埃及納布塔普拉雅、馬爾他姆那拉和英國巨石陣）；紐格萊奇墓，一個史前人類在愛爾蘭的建築物，目的是在檢測冬至；在墨西哥奇琴伊察的艾爾堡金字塔設計成在春分和秋分的影子像蛇在爬金字塔的樣子。 在羅馬帝國晚期太陽的生日是在冬至之後的一個慶典假日，稱為無敵太陽，有可能就是聖誕節的前身。作為一顆恆星，從地球上看到太陽每年沿著黃道帶上的黃道繞行一圈，所以希臘天文學家認為它也是七顆行星之一；在一些語言中還用來命名一周七天中的一天[122][123][124]。
+科學認識的發展
+File:Observing The Sun.OGG 
+伽利略在1609年發現太陽黑子后，人类便持续关注着太阳。
+在西元前1,000年，巴比倫天文學家觀察到太陽沿著黃道的運動是不均勻的，雖然他們不瞭解為何會如此。而今天我們知道是因為地球以橢圓軌道繞著太陽運行，使得地球在接近近日點的速度較快，而在遠日點時速度較慢[125]。 第一位嘗試以科學或哲學解釋太陽的人是希臘哲學家阿那克薩哥拉，他推斷太陽是一個巨大的金屬火球，比在伯羅奔尼撒的赫利俄斯戰車還要大，同時月球是反射太陽的光[126]。他因為傳授這種異端被判決死刑而遭到囚禁，後來因為伯里克利介入調解而獲釋。埃拉托斯特尼在西元前3世紀估計地球和太陽之間的距離大約是“400和80,000斯達地”[note 4]，其中的翻譯是含糊不清的，暗示是4,080,000斯達地（755,000公里）或是804,000,000斯達地（148至153百萬公里，或0.99至1.02天文單位）；後面的數值與今天所用的誤差只有幾個百分點。在西元前一世紀，托勒密估計這個距離是地球半徑的1,210倍，大約是771萬公里（0.0515 AU）[127]。
+古希臘的阿里斯塔克斯在西元前3世紀最早提出行星是以太陽為中心環繞著運轉的理論，稍後得到塞琉西亞的塞琉古的認同（參見日心說）。這在很大程度上仍是哲學上的預測，到了16世紀才由哥白尼發展出數學模型的日心系統。在17世紀初期，望遠鏡的發明使得托馬斯·哈里奧特、伽利略和其它的天文學家能夠詳細的觀察太陽黑子。伽利略做出一些已知是最早觀測太陽黑子的報告，並提出它們是在太陽的表面，而不是通過地球和太陽之間的小天體[128]。漢朝（西元前206至西元220年）的中國天文學家也對黑子持續觀測和記錄了數個世紀。伊斯蘭的伊本·魯世德也提供了12世紀的黑子描述[129]。
+阿拉伯天文學的貢獻包括巴塔尼發現太陽離心率的方向變化[130]，和伊本·尤努斯（Ibn Yunus）多年來使用大的星盤觀察超過10,000次的太陽位置[131]。伊本·西那在1032年第一次觀測到金星凌日，他推論出金星比地球更靠近太陽[132]，而伊本·巴哲則是在12世紀曾記錄觀測到兩顆行星凌日[133]。
+1239年，俄罗斯的编年史中曾提到过日珥，称其为“火舌”，1842年在一次日食中重新发现了日珥。1843年，Schwabe发现了太阳活动的11年周期，1851年在一次日食中拍摄到了第一张日冕的照片。1859年人们发现了太阳耀斑。
+在1672年，喬凡尼·多美尼科·卡西尼和讓·里歇爾確定了火星的距離，因此可以計算出太陽的距離。艾薩克·牛頓使用三稜鏡觀察太陽光，顯示出陽光是由各種不同的顏色組合而成[134]，而威廉·赫歇爾在1800年發現在超越太陽光譜的紅色部分之外，還有紅外線的輻射[135]。19世紀的光譜學使太陽研究有所進展。1824年，夫朗和斐首度發現光譜中的吸收線，最強的幾條吸收線迄今仍被稱為夫朗和斐線；將太陽光譜展開，可以發現更大量的吸收線，造成更多的顏色消失不見。1868年又在太阳光谱中发现了一种新的元素，取名为氦（helium，意为太阳神）；次年又发现了新的谱线，认为是另外一种元素，定名为coronium，后來证明这只是普通元素的高电离态谱线。
+在現代科學時代的初期，太陽能量的來源是個巨大的謎。凱爾文爵士提出太陽是一個正在冷卻的液體球，輻射出儲藏在內部的熱[136]。凱爾文和赫爾曼·馮·亥姆霍茲然後提出重力收縮機制來解釋能量的輸出。很不幸的，由此產生的年齡估計只有2,000萬歲，遠短於當時以地質上的發現所估計出至少3億年的時間跨度[136]。在1890年，約瑟夫·洛克爾在太陽光譜中發現氦，提出太陽形成和演化的隕石說[137]。
+直到1904年解決的方案才被提出，拉塞福提出太陽的輸出可以由內部的熱源提供，並提出放射性衰變是這個來源[138]。不過，阿爾伯特·愛因斯坦提出的質能等價關係E = mc2為太陽的能量來源提供了線索[139]。
+1908年，美国天文学家海耳发现黑子具有很强的磁场。1930年发明了日冕仪，使得随时观测日冕成为可能。
+在1920年，亞瑟·愛丁頓爵士提出在太陽核心的溫度和壓力導致核融合將氫（質子）合併成氦核，從質量淨變動的結果產生了能量[140]。塞西莉亞·佩恩-加波施金在1925年證實氫在太陽中佔的優勢，核融合的理論概念也在1930年代由天文物理學家蘇布拉馬尼揚·錢德拉塞卡和漢斯·貝特發展出來。漢斯·貝特仔細的計算了兩種太陽能量主要來源的核反應，在1938年提出了恒星内部质子-质子鏈反应和碳氮氧循环两种核反应过程，阐明了太阳的能源机制。[141][142]。
+最後，瑪格麗特·伯比奇在1957年發表了名為“在恆星內部的元素合成”的論文[143]，這篇論文令人信服的論證出，在宇宙中絕大部分恆星內部的元素合成，都像我們的太陽一樣。
+1975年Deubner奠定了日震学的基础。
+太陽太空任務
+File:Moon transit of sun large.ogg 
+日地關係衛星B的紫外線成像照相機在校準過程中捕捉到的月球凌日[144]。
+最早被設計來觀察太陽的衛星是NASA在1959年至1968年發射的先鋒5、6、7、8、和9號。這些探測器在與地球相似的距離上環繞著太陽，並且首度做出太陽風和太陽磁場的詳細測量。先鋒9號運轉的時間特別長，直到1983年5月還在傳送資料[145][146]。
+在1970年代，兩艘太陽神太空船和天空實驗室的阿波羅望遠鏡架台為科學家提供了大量的太陽風和日冕的資料。太陽神1號和2號太空船是美國和德國合作，在水星近日點內側的軌道上研究太陽風[147]，天空實驗室是NASA在1973年發射的太空站，包括一個由駐站的太空人操作，稱為阿波羅望遠鏡架台的太陽天文台[57]。天空實驗室首度從太陽日冕的紫外線輻射中分辨出太陽的過渡區[57]。它的發現還包括首度觀測到日冕物質拋射，然後被稱為日冕瞬變，和現在已經知道與太陽風關係密切的冕洞[147]。
+在1980年，NASA發射了SMM，這艘太空船設計在太陽最活躍的期間和太陽發光率，以γ射線、X射線和紫外線觀察來自太陽閃焰的輻射。不過，就在發射之後幾個月，因為內部的電子零件故障，造成探測器進入待機模式，之後的三年它都處在這種待命的狀態。在1984年，挑戰者號太空梭在STS-41C的任務中取回這顆衛星，修復了電子零件後再送回軌道。之後，太陽極限任務在1989年6月重返地球的大氣層之前，獲得了成千上萬的影像[148]。
+日本在1991年發射的陽光衛星在X射線的波長觀測太陽閃焰，任務中獲得的資料讓科學家可以分辨不同類型的閃焰，並驗證了在離開活動高峰期的日冕有著比過去所假設的更多活動和動態。陽光衛星觀測了整個的太陽週期，但是在2001年的一次日全食使它不能鎖定太陽而進入了待機模式。它在2005年以重返大氣層的方法銷毀[149]。
+最重要的太陽任務之一是1995年12月2日由歐洲太空總署和美國國家航空暨太空總署共同建造和發射的太陽和太陽風層探測器（SOHO）[57]。原本只是一個為期兩年的任務，但在2009年批准將計畫延長至2012年[150]。它證明了對2010年2月發射的太陽動力學天文台非常有用[151]，SOHO位於地球和太陽之間的拉格朗日點（兩著引力的平衡點），SOHO自發射以來，在許多波段上提供了太陽的常規觀測圖[57]。除了直接觀測太陽，SOHO還促成了大量彗星的發現，它們絕大多數都是暗淡的，在經過太陽時會被焚毀的掠日彗星[152]。
+所有的這些衛星都是在黃道平面上觀測太陽，所以只能看清楚太陽在赤道附近的地區。研究太陽極區的尤里西斯號探測器在1990年發射，它先航向木星，經由這顆行星的彈射進入脫離黃道平面的軌道。無心插柳的，使它成為觀察1994年舒梅克－李維九號彗星撞木星的最佳人選。一旦尤里西斯進入預定的軌道後，它開始觀察高緯度上的太陽風和磁場強度，發現高緯度的太陽風以低於預測的705公里/秒的速度運動，還有大量的磁波從高緯度發射出來，散射了來自銀河系的宇宙射線[153]。
+從光譜的研究已經熟知光球的元素豐度，但對於太陽內部的成分所知仍很貧乏。將太陽風樣本帶回的起源號被設計來讓天文學家直接測量太陽物質的成分。起源號在2004年返回地球，但是因為它的一個降落傘在重返大氣層時未能張開，使它在著陸時墜毀。儘管受到嚴重的破換，一些可用的樣本還是被從太空船的樣本返回模組艙帶回並且正在進行研究與分析[154]。
+日地關係天文台（STEREO）任務在2006年10月發射，兩艘相同的太空船分別被送進在地球軌道前方和後方並逐漸遠離地球的位置上，這使得太陽和太陽現象的影像，如日冕物質拋射可以立體成像[155][156]。
+其他太阳观测卫星还有美国1998年发射的TRACE卫星、2002年发射的RHESSI卫星、2006年发射的STEREO卫星，日本在2006年发射的日出卫星（Solar-B）等。
+觀測和成效
+從地球表面看到的太陽
+太陽非常明亮，以裸眼直視太陽在短時間內就會很不舒服，但對於沒有完全睜開的眼睛還不致於立即造成危害[157][158]。直接看太陽會造成視覺上的光幻視和暫時部分失明，只要4毫瓦的陽光對視網膜稍有加熱就可能造成破壞，使眼睛對光度不能做出正確的回應[159][160]。暴露在紫外線下會使眼睛的水晶體逐漸變黃，並且被認為還會形成白內障，但是這取決於是否經常曝露在太陽的紫外線下，而不是是否直接目視太陽[161]。儘管已經知道暴露在紫外線的環境下，會加速眼睛外層的老化和白內障的形成，當日食發生的時候還是有許多不當注視太陽所引發的日食目盲或視網膜灼傷。長時間用肉眼直接看太陽會受到紫外線的誘導，大約100秒鐘視網膜就會灼傷產生病變，特別是在來自太陽的紫外線強度較高和被聚焦的情況下[162][163]；對孩童的眼睛和新植入的水晶體情況會更為惡化（它們比成熟的眼睛承受了更多的紫外線）、以及太陽的角度接近地平、和在高緯度的地區觀測太陽。
+通過將光線集中的光學儀器，像是雙筒望遠鏡觀察太陽，若沒有用濾鏡將光線做實質上的減弱和遮擋紫外線是很危險的。柔光的ND濾鏡可能不會濾除紫外線，所以依然是危險的。用來觀測太陽的衰減濾鏡必須使用專門設計的：紫外線或紅外線會穿透一些臨時湊合的濾鏡，在高亮度時一樣還是會傷害到眼睛[164]。 沒有濾鏡的雙筒望遠鏡可能會導入超500倍以上的能量，用肉眼看幾乎立即殺死視網膜的細胞，對視網膜造成傷害。在正午的陽光下，透過沒有濾鏡的雙筒望遠鏡看太陽，即使只是短暫的一瞥，都可能導致永久的失明[165]。
+因為眼睛的瞳孔不能適應異常高的光度對比，觀看日偏食是很危險的：瞳孔是依據進入視場的總光亮，而不是依據最明亮的光來擴張。當日偏食的時候，因為月球行經太陽前方遮蔽了部分的陽光，但是光球未被遮蔽的部分依然有著與平常的白天相同的表面亮度。在完全黑暗的環境下，瞳孔可以從2mm擴張至6mm，每個暴露在太陽影像下的視網膜細胞會接收到十倍於觀看未被遮住的太陽光量。這會損壞或殺死這些細胞，導致觀看者出現小但永久的盲點[166]。對沒有經驗的觀測者和孩童，這種危害是不知不覺的，因為不會感覺到痛：它不是立即可以察覺自己的視野被摧毀。
+陽光會因為瑞利散射和米氏散射而減弱，特別是當日出和日落時經過漫長的地球大氣層時[167]，使得陽光有時會很柔和，可以舒服的用肉眼或安全的光學儀器觀看（只要沒有陽光會突然穿透雲層的風險）。煙霧、大氣的粉塵、和高濕度都有助於大氣衰減陽光[168]。 一種罕見的光學現象會在日出之前或日落之後短暫的出現，就是所知的綠閃光。這種閃光是太陽正好在地平線下被彎曲（通常是通過逆溫層）朝向觀測者造成的。短波長的光（紫色、藍色和綠色）被偏折的比長波長的多（黃色、橙色、紅色），但是紫色和藍色被散色的較多，留下的綠色就較容易被看見[169]。
+來自太陽的紫外線具有防腐的性質，可以做為水和工具的消毒。它也會使皮膚曬傷，和其他醫療的效應，例如維生素D的生成。地球的臭氧層會使紫外線減弱，所以紫外線的強度會隨著高度的增加而加強，並且有許多生物已經產生適應的能力，包括在全球不同地區的人種有著不同的膚色變化[170]。
+術語
+如同其它的自然現象，太陽在整個的人類歷史上受到許多文化的崇拜，並且是星期日這個詞的來源。依據國際天文聯合會，它在英語中的正式名稱是“Sun”（作為專有名詞，第一個字母要大寫）[171]。拉丁文的名稱是“Sol”（英语发音：/ˈsɒl/），太陽神有著相同的名稱，這是眾所周知但在英文中卻不常用到；相關的形容詞是“solar”[172][173]。“Sol”是太陽在許多歐洲語系中的現代用語[174]。
+“Sol”這個名詞也被行星天文學家使用來表示其它行星，像是火星上的太陽日[175]。地球的平均太陽日大約是24小時，火星上的“太陽日”是24小時39分又35.244秒[176]。
+太阳伴星
+有不少天文学家认为，太阳有一颗不大的伴星，并把它命名为“复仇女神星”。但这颗伴星的存在与否仍存在争议。
+人類文化中的太陽
+西雅圖的至日點遊行
+太阳的重要性
+太阳对人类而言至关重要。地球大气的循环，昼夜与四季的轮替，地球冷暖的变化都是太阳作用的结果。对于天文学家来说，太阳是唯一能够观测到表面细节的恒星。通过对太阳的研究，人类可以推断宇宙中其他恒星的特性，人类对恒星的了解大部分都来自于太阳。
+太阳与神话
+ 在希腊神话中，太阳的保护神是阿波罗。
+ 在中国神话传说中，太阳是妖皇一族：三足金乌。《淮南子·本經訓》：「逮至堯之時，十日並出，焦禾稼，殺草木，而民無所食。」《竹書紀年》亦載「八年，天有妖孽，十日並出」。《山海經·海外東經》和《大荒南經》、《楚辭·天問》等亦載有此傳說。
+ 在北歐神話中，蘇爾是駕駛日車的女神。
+ 世界上有許多國家把太陽當作設計國旗的靈感來源，詳見太陽旗條目。
+參見
+ 太陽系探測器列表
+ 太陽系探索時間線
+ 先進組合探測器
+ 反日點
+ 冕雲
+ 日震學
+ 恆星亮度列表
+ 太陽天文學
+ 太陽能
+ 太陽表面融合
+ 太陽系
+ 太陽X射線天文學
+ 恆星光譜
+ 人類文化中的太陽
+ 太陽神
+ 太陽-地球日
+ 尤里西斯号
+ 起源号
+ 太阳神号探测器
+ 太阳辐射
+ 太阳风
+ 极光
+ 气辉
+ 日蝕
+ 太阳天文学时间表
+ 太阳常数
+ 太阳磁场
+ 太阳活动
+ 太阳活动预报
+ 太阳同步轨道
+ 太阳物理学
+ 太阳自转
+ 恆星演化
+ 暗能量星
+ 黑洞
+註解
+ ^ 在天文學中，“重元素”（或“金屬”）是指除了氫和氦比以外的所有元素
+ ^ 一個體重50公斤的成人，體積大約是0.05立方米，在太陽中心相當於13.8瓦的能量容量。在沒有壓力的情況下，一個人每天吸收和消耗的能量平均大約是285千卡，這只是大約10%的需求量。
+ ^ 地球的大氣層在靠近海平面的粒子密度大約是2×1025 m−3。
+ ^ 斯達地是古希臘、羅馬的長度單位，約＝600希臘尺，合607英尺；賽跑場的跑道以這個長度為准。
+參看
+ Kenneth R. Lang: Die Sonne - Stern unserer Erde. Springer, Berlin - Heidelberg - New York 1996. ISBN 3-540-59437 （德文）
+ Rudolf Kippenhahn: Der Stern von dem wir leben. DVA, Stuttgart 1990. ISBN 3-421-02755-2 （德文）
+ Helmut Scheffler, Hans Elsässer: Physik der Sterne und der Sonne. BI-Wiss.-Verl., Mannheim 1990. ISBN 3-411-14172-7 （德文）
+ Sackmann, I. et al., 1993, Astrophysical Journal, 418, 457 ADS ISSN 0004-637x （英文）
+ C. Bounama, W. v. Bloh, S. Franck: Das Ende des Raumschiffs Erde. in: Spektrum der Wissenschaft. Spektrum, Heidelberg 2004,10（Okt.）,S.52–59. ISSN 0170-2971 （德文）
+ Wolfgang Mattig: Die Sonne. C.H.Beck, München 1995. ISBN 3-406-39001-3 （德文）
+ Wolfgang Mattig: Bevor die Sonnenbeobachtung zur Sonnenphysik wurde – in Deutschland und Umgebung. in: SONNE. Mitteilungsblatt der Amateursonnenbeobachter. Berlin 2002,103, 67（online - pdf）. ISSN 0721-0094 （德文）
+ Michael Stix: The Sun - An Introduction. Springer, New York 2004. ISBN 3-540-20741-4 （英文）
+ Josef Langer: Theoria motuum Solis et Lunae. （德文）
+參考資料
+ ^ 1.00 1.01 1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 1.11 1.12 1.13 1.14 1.15 Williams, D. R. Sun Fact Sheet. NASA. 2004 [2010-09-27].
+ ^ Asplund, M.; N. Grevesse and A. J. Sauval. The new solar abundances - Part I: the observations. Communications in Asteroseismology. 2006, 147: 76–79. Bibcode:2006CoAst.147...76A. doi:10.1553/cia147s76.
+ ^ Eclipse 99: Frequently Asked Questions. NASA. [2010-10-24].
+ ^ Hinshaw, G.; et al.. Five-year Wilkinson Microwave Anisotropy Probe observations: data processing, sky maps, and basic results. The Astrophysical Journal Supplement Series. 2009, 118: 225–245. Bibcode:2009ApJS..180..225H. doi:10.1088/0067-0049/180/2/225.
+ ^ 5.00 5.01 5.02 5.03 5.04 5.05 5.06 5.07 5.08 5.09 5.10 5.11 Solar System Exploration: Planets: Sun: Facts & Figures. NASA. （原始内容存档于2008-01-02）.
+ ^ Ko, M. Density of the Sun. In Elert, G. The Physics Factbook. 1999.
+ ^ Principles of Spectroscopy. 密歇根大学, Astronomy Department. 30 August 2007.
+ ^ 8.0 8.1 Seidelmann, P. K.; et al.. Report Of The IAU/IAG Working Group On Cartographic Coordinates And Rotational Elements Of The Planets And Satellites: 2000. 2000 [2006-03-22].
+ ^ The Sun's Vital Statistics. Stanford Solar Center. [2008-07-29]., citing Eddy, J. A New Sun: The Solar Results From Skylab. NASA. 1979. 37. NASA SP-402.
+ ^ How Round is the Sun?. NASA. 2 October 2008 [7 March 2011].
+ ^ First Ever STEREO Images of the Entire Sun. NASA. 6 February 2011 [7 March 2011].
+ ^ Woolfson, M. The origin and evolution of the solar system. Astronomy & Geophysics. 2000, 41 (1): 1.12. doi:10.1046/j.1468-4004.2000.00012.x.
+ ^ 13.0 13.1 Basu, S.; Antia, H. M. Helioseismology and Solar Abundances. Physics Reports. 2008, 457 (5–6): 217. arXiv:0711.4590. Bibcode:2008PhR...457..217B. doi:10.1016/j.physrep.2007.12.002.
+ ^ Sun. World Book. NASA. [2009-10-31].
+ ^ Wilk, S. R. The Yellow Sun Paradox. Optics & Photonics News. 2009: 12–13.
+ ^ Than, K. Astronomers Had it Wrong: Most Stars are Single. Space.com. 2006 [2007-08-01].
+ ^ Lada, C. J. Stellar multiplicity and the initial mass function: Most stars are single. Astrophysical Journal Letters. 2006, 640 (1): L63–L66. Bibcode:2006ApJ...640L..63L. doi:10.1086/503158.
+ ^ Burton, W. B. Stellar parameters. Space Science Reviews. 1986, 43 (3–4): 244–250. doi:10.1007/BF00190626.
+ ^ Bessell, M. S.; Castelli, F.; Plez, B. Model atmospheres broad-band colors, bolometric corrections and temperature calibrations for O–M stars. Astronomy and Astrophysics. 1998, 333: 231–250. Bibcode:1998A&A...333..231B.
+ ^ A Star with two North Poles. Science @ NASA. NASA. 22 April 2003.
+ ^ Riley, P.; Linker, J. A.; Mikić, Z. Modeling the heliospheric current sheet: Solar cycle variations. Journal of Geophysical Research. 2002, 107 (A7): SSH 8–1. Bibcode:2002JGRA.107g.SSH8R. doi:10.1029/2001JA000299. CiteID 1136.
+ ^ Adams, F. C.; Laughlin, G.; Graves, G. J. M. Red Dwarfs and the End of the Main Sequence. Revista Mexicana de Astronomía y Astrofísica. 2004, 22: 46–49. Bibcode:2004RMxAC..22...46A.
+ ^ Kogut, A.; et al. Dipole Anisotropy in the COBE Differential Microwave Radiometers First-Year Sky Maps. Astrophysical Journal. 1993, 419: 1. Bibcode:1993ApJ...419....1K. doi:10.1086/173453.
+ ^ Equinoxes, Solstices, Perihelion, and Aphelion, 2000–2020. US Naval Observatory. 31 January 2008 [2009-07-17].
+ ^ Simon, A. The Real Science Behind the X-Files : Microbes, meteorites, and mutants. Simon & Schuster. 2001: 25–27. ISBN 0684856182.
+ ^ Godier, S.; Rozelot, J.-P. The solar oblateness and its relationship with the structure of the tachocline and of the Sun's subsurface (PDF). Astronomy and Astrophysics. 2000, 355: 365–374. Bibcode:2000A&A...355..365G.
+ ^ Phillips, Kenneth J. H. Guide to the Sun. Cambridge University Press. 1995: 78–79. ISBN 9780521397889.
+ ^ Schutz, Bernard F. Gravity from the ground up. Cambridge University Press. 2003: 98–99. ISBN 9780521455060.
+ ^ 29.0 29.1 29.2 Zeilik, M.A.; Gregory, S.A. Introductory Astronomy & Astrophysics 4th. Saunders College Publishing. 1998. 322. ISBN 0030062284.
+ ^ Falk, S.W.; Lattmer, J.M.; Margolis, S.H. Are supernovae sources of presolar grains?. Nature. 1977, 270 (5639): 700–701. doi:10.1038/270700a0.
+ ^ Zirker, Jack B. Journey from the Center of the Sun. Princeton University Press. 2002. 11. ISBN 9780691057811.
+ ^ Phillips, Kenneth J. H. Guide to the Sun. Cambridge University Press. 1995. 73. ISBN 9780521397889.
+ ^ Phillips, Kenneth J. H. Guide to the Sun. Cambridge University Press. 1995: 58–67. ISBN 9780521397889.
+ ^ 34.0 34.1 García, R.; et al. Tracking solar gravity modes: the dynamics of the solar core. Science. 2007, 316 (5831): 1591–1593. Bibcode:2007Sci...316.1591G. doi:10.1126/science.1140598. PMID 17478682.
+ ^ Basu et al.; Chaplin, William J.; Elsworth, Yvonne; New, Roger; Serenelli, Aldo M. Fresh insights on the structure of the solar core. The Astrophysical Journal. 2009, 699 (699): 1403. Bibcode:2009ApJ...699.1403B. doi:10.1088/0004-637X/699/2/1403.
+ ^ 36.0 36.1 36.2 36.3 36.4 NASA/Marshall Solar Physics. Solarscience.msfc.nasa.gov. 2007-01-18 [2009-07-11].
+ ^ Broggini, Carlo. Nuclear Processes at Solar Energy. Physics in Collision. 26–28 June 2003: 21. arXiv:astro-ph/0308537. Bibcode:2003phco.conf...21B.
+ ^ Zirker, Jack B. Journey from the Center of the Sun. Princeton University Press. 2002: 15–34. ISBN 9780691057811.
+ ^ 39.0 39.1 Phillips, Kenneth J. H. Guide to the Sun. Cambridge University Press. 1995: 47–53. ISBN 9780521397889.
+ ^ p. 102, The physical universe: an introduction to astronomy, Frank H. Shu, University Science Books, 1982, ISBN 0-935702-05-9.
+ ^ Table of temperatures, power densities, luminosities by radius in the Sun
+ ^ Haubold, H.J.; Mathai, A.M. Solar Nuclear Energy Generation & The Chlorine Solar Neutrino Experiment. Basic space science. AIP Conference Proceedings. May 18, 1994, 320: 102. arXiv:astro-ph/9405040. Bibcode:1995AIPC..320..102H. doi:10.1063/1.47009.
+ ^ Myers, Steven T. Lecture 11 – Stellar Structure I: Hydrostatic Equilibrium. 1999-02-18 [15 July 2009].
+ ^ NASA. Ancient Sunlight. Technology Through Time. 2007, (50) [2009-06-24].
+ ^ 45.0 45.1 Schlattl, H. Three-flavor oscillation solutions for the solar neutrino problem. Physical Review D. 2001, 64 (1): 013009. doi:10.1103/PhysRevD.64.013009.
+ ^ 46.0 46.1 46.2 46.3 46.4 46.5 Nasa – Sun. Nasa.gov. 2007-11-29 [2009-07-11].
+ ^ ed. by Andrew M. Soward... The solar tachocline: Formation, stability and its role in the solar dynamo//Fluid dynamics and dynamos in astrophysics and geophysics reviews emerging from the Durham Symposium on Astrophysical Fluid Mechanics, July 29 to August 8, 2002. Boca Raton: CRC Press. 2005: 193–235. ISBN 9780849333552.
+ ^ Mullan, D.J. Solar Physics: From the Deep Interior to the Hot Corona//In Page, D., Hirsch, J.G. From the Sun to the Great Attractor. Springer. 2000. 22. ISBN 9783540410645.
+ ^ 49.0 49.1 49.2 49.3 49.4 49.5 49.6 49.7 49.8 Abhyankar, K.D. A Survey of the Solar Atmospheric Models. Bull. Astr. Soc. India. 1977, 5: 40–44. Bibcode:1977BASI....5...40A.
+ ^ Gibson, E.G. The Quiet Sun. NASA. 1973.
+ ^ Shu, F.H. The Physics of Astrophysics 1. University Science Books. 1991. ISBN 0935702644.
+ ^ Parnel, C. Discovery of Helium. University of St Andrews. [2006-03-22].
+ ^ De Pontieu, B.; et al. Chromospheric Alfvénic Waves Strong Enough to Power the Solar Wind. Science. 2007, 318 (5856): 1574–77. doi:10.1126/science.1151747. PMID 18063784.
+ ^ Solanki, S.K.; , W. and Ayres, T. New Light on the Heart of Darkness of the Solar Chromosphere. Science. 1994, 263 (5143): 64–66. doi:10.1126/science.263.5143.64. PMID 17748350.
+ ^ 55.0 55.1 55.2 Hansteen, V.H.; Leer, E. The role of helium in the outer solar atmosphere. The Astrophysical Journal. 1997, 482 (1): 498–509. Bibcode:1997ApJ...482..498H. doi:10.1086/304111.
+ ^ 56.0 56.1 56.2 56.3 56.4 56.5 56.6 Erdèlyi, R.; Ballai, I. Heating of the solar and stellar coronae: a review. Astron. Nachr. 2007, 328 (8): 726–733. doi:10.1002/asna.200710803.
+ ^ 57.0 57.1 57.2 57.3 57.4 Dwivedi, Bhola N. Our ultraviolet Sun (pdf). Current Science. 2006, 91 (5): 587–595.
+ ^ 58.0 58.1 58.2 58.3 58.4 58.5 58.6 Russell, C.T. Solar wind and interplanetary magnetic filed: A tutorial (pdf)//In Song, Paul; Singer, Howard J. and Siscoe, George L. Space Weather (Geophysical Monograph). American Geophysical Union. 2001: 73–88. ISBN 978-0875909844.
+ ^ A.G, Emslie; J.A., Miller. Particle Acceleration//In Dwivedi, B.N. Dynamic Sun. Cambridge University Press. 2003. 275. ISBN 9780521810579.
+ ^ The Distortion of the Heliosphere: Our Interstellar Magnetic Compass, 新聞稿. European Space Agency. 2005 [2006-03-22].
+ ^ The Mean Magnetic Field of the Sun. Wilcox Solar Observatory. 2006 [2007-08-01].
+ ^ Zirker, Jack B. Journey from the Center of the Sun. Princeton University Press. 2002: 119–120. ISBN 9780691057811.
+ ^ Zirker, Jack B. Journey from the Center of the Sun. Princeton University Press. 2002: 120–127. ISBN 9780691057811.
+ ^ Phillips, Kenneth J. H. Guide to the Sun. Cambridge University Press. 1995: 14–15, 34–38. ISBN 9780521397889.
+ ^ Sci-Tech – Space – Sun flips magnetic field. CNN. 2001-02-16 [2009-07-11].
+ ^ The Sun Does a Flip. Science.nasa.gov. 2001-02-15 [2009-07-11].
+ ^ Wang, Y.-M.; Sheeley, N.R. Modeling the Sun's Large-Scale Magnetic Field during the Maunder Minimum. The Astrophysical Journal. 2003, 591 (2): 1248–56. Bibcode:2003ApJ...591.1248W. doi:10.1086/375449.
+ ^ 68.0 68.1 Lodders, K. Solar System Abundances and Condensation Temperatures of the Elements. Astrophysical Journal. 2003, 591 (2): 1220. Bibcode:2003ApJ...591.1220L. doi:10.1086/375492.
+ Lodders, K. Abundances and Condensation Temperatures of the Elements (PDF). Meteoritics & Planetary Science. 2003, 38 (suppl.): 5272. Bibcode:2003M&PSA..38.5272L.
+ ^ Hansen, C.J.; Kawaler, S.A.; Trimble, V. Stellar Interiors: Physical Principles, Structure, and Evolution 2nd. Springer. 2004: 19–20. ISBN 0387200894.
+ ^ Hansen, C.J.; Kawaler, S.A.; Trimble, V. Stellar Interiors: Physical Principles, Structure, and Evolution 2nd. Springer. 2004: 77–78. ISBN 0387200894.
+ ^ Aller, L.H. The chemical composition of the Sun and the solar system. Proceedings of the Astronomical Society of Australia (PDF). 1968, 1: 133. Bibcode:1968PASAu...1..133A.
+ ^ Hansen, C.J.; Kawaler, S.A.; Trimble, V. Stellar Interiors: Physical Principles, Structure, and Evolution 2nd. Springer. 2004: § 9.2.3. ISBN 0387200894.
+ ^ 73.0 73.1 73.2 Biemont, E. Abundances of singly ionized elements of the iron group in the Sun. Monthly Notices of the Royal Astronomical Society. 1978, 184: 683–694. Bibcode:1978MNRAS.184..683B.
+ ^ Ross and Aller 1976, Withbroe 1976, Hauge and Engvold 1977, cited in Biemont 1978.
+ ^ Corliss and Bozman (1962 cited in Biemont 1978) and Warner (1967 cited in Biemont 1978)
+ ^ Smith (1976 cited in Biemont 1978)
+ ^ Signer and Suess 1963; Manuel 1967; Marti 1969; Kuroda and Manuel 1970;Srinivasan and Manuel 1971, all cited in Manuel and Hwaung 1983
+ ^ Kuroda and Manuel 1970 cited in Manuel and Hwaung 1983:7
+ ^ 79.0 79.1 Manuel, O.K.; Hwaung, G. Solar abundances of the elements. Meteoritics (PDF). 1983, 18 (3): 209. Bibcode:1983Metic..18..209M.
+ ^ The Largest Sunspot in Ten Years. Goddard Space Flight Center. 30 March 2001 [2009-07-10]. （原始内容存档于August 23, 2007）.
+ ^ NASA Satellites Capture Start of New Solar Cycle. PhysOrg. 4 January 2008 [2009-07-10].
+ ^ Willson, R. C.; Hudson, H. S. The Sun's luminosity over a complete solar cycle. Nature. 1991, 351 (6321): 42–4. doi:10.1038/351042a0.
+ ^ Lean, J.; Skumanich, A.; White, O. Estimating the Sun's radiative output during the Maunder Minimum. Geophysical Research Letters. 1992, 19 (15): 1591–1594. doi:10.1029/92GL01578.
+ ^ Mackay, R. M.; Khalil, M. A. K. Greenhouse gases and global warming//In Singh, S. N. Trace Gas Emissions and Plants. Springer. 2000: 1–28. ISBN 9780792365457.
+ ^ Ehrlich, R. Solar Resonant Diffusion Waves as a Driver of Terrestrial Climate Change. Journal of Atmospheric and Solar-Terrestrial Physics. 2007, 69 (7): 759. arXiv:astro-ph/0701117. doi:10.1016/j.jastp.2007.01.005.
+ ^ Clark, S. Sun's fickle heart may leave us cold. New Scientist. 2007, 193 (2588): 12. doi:10.1016/S0262-4079(07)60196-1.
+ ^ Zirker, Jack B. Journey from the Center of the Sun. Princeton University Press. 2002: 7–8. ISBN 9780691057811.
+ ^ Bonanno, A.; Schlattl, H.; Paternò, L. The age of the Sun and the relativistic corrections in the EOS. Astronomy and Astrophysics. 2008, 390 (3): 1115–1118. arXiv:astro-ph/0204331. Bibcode:2002A&A...390.1115B. doi:10.1051/0004-6361:20020749.
+ ^ Amelin, Y.; Krot, A.; Hutcheon, I.; Ulyanov, A. Lead isotopic ages of chondrules and calcium-aluminum-rich inclusions.. Science. 2002, 297 (5587): 1678–1683. doi:10.1126/science.1073950. PMID 12215641.
+ ^ Baker, J.; Bizzarro, M.; Wittig, N.; Connelly, J.; Haack, H. Early planetesimal melting from an age of 4.5662 Gyr for differentiated meteorites. Nature. 2005, 436 (7054): 1127–1131. doi:10.1038/nature03882. PMID 16121173.
+ ^ Goldsmith, D.; Owen, T. The search for life in the universe. University Science Books. 2001. 96. ISBN 9781891389160.
+ ^ 92.0 92.1 92.2 Schröder, K.-P.; Smith, R.C. Distant future of the Sun and Earth revisited. Monthly Notices of the Royal Astronomical Society. 2008, 386 (1): 155. arXiv:0801.4031. Bibcode:2008MNRAS.386..155S. doi:10.1111/j.1365-2966.2008.13022.x.，也可以參見Palmer, J. Hope dims that Earth will survive Sun's death. New Scientist. 2008 [2008-03-24].
+ ^ Carrington, D. Date set for desert Earth. BBC News. 2000-02-21 [2007-03-31].
+ ^ Pogge, R.W. The Once and Future Sun. New Vistas in Astronomy. Ohio State University]（Department of Astronomy）. 1997 [2005-12-07].
+ ^ Sackmann, I.-J.; Boothroyd, A.I.; Kraemer, K.E. Our Sun. III. Present and Future. Astrophysical Journal. 1993, 418: 457. Bibcode:1993ApJ...418..457S. doi:10.1086/173407.
+ ^ Construction of a Composite Total Solar Irradiance (TSI) Time Series from 1978 to present. [2005-10-05].
+ ^ El-Sharkawi, Mohamed A. Electric energy. CRC Press. 2005: 87–88. ISBN 9780849330780.
+ ^ Phillips, Kenneth J. H. Guide to the Sun. Cambridge University Press. 1995: 319–321. ISBN 9780521397889.
+ ^ Reid, M.J. The distance to the center of the Galaxy. Annual Review of Astronomy and Astrophysics. 1993, 31 (1): 345–372. Bibcode:1993ARA&A..31..345R. doi:10.1146/annurev.aa.31.090193.002021.
+ ^ Eisenhauer, F.; et al. A Geometric Determination of the Distance to the Galactic Center. Astrophysical Journal. 2003, 597 (2): L121–L124. Bibcode:2003ApJ...597L.121E. doi:10.1086/380188.
+ ^ Horrobin, M.; et al. First results from SPIFFI. I: The Galactic Center (PDF). Astronomische Nachrichten. 2004, 325 (2): 120–123. doi:10.1002/asna.200310181.
+ ^ Eisenhauer, F.; et al. SINFONI in the Galactic Center: Young Stars and Infrared Flares in the Central Light-Month. Astrophysical Journal. 2005, 628 (1): 246–259. Bibcode:2005ApJ...628..246E. doi:10.1086/430667.
+ ^ Gehrels, Neil; Chen, Wan; Mereghetti, S. The Geminga supernova as a possible cause of the local interstellar bubble. Nature. February 25, 1993, 361 (6414): 706–707. doi:10.1038/361704a0.
+ ^ English, J. Exposing the Stuff Between the Stars, 新聞稿. Hubble News Desk. 2000 [2007-05-10].
+ ^ Gillman, M.; Erenler, H. The galactic cycle of extinction. International Journal of Astrobiology. 2008, 386 (01): 155. doi:10.1017/S1473550408004047.
+ ^ Leong, S. Period of the Sun's Orbit around the Galaxy（Cosmic Year）. The Physics Factbook. 2002 [2007-05-10].
+ ^ Croswell, K. Milky Way keeps tight grip on its neighbor. New Scientist. 2008, (2669): 8.
+ ^ Garlick, M.A. The Story of the Solar System. Cambridge University Press. 2002. 46. ISBN 0521803365.
+ ^ Javaraiah. Sun's retrograde motion and violation of even-odd cycle rule in sunspot activity. Mon.Not.Roy.Astron.Soc.362:1311-1318,2005. 2005, 362 (4): 1311–1318. arXiv:astro-ph/0507269. doi:10.1111/j.1365-2966.2005.09403.x.
+ ^ Haxton, W.C. The Solar Neutrino Problem. Annual Review of Astronomy and Astrophysics (PDF). 1995, 33 (1): 459–504. Bibcode:1995ARA&A..33..459H. doi:10.1146/annurev.aa.33.090195.002331.
+ ^ 111.0 111.1 111.2 MacDonald, A.B. Solar neutrinos. New Journal of Physics. 2004, 6 (1): 121. Bibcode:2004NJPh....6..121M. doi:10.1088/1367-2630/6/1/121.
+ ^ Ahmad, QR; et al. Measurement of the Rate of νe + d --> p + p + e– Interactions Produced by 8B Solar Neutrinos at the Sudbury Neutrino Observatory. Physical Review Letters (American Physical Society). 2001-07-25, 87 (7): 071301. doi:10.1103/PhysRevLett.87.071301.
+ ^ Sudbury Neutrino Observatory First Scientific Results. 2001-07-03 [2008-06-04].
+ ^ Alfvén, H. Magneto-hydrodynamic waves, and the heating of the solar corona. Monthly Notices of the Royal Astronomical Society (PDF). 1947, 107 (2): 211. Bibcode:1947MNRAS.107..211A.
+ ^ Parker, E.N. Nanoflares and the solar X-ray corona. Astrophysical Journal (PDF). 1988, 330 (1): 474. Bibcode:1988ApJ...330..474P. doi:10.1086/166485.
+ ^ Sturrock, P.A.; Uchida, Y. Coronal heating by stochastic magnetic pumping. Astrophysical Journal (PDF). 1981, 246 (1): 331. Bibcode:1981ApJ...246..331S. doi:10.1086/158926.
+ ^ Kasting, J.F.; Ackerman, T.P. Climatic Consequences of Very High Carbon Dioxide Levels in the Earth’s Early Atmosphere. Science. 1986, 234 (4782): 1383–1385. doi:10.1126/science.11539665. PMID 11539665.
+ ^ Robert Zimmerman, "What's Wrong with Our Sun?", Sky and Telescope August 2009
+ ^ Deep Solar Minimum - NASA Science
+ ^ NASA, "The Sun's Sneaky Variability", October 27, 2009
+ ^ Sarah Gibson; Janet Kozyra, Giuliana de Toma, Barbara Emery, Terry Onsager and Barbara Thompson. WHI vs WSM and comparative solar minima: If the Sun is so quiet, why is the Earth still ringing?. International Astronomical Union. 3. 2009 [2010-01-06]. "Ulysses during polar passes: lower magnetic field（35%), density (20%), speed (3%)(McComas et al., 2008; Balogh and Smith, 2008; Issaultier et al., 2008）"
+ ^ planet, n.. Oxford English Dictionary. 2007.December [2008-02-07]. Note: select the Etymology tab
+ ^ Goldstein, Bernard R. Saving the phenomena : the background to Ptolemy's planetary theory. Journal for the History of Astronomy (Cambridge (UK)). 1997, 28 (1): 1–12. Bibcode:1997JHA....28....1G.
+ ^ Ptolemy; Toomer, G. J. Ptolemy's Almagest. Princeton University Press. 1998. ISBN 9780691002606.
+ ^ David Leverington. Babylon to Voyager and beyond: a history of planetary astronomy. Cambridge University Press. 2003: 6–7. ISBN 0521808405
+ ^ Sider, D. Anaxagoras on the Size of the Sun. Classical Philology. 1973, 68 (2): 128–129. doi:10.1086/365951. JSTOR 269068.
+ ^ Goldstein, B.R. The Arabic Version of Ptolemy's Planetary Hypotheses. Transactions of the American Philosophical Society. 1967, 57 (4): 9–12. doi:10.2307/1006040. JSTOR 1006040.
+ ^ Galileo Galilei（1564–1642）. BBC. [2006-03-22].
+ ^ Ead, Hamed A. Averroes As A Physician. University of Cairo.
+ ^ A short History of scientific ideas to 1900, C. Singer, Oxford University Press, 1959, p. 151.
+ ^ The Arabian Science, C. Ronan, pp. 201–244 in The Cambridge Illustrated History of the World's Science, Cambridge University Press, 1983; at pp. 213–214.
+ ^ Goldstein, Bernard R. Theory and Observation in Medieval Astronomy. Isis (University of Chicago Press). March 1972, 63 (1): 39–47 [44]. doi:10.1086/350839.
+ ^ S. M. Razaullah Ansari. History of oriental astronomy: proceedings of the joint discussion-17 at the 23rd General Assembly of the International Astronomical Union, organised by the Commission 41 (History of Astronomy), held in Kyoto, August 25–26, 1997. Springer. 2002. 137. ISBN 1402006578
+ ^ Sir Isaac Newton（1643–1727）. BBC. [2006-03-22].
+ ^ Herschel Discovers Infrared Light. Cool Cosmos. [2006-03-22].
+ ^ 136.0 136.1 Thomson, W. On the Age of the Sun's Heat. Macmillan's Magazine. 1862, 5: 388–393.
+ ^ Lockyer, J.N. The meteoritic hypothesis; a statement of the results of a spectroscopic inquiry into the origin of cosmical systems. Macmillan and Co. 1890. Bibcode:1890QB981.L78.....
+ ^ Darden, L. The Nature of Scientific Inquiry. 1998.
+ ^ Hawking, S. W. The Universe in a Nutshell. Bantam Books. 2001. ISBN 0-55-380202-X.
+ ^ Studying the stars, testing relativity: Sir Arthur Eddington. Space Science. European Space Agency. 2005 [2007-08-01].
+ ^ Bethe, H.; Critchfield, C. On the Formation of Deuterons by Proton Combination. Physical Review. 1938, 54 (10): 862–862. doi:10.1103/PhysRev.54.862.2.
+ ^ Bethe, H. Energy Production in Stars. Physical Review. 1939, 55 (1): 434–456. doi:10.1103/PhysRev.55.434.
+ ^ Burbidge, E.M.; Burbidge, G.R.; Fowler, W.A.; Hoyle, F. Synthesis of the Elements in Stars. Reviews of Modern Physics. 1957, 29 (4): 547–650. Bibcode:1957RvMP...29..547B. doi:10.1103/RevModPhys.29.547.
+ ^ Phillips, T. Stereo Eclipse. Science@NASA. NASA. 2007 [2008-06-19].
+ ^ Wade, M. Pioneer 6-7-8-9-E. Encyclopedia Astronautica. 2008 [2006-03-22].
+ ^ Solar System Exploration: Missions: By Target: Our Solar System: Past: Pioneer 9. NASA. [2010-10-30]. "NASA maintained contact with Pioneer 9 until May 1983"
+ ^ 147.0 147.1 Burlaga, L.F. Magnetic Fields and plasmas in the inner heliosphere: Helios results. Planetary and Space Science. 2001, 49 (14-15): 1619–27. doi:10.1016/S0032-0633(01)00098-8.
+ ^ Burkepile, C. Solar Maximum Mission Overview. 1998 [2006-03-22]. （原始内容存档于April 5, 2006）.
+ ^ Result of Re-entry of the Solar X-ray Observatory "Yohkoh" (SOLAR-A) to the Earth's Atmosphere, 新聞稿. Japan Aerospace Exploration Agency. 2005 [2006-03-22].
+ ^ Mission extensions approved for science missions. ESA Science and Technology. October 7, 2009 [February 16, 2010].
+ ^ NASA Successfully Launches a New Eye on the Sun. NASA Press Release Archives. February 11, 2010 [February 16, 2010].
+ ^ Sungrazing Comets. LASCO（US Naval Research Laboratory）. [2009-03-19].
+ ^ JPL/CALTECH. Ulysses: Primary Mission Results. NASA. 2005 [2006-03-22].
+ ^ Calaway, M.J.; Stansbery, Eileen K.; Keller, Lindsay P. Genesis capturing the Sun: Solar wind irradiation at Lagrange 1. Nuclear Instruments and Methods in Physics Research B. 2009, 267 (7): 1101. doi:10.1016/j.nimb.2009.01.132.
+ ^ STEREO Spacecraft & Instruments. NASA Missions. March 8, 2006 [May 30, 2006].
+ ^ Howard R. A., Moses J. D., Socker D. G., Dere K. P., Cook J. W. Sun Earth Connection Coronal and Heliospheric Investigation (SECCHI). Solar Variability and Solar Physics Missions Advances in Space Research. 2002, 29 (12): 2017–2026.
+ ^ 然而，直接看太陽經常被認為是不安全的White, T.J.; Mainster, M.A.; Wilson, P.W.; Tips, J.H. Chorioretinal temperature increases from solar observation. Bulletin of Mathematical Biophysics. 1971, 33 (1): 1. doi:10.1007/BF02476660.
+ ^ Tso, M.O.M.; La Piana, F.G. The Human Fovea After Sungazing. Transactions of the American Academy of Ophthalmology and Otolaryngology. 1975, 79 (6): OP788. PMID 1209815.
+ ^ Hope-Ross, M.W.; Mahon, GJ; Gardiner, TA; Archer, DB. Ultrastructural findings in solar retinopathy. Eye. 1993, 7 (4): 29. doi:10.1136/bjo.57.4.270. PMID 8325420.
+ ^ Schatz, H.; Mendelblatt, F.; Gardiner, TA; Archer, DB. Solar Retinopathy from Sun-Gazing Under Influence of LSD. British Journal of Ophthalmology. 1973, 57 (4): 270. doi:10.1136/bjo.57.4.270. PMID 8325420.
+ ^ Chou, B.R. Eye Safety During Solar Eclipses. 2005.
+ ^ Ham, W.T. Jr.; Mueller, H.A.; Sliney, D.H. Retinal sensitivity to damage from short wavelength light. Nature. 1976, 260 (5547): 153. doi:10.1038/260153a0.
+ ^ Ham, W.T. Jr.; Mueller, H.A.; Ruffolo, J.J. Jr.; Guerry, D. III,. Solar Retinopathy as a function of Wavelength: its Significance for Protective Eyewear//In Williams, T.P.; Baker, B.N. The Effects of Constant Light on Visual Processes. Plenum Press. 1980: 319–346. ISBN 0306403285.
+ ^ Kardos, T. Earth science. J.W. Walch. 2003. 87. ISBN 9780825145001.
+ ^ Marsh, J.C.D. Observing the Sun in Safety. Journal of the British Astronomical Association (PDF). 1982, 92 (6): 257. Bibcode:1982JBAA...92..257M.
+ ^ Espenak, F. Eye Safety During Solar Eclipses. NASA. 2005 [2006-03-22].
+ ^ Haber, Jorg; Magnor, Marcus; Seidel, Hans-Peter. Physically based Simulation of Twilight Phenomena (pdf). ACM Transactions on Graphics (TOG). 2005, 24 (4): 1353–1373. doi:10.1145/1095878.1095884.
+ ^ I.G. Piggin. Diurnal asymmetries in global radiation. Springer. 1972, 20 (1): 41–48. doi:10.1007/BF02243313.
+ ^ The Green Flash. BBC. [2008-08-10].
+ ^ Barsh, G.S. What Controls Variation in Human Skin Color?. PLoS Biology. 2003, 1 (1): e7. doi:10.1371/journal.pbio.0000027. PMC 212702. PMID 14551921.
+ ^ Naming Astronomical Objects: Spelling of Names. International Astronomical Union. [29 March 2010].
+ ^ William Little (ed.) Oxford Universal Dictionary, 1955. See entry on "Sol".
+ ^ "Sol", Merriam-Webster online, accessed July 19, 2009
+ ^ 這包括葡萄牙、西班牙、冰島、丹麥、挪威、瑞典、萊昂、加泰羅尼亞和加利西亞。Total Solar Eclipse in Other Languages. mreclipse.com. [2009-07-17].此外，祕魯的通貨祕魯新索爾是以西班牙文的太陽命名的，像他的繼任者（前一代在1985年至1991年使用）祕魯印題（在克丘亞）。在波斯，“sol”的意思是"太陽年"。
+ ^ Opportunity's View, Sol 959（Vertical）. NASA. 2006 [2007-08-01].
+ ^ Allison, M.; Schmunk, R. Technical Notes on Mars Solar Time as Adopted by the Mars24 Sunclock. NASA/GISS. 2005 [2007-08-01].
+延伸閱讀
+ Thompson, M. J. Solar interior: Helioseismology and the Sun's interior. Astronomy and Geophysics. 2004, 45 (4): 21–25.
+ Cohen, Richard. Chasing the Sun: the Epic Story of the Star that Gives us Life. Simon & Schuster. 2010. ISBN 1400068754.
+外部鏈結
+ 太陽誕生於宇宙大爆炸後幾十億年的恆星爆炸
+ （英文） 太阳图片集
+ （英文） 太阳系探险之太阳
+ （英文） 尤里西斯号
+ （英文） 起源号
+ Nasa SOHO (Solar & Heliospheric Observatory) satellite
+ National Solar Observatory
+ Astronomy Cast: The Sun
+ Looking Into the Sun – slideshow by Life magazine
+ A collection of spectacular images of the sun from various institutions（The Boston Globe）
+ Satellite observations of solar luminosity
+ Sun|Trek, an educational website about the Sun
+ The Swedish 1-meter Solar Telescope, SST
+ An animated explanation of the structure of the Sun（University of Glamorgan）
+ The Future of our sun
+ Solar Conveyor Belt Speeds Up –NASA– images, link to report on Science
+取自“http://zh.wikipedia.org/w/index.php?title=太阳&oldid=31076298”
+ 本页面最后修订于2014年4月22日 (星期二) 22:01。
+ 本站的全部文字在知识共享 署名-相同方式共享 3.0协议之条款下提供，附加条款亦可能应用。（请参阅使用条款）
+ Wikipedia®和维基百科标志是维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
+ 维基媒体基金会是在美国佛罗里达州登记的501(c)(3)免税、非营利、慈善机构。

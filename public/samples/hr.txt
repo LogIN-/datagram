@@ -1,0 +1,146 @@
+Sunce
+Izvor: Wikipedija
+Ovo je izdvojeni članak - svibanj 2014. Kliknite ovdje za više informacija.
+Sunce
+Sunce je zvijezda u centru našeg Sunčevog sustava. Ona je gotovo savršena kugla (razlika između ekvatora i pola je samo 10 km) i sastoji se od plinovite vruće plazme, koja je isprepletena s magnetskim poljima.[1][2] Promjer mu je oko 1 392 000 km, što je za 109 puta više od Zemlje i masu oko 2×1030 kilograma, što je za 330 000 puta više od Zemlje, a to je 99,86 % mase cijelog Sunčevog sustava.[3] Po kemijskom sastavu ¾ mase Sunca čini vodik, dok je ostatak uglavnom helij, a manje od 2 % čine teži elementi kao što su kisik, ugljik, neon, željezo i drugi.
+Prema spektralnoj klasi, Sunce spada u klasu G2V ili možemo ga zvati žuti patuljak, zato što je vidljiva svjetlost najizraženija u žutozelenom dijelu spektra, iako je sveukupno svjetlost sa Sunca bijela, zbog raspršenja svjetlosti u Zemljinoj atmosferi izgleda žuto na plavoj podlozi neba. Spektralna oznaka G2 pokazuje površinsku temperaturu, koja iznosi 5778 K (5505 °C), dok oznaka V pokazuje da je Sunce, kao i većina drugih zvijezda, u glavnom nizu (Hertzsprung-Russellov dijagram) i da stvara energiju nuklearnom fuzijom, pretvarajući vodik u helij.[4][5] U jezgri Sunca, svake sekunde izgori 4 300 000 000 kg vodika, pretvarajući se u helij. Iako su nekoć astronomi smatrali da je Sunce mala i beznačajna zvijezda, ispostavilo se da je Sunce svjetlije od 85 % zvijezda u Mliječnom putu, a većina zvijezda spada u crvene patuljke.[6][7] Apsolutna magnituda je +4,83, ali budući nam je Sunce puno bliže od ostalih zvijezdi, vidimo ga kao najsjajnije nebesko tijelo s prividnom magnitudom -26,74.[8][9] Vanjski dio Sunčeve atmosfere, koji zovemo korona, stalno ispušta dio plazme u svemir u obliku Sunčevog vjetra, kao struja električki nabijenih čestica koja se širi do otprilike 100 astronomskih jedinica (AJ – udaljenost od Zemlje do Sunca). Balon međuzvjezdane materije koju stvara Sunčev vjetar naziva se heliosfera: to je najveća neprekidna struktura u Sunčevom sustavu. Osim Zemlje i drugih planeta, oko Sunca kruže i asteroidi, kometi, meteoroidi, trans-neptunski objekti u Kuiperovom pojasu i čestice prašine. [10][11]
+Kako se cijeli svemir širi, tako se i mi krećemo zajedno s našom galaksijom ili Mliječnim putem, prema zviježđu Vodena zmija i to brzinom od 550 km/s. Najbliža nam je zvijezda alfa Kentaur, koja je udaljena 4,2 godine svjetlosti.[12] Sunčev sustav se okreće oko centra Mliječnog puta, koji je udaljen 24 000 – 26 000 godina svjetlosti i jedan puni krug napravi za 225 – 250 milijuna godina i taj period se naziva galaktička godina. Ako uzmemo u obzir kretanje naše galaksije Mliječnog puta i okretanje oko centra galaksije, onda rezultanta kretanja našeg Sunca je 370 km/s, u smjeru zviježđa Lav i Pehar. [13]
+Srednja udaljenost između Sunca i Zemlje je 149 600 000 km ili jedna astronomska jedinica, što svjetlost prijeđe za 8 minuta i 19 sekundi. Energija koju prenosi Sunčeva svjetlost daje gotovo sav život na Zemlji, zahvaljujući fotosintezi, a ujedno pokreće vrijeme i klimu na Zemlji. [14]
+Sadržaj
+ 1 Fizičke karakteristike
+ 2 Sunčev ciklus
+ 3 Sastav Sunca
+ 3.1 Jezgra
+ 3.2 Zona zračenja
+ 3.3 Zona konvekcije
+ 3.4 Fotosfera
+ 3.5 Kromosfera
+ 3.6 Korona
+ 3.7 Sunčev vjetar
+ 4 Magnetsko polje
+ 5 Životni ciklus
+ 6 Sunčeva svjetlost
+ 7 Izvori
+ 8 Vanjske poveznice
+Fizičke karakteristike
+Sunce je zvijezda glavnog niza (pogledati Hertzsprung-Russellov dijagram), spektralnog tipa G2, što znači da je nešto veća i toplija od prosječne zvijezde, no nedovoljno velika da bi pripadala tzv. "divovima". Životni vijek zvijezda tog spektralnog tipa je oko 10 milijardi godina, a budući da je Sunce staro oko 5 milijardi godina, nalazi se u sredini svog životnog ciklusa.
+U središtu Sunca u termonuklearnim reakcijama (nuklearna fuzija) vodik se pretvara u helij. Svake sekunde u nuklearnim reakcijama sudjeluje 3,8 x 1038 protona (vodikovih jezgri). Oslobođena energija biva izračena sa sunčeve površine u obliku elektromagnetskog zračenja i neutrina, te manjim dijelom kao kinetička i toplinska energija čestica sunčevog vjetra i energija sunčevog magnetskog polja.
+Zbog ekstremno visokih temperatura, tvar je u obliku plazme. Posljedica toga je da Sunce ne rotira kao čvrsto tijelo. Brzina rotacije je veća na ekvatoru, nego u blizini polova, zbog čega dolazi do iskrivljenja silnica magnetskog polja, erupcija plinova sa sunčeve površine i stvaranja sunčevih pjega i prominencija (protuberanci). Ove pojave nazivamo sunčevom aktivnošću.
+Budući se Sunce sastoji od plinovite plazme, ekvator se okreće brže od polova. Ta se pojava naziva diferencijalna rotacija i na ekvatoru ona iznosi 25,6 dana, a na polovima 33,5 dana. Budući da se i Zemlja okreće oko Sunca, nama se čini da se ekvator Sunca okrene za otprilike 28 dana.[15]
+S obzirom na ostale zvijezde, Sunce se nalazi u populaciji I, što znači da je bogato teškim elementima i metalima (zlatom i uranijem), a to najvjerojatnije možemo zahvaliti eksploziji neke bližnje supernove. [16]
+Sunce
+Osnovni podaci:
+Promjer 1 392 000 km
+Masa 1,9891 x 1030 kg
+Prosječna gustoća 1,411 g/cm3
+Površinska temperatura 5780 K
+Vrijeme obilaska oko središta galaktike 2,2 x 108 godina
+Kemijski sastav:
+Vodik 73,46 %
+Helij 24,58 %
+Kisik 0,77 %
+Ugljik 0,29 %
+Željezo 0,16 %
+Neon 0,12 %
+Dušik 0,09 %
+Silicij 0,07 %
+Magnezij 0,05 %
+Sumpor 0,04 %
+Sunčev ciklus
+Vista-xmag.pngPodrobniji članak o temi: Sunčev ciklus
+Promjene koje opažamo na Suncu i nazivamo sunčevom aktivnošću odvijaju se periodično u cikusima prosječne duljine 11 godina. Ciklusi variraju u duljini, između 8 i 15 godina. Te promjene obuhvaćaju:
+ količinu izračene energije
+ brojnost i raspored pjega
+ brojnost sunčevih baklji
+ oblik i veličinu korone
+Vremenski period najveće aktivnosti naziva se sunčev maksimum. Može trajati nekoliko godina, ovisno o aktivnosti pjega i baklji. Postoje i dulja periodička razdoblja sunčeve aktivnosti. U povijesti je poznat Maunderov minimum, razdoblje u drugoj polovici 17. st. tijekom kojega je broj sunčevih pjega bio izuzetno malen. Zbio se istovremeno s periodom hladnih godina, nazvanog malo ledeno doba. Nije sasvim jasno jesu li klimatske promjene bile uzrokovane ekstremno niskom sunčevom aktivnošću.
+Sastav Sunca
+Prikaz strukture Sunca:
+1. Sunčeva jezgra
+2. Zona radijacije
+3. Zona konvekcije
+4. Fotosfera
+5. Kromosfera
+6. Korona
+7. Sunčeve pjege
+8. Granule
+9. Prominencije
+Sunce dijelimo na veći broj slojeva, prema uvjetima koji u njima vladaju. Granice među njima nisu jasno ocrtane i postoje prijelazna područja. Sunce nema čvrstu površinu, pa se kao granicu na kojoj počinje atmosfera uzima najviši sloj koji je još uvijek optički neproziran.
+Također, Sunce ne možemo točno ograničiti jer njegov gušći dio prelazi u rjeđu atmosferu, a iza nje se daleko prostire područje u kojem djeluje sunčev vjetar.
+Jezgra
+Vista-xmag.pngPodrobniji članak o temi: Sunčeva jezgra
+Do četvrtine polumjera Sunca prostire se jezgra, područje visoke temperature, oko 15,6 milijuna K i tlaka 1016 Pa. U takvim uvjetima odvija se fuzija vodika u helij. Spajanjem 4 protona (jezgre atoma vodika) nastaje jedna jezgra atoma helija (2 protona i 2 neutrona), pri čemu se oslobađaju subatomske čestice i energija u obliku gama-zračenja.
+Oko 3,6×1038 protona (jezgre vodika) se svake sekunde pretvara u jezgre helija, oslobađajući masu i energiju (ekvivalencija mase i energije) od 4 300 000 000 kg u sekundi ili 3,8×1026 W.[17] Kroz većinu Sunčevog života, energija koja se dobiva nuklearnom fuzijom, ide kroz seriju koraka koje nazivamo niz proton-proton (p-p niz), a to je postupak kojim se vodik pretvara u helij. Manje od 2 % helija se stvara u Suncu s nizom ugljik-dušik-kisik (CNO niz).
+Sunčeva jezgra stvara gotovu svu toplinu koja se stvori nuklearnom fuzijom, ostalih 1 % se stvori izvan jezgre. Energija koja se stvori u jezgri (osim neutrina) mora putovati veliki broj puta kroz razne slojeve, dok ne dođe do fotosfere i izađe u svemir kao Sunčeva svjetlost ili kinetička energija čestica.
+Gustoća dobivene energije razlikuje se ovisno o udaljenosti od centra, pa se tako procjenjuje da se u centru stvara 276,5 W/m3. Na udaljenosti 19 % od Sunčevog radijusa, temperatura padne na 10 000 000 K i gustoća energije je 6,9 W/m3 i 91 % Sunčeve energije se stvori u tom području. Na udaljenosti 30 % od Sunčevog radijusa, nuklearna fuzija gotovo stane. [18]
+Zona zračenja
+Iznad jezgre se nalazi zona zračenja, otprilike od 25 % do 70 % Sunčevog polumjera od centra. U toj zoni nije dovoljna temperatura da se stvori nuklearna fuzija, pa se toplina prenosi zračenjem prema vanjskim slojevima. U toj zoni nema konvekcije ili mješanja plazme, a temperature se kreću od 7 000 000 do 2 000 000 K na vanjskom dijelu. Energija se prenosi zračenjem iona vodika i helija, koji emitiraju fotone koji vrlo brzo prijeđu tu udaljenost do vanjskog dijela zone zračenja, gdje fotone preuzmu drugi ioni u zoni konvekcije. Gustoća se mijenja od 20 g/cm3 do samo 0,2 g/cm3 na vrhu tog sloja. [19]
+Zona konvekcije
+Iznad zone zračenja se nalazi zona konvekcije, od cca. 70 % Sunčevog polumjera do fotosfere, što je otprilike 200 000 km. U tom sloju plazma nije dovoljno topla i gusta za prijenos energije zračenjem. Zato se pojavljuju toplinski stupovi, koji prenose vruću plazmu od zone zračenja do fotosfere: kad se plazma ohladi, spušta se natrag i tako stvara zatvoreni krug. Temperatura padne s 2 000 000 K na 5 778 K, a gustoća je oko 0,2 g/cm3 .
+Toplinski stupovi se na površini Sunca vide kao granule i supergranule. Turbulentno kretanje električki nabijene plazme (ioni), kroz zonu konvekcije stvara na površini svakog toplinskog stupa magnetsko polje, koje se zatvara iznad površine Sunca.
+Fotosfera
+Vista-xmag.pngPodrobniji članak o temi: Fotosfera
+Prividnu površinu Sunca nazivamo još i fotosferom. Ovdje se temperature kreću oko 6000 K. Vrući plin izvire iz unutrašnjosti na površinu, zbog čega nam se čini da površina ima granulastu (zrnatu) strukturu. Granule su promjera oko 1000 km, u stalnom su pokretu (poput vrenja vode), a vrijeme trajanja im je nekoliko minuta. Ponekad nastaju tzv. supergranule promjera 30 000 km koje traju i do 24 sata.
+Prominencija u sunčevoj kromosferi
+Baklje u sunčevoj kromosferi
+Kromosfera
+Vista-xmag.pngPodrobniji članak o temi: Kromosfera
+Kromosfera je niži sloj sunčeve atmosfere: proteže se iznad fotosfere do visine oko 10 000 km. Znatno je rjeđa od fotosfere i nepravilnog je oblika. Sa Zemlje se može vidjeti samo za vrijeme potpune pomrčine Sunca. Porastom visine gustoća atmosfere opada, ali se povećava temperatura. Ove promjene gustoće i temperature izražene su u prijelaznom području između kromosfere i korone. U kromosferi se događaju izboji plina stvarajući efekte koje nazivamo prominencije i Sunčeve baklje. Prominencije (protuberance) su oblaci ili mlazovi usijanog plina izbačenog u vis. Mogu se uzdići do visine 150 000 km iznad fotosfere, kroz kromosferu i koronu. Gušće su od okolne tvari i dostižu temperaturu oko 20 000 K. Na sličan način dolazi do pojave baklji, mlazova plina koji se brzo podižu unutar kromosfere i padaju nazad. Vrijeme trajanja jedne baklje je oko 10 min.
+Korona
+Vista-xmag.pngPodrobniji članak o temi: Korona
+U višim slojevima sunčeve atmosfere, koroni, temperatura nastavlja rasti do 1 000 000 K. Nije sasvim jasno zbog čega se taj porast temperature događa. Pretpostavka je da ga stvaraju strujanja plina pod utjecajem magnetskog polja. Vanjski dijelovi korone stalno gube masu u obliku sunčevog vjetra.
+Sunčeva korona (1 – 3 000 000 K) je oko 200 puta toplija od vidljive površine Sunca ili fotosfere (u prosjeku 5 800 K). Osim toga, korona je za 1 000 000 000 000 puta rjeđa od fotosfere. Korona je odvojena od fotosfere relativno tankim slojem kromosfere. Pravi mehanizam kako dolazi do tolikoga grijanja korone još nije sasvim poznat, ali smatra se da je to najvjerojatnije posljedica induktivnog djelovanja Sunčevog magnetskog polja na plazmu u koroni (vidi: Lorentzova sila). Prije se smatralo da to nastaje zbog pritiska zvučnih valova iz unutrašnjosti Sunca, ali se otkrilo da i mlade zvijezde imaju koronu s jakim magnetskim poljem, pa se od te teorije sve češće odustaje. Vanjski dijelovi korone stalno odlaze sa Sunca duž otvorenih magnetskih linija u obliku Sunčevog vjetra.
+Korona nije uvijek jednoliko raspoređena po površini Sunca: za mirnog je razdoblja više ili manje raspoređena po ekvatorijalnom dijelu, s koronalnim šupljinama na polovima. S druge strane, u vrijeme Sunčevog aktivnog razdoblja korona je jednoliko raspoređena i po ekvatorijalnim i po polarnim područjima, iako je najispupčenija u području Sunčevih pjega. Trajanje Sunčevog ciklusa je u prosjeku 11 godina, od Sunčevog minimuma do Sunčevog maksimuma, kada se Sunčevo magnetsko polje stalno uvija (zbog diferencijalne rotacije – različiti dijelovi Sunca se okreću različitim kutnim brzinama, ekvatorijalni pojasi se okreću brže od polova). Sunčeve pjege su aktivnije u vrijeme maksimuma Sunčevog magnetskog polja. Sa Sunčevim su pjegama povezani i koronalni lukovi, kad se luk magnetskog polja uzdiže iz Sunčeve unutrašnjosti. Magnetski tok gura topliju fotosferu u stranu, otkrivajući “hladnije” i tamnije dijelove koje nazivamo Sunčevim pjegama.
+Sunčev vjetar
+Vista-xmag.pngPodrobniji članak o temi: Sunčev vjetar
+Pomrčina Sunca 11. kolovoza 1999. godine
+Sunčev (solarni) vjetar je struja čestica izbačenih velikom brzinom iz gornjih slojeva sunčeve atmosfere, uglavnom elektrona i protona. Iako je ovaj gubitak mase Sunca gotovo beznačajan i gustoća sunčevog vjetra mala, čestice se kreću velikim brzinama izazivajući vidljive učinke na tijelima u sunčevom sustavu. Poznatiji učinci sunčevog vjetra su polarna svjetlost i usmjeravanje repa kometa suprotno od Sunca.
+U blizini Zemlje zemljino magnetsko polje zarobljava čestice sunčevog vjetra i usmjerava ih prema magnetskim polovima. Budući da se čestice sunčevog vjetra kreću brzinama od više stotina km/s, pri sudaru s česticama u zemljinoj atmosferi dolazi do ioniziranja plina i pojave svjetlosti. Ova se pojava uočava u polarnim područjima, zbog čega je dobila ime polarna svjetlost ili Aurora Borealis (odnosno Aurora Australis na južnoj zemljinoj polutci). Ukoliko je sunčeva aktivnost veća, pojačano djelovanje sunčeva vjetra može dovesti do pojave polarne svjetlosti i na manjim zemljopisnim širinama. U takvim uvjetima postoji mogućnost ometanja ili čak oštećenja radio-komunikacijskih uređaja na Zemlji i umjetnim satelitima.
+Kometi se prilikom dolaska u blizinu Sunca zagrijavaju, sleđena površina kometa isparava i oslobađa oblak plina i čestica prašine. Djelovanjem čestica sunčevog vjetra, oblak se oblikuje u rep kometa. Budući da sunčev vjetar dolazi iz smjera Sunca, potiskuje rep kometa u suprotnom smjeru.
+Magnetsko polje
+Sunce je magnetski aktivna zvijezda. Ona održava jako i promjenjivo magnetsko polje, koje se mijenja u 11 godišnjem Sunčevom ciklusu. Sunčevo magnetsko polje izaziva mnoge pojave, koje se jednim imenom nazivaju Sunčeve aktivnosti, u koje ubrajamo Sunčeve pjege na fotosferi, Sunčeve baklje, kao i Sunčev vjetar, koji odnosi dio plazme kroz Sunčev sustav. Utjecaj Sunčevog magnetskog polja na Zemlji može biti u vidu polarne svjetlosti, te ometati radio-komunikacije i električne mreže.
+Razlika u brzini okretanja ekvatora i polova ili diferencijalna rotacija, uzrokuje i uvijanje magnetskog polja, koje stvara erupciju lukova na površini Sunca i pokretanje Sunčevih pjega i prominencija.
+Sunčevo magnetsko polje izlazi iz samog prostora Sunca, budući da magnetizirani Sunčev vjetar nosi dio Sunčevog magnetskog polja u Sunčev sustav, stvarajući tako međuplanetarno magnetsko polje. Dok je jačina magnetskog polja na Sunčevoj fotosferi oko 50 – 400 μT, u blizini Zemlje ono iznosi oko 0,1 nT. [20]
+Životni ciklus
+Sunce je nastalo prije 4,57 milijarde godina, što odgovara položaju u glavnom nizu (Hertzsprung-Russellov dijagram), a i dokaz su pronađene najstarije stijene iz Sunčevog sustava, za koje je nakon datiranja radioaktivnim materijalom utvrđeno da su stare 4,567 milijarda godina. Na osnovu materijala kojim raspolaže za nuklearnu fuziju, Sunce je na pola puta prema glavnom nizu, to znači da još oko 5 milijarda godina treba da se potroši sav vodik. Sunce nema dovoljno materijala da završi kao supernova, nego će nakon 5 milijarda godina postati crveni div. [21]
+Sunčeva svjetlost
+Vista-xmag.pngPodrobniji članak o temi: Sunčeva svjetlost
+Sunčeva svjetlost je prvenstveni izvor energije za Zemlju. Sunčeva konstanta je snaga koju Sunce prenese na Zemljinu atmosferu po jedinici površine. Ona iznosi 1 368 W/m2 u gornjim slojevima Zemljine atmosfere, dok na direktno osunčanoj Zemljinoj površini u zenitu iznosi oko 1 000 W/m2, jer ga oslabi atmosfera. [22]
+Izvori
+ "How Round is the Sun?", NASA, 2 October 2008, pristupljeno 7 March 2011
+ "First Ever STEREO Images of the Entire Sun", NASA, 6 February 2011, pristupljeno 7 March 2011
+ Woolfson, M. (2000). "The origin and evolution of the solar system". Astronomy & Geophysics 41 (1): 1.12.
+ Sun. World Book. NASA. pristupljeno 2009-10-31
+ Wilk, S. R. (2009). "The Yellow Sun Paradox". Optics & Photonics News: 12–13.
+ Than, K.. "Astronomers Had it Wrong: Most Stars are Single", Space.com, pristupljeno 2007-08-01
+ Lada, C. J. (2006). "Stellar multiplicity and the initial mass function: Most stars are single". Astrophysical Journal Letters 640 (1): L63–L66.
+ Burton, W. B. (1986). "Stellar parameters". Space Science Reviews 43 (3–4): 244–250.
+ Bessell, M. S. (1998). "Model atmospheres broad-band colors, bolometric corrections and temperature calibrations for O–M stars". Astronomy and Astrophysics 333: 231–250.
+ A Star with two North Poles. Science @ NASA. NASA (22 April 2003).
+ Riley, P. (2002). "Modeling the heliospheric current sheet: Solar cycle variations". Journal of Geophysical Research 107 (A7): SSH 8–1. CiteID 1136.
+ Adams, F. C. (2004). "Red Dwarfs and the End of the Main Sequence". Revista Mexicana de Astronomía y Astrofísica 22: 46–49.
+ Kogut, A., et al (1993). "Dipole Anisotropy in the COBE Differential Microwave Radiometers First-Year Sky Maps". Astrophysical Journal 419: 1.
+ Simon, A. (2001). The Real Science Behind the X-Files : Microbes, meteorites, and mutants, str. 25–27, Simon & Schuster. ISBN 0684856182
+ Phillips, Kenneth J. H. (1995). Guide to the Sun, str. 78–79, Cambridge University Press. ISBN 9780521397889
+ Falk, S.W. (1977). "Are supernovae sources of presolar grains?". Nature 270 (5639): 700–701.
+ Table of temperatures, power densities, luminosities by radius in the sun
+ Vidi[1]
+ ed. by Andrew M. Soward... (2005). “The solar tachocline: Formation, stability and its role in the solar dynamo”, Fluid dynamics and dynamos in astrophysics and geophysics reviews emerging from the Durham Symposium on Astrophysical Fluid Mechanics, July 29 to August 8, 2002, str. 193–235, Boca Raton: CRC Press. ISBN 9780849333552
+ Willson, R. C. (1991). "The Sun's luminosity over a complete solar cycle". Nature 351 (6321): 42–4.
+ Goldsmith, D. (2001). The search for life in the universe, University Science Books. ISBN 9781891389160
+ Phillips, Kenneth J. H. (1995). Guide to the Sun, str. 319–321, Cambridge University Press. ISBN 9780521397889
+Vanjske poveznice
+ [2] Građa Sunca, Zvjezdarnica Zagreb
+ [3] Astronomska sekcija, Fizikalno društvo Split
+ [4] Akademsko astronomsko društvo, Rijeka
+ [5] Zvjezdarnica, Višnjan
+[otkrij]
+Vrste tijela u Sunčevu sustavu
+[otkrij]
+Sunčev sustav
+Dobavljeno iz "http://hr.wikipedia.org/w/index.php?title=Sunce&oldid=4323494"
+Kategorije:
+ Izabrani članci
+ Sunce
+ Vrijeme i datum posljednje promjene na ovoj stranici: 21:01, 1. lipnja 2014.
+ Tekst je dostupan pod licencijom Creative Commons Imenovanje/Dijeli pod istim uvjetima; dodatni uvjeti se mogu primjenjivati. Pogledajte Uvjete korištenja za detalje.

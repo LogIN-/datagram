@@ -1,0 +1,333 @@
+Soleil
+Soleil Soleil : symbole astronomique. Solar prominence from STEREO spacecraft September 29, 2008.jpg
+Données observées
+Demi-grand axe
+de l’orbite de la Terre (1 ua) 149 597 870 km1
+Magnitude apparente −26,742
+Magnitude absolue 4,832
+Caractéristiques orbitales
+Distance du centre
+de la Voie lactée 2,50×1017 km
+(8 700 pc)
+Période galactique 2,26×108 années
+Vitesse 217 km/s
+Caractéristiques physiques
+Diamètre moyen 1 392 684 km3
+Rayon équatorial 696 342 km3
+Circonférence équatorial 4,379×106 km4
+Aplatissement aux pôles 9×10-6
+Surface 6,0877×1012 km24
+Volume 1,412×1018 km34
+Masse (M☉) 1,9891×1030 kg2
+Masse volumique moyenne 1 408 kg⋅m-34
+au centre 150 000 kg⋅m-3
+Gravité à la surface 273,95 m⋅s-2
+Vitesse de libération 617,54 km/s5
+Température au centre 15,1 MK
+à la surface 5 750 K
+couronne6 5 MK
+Flux énergétique 3,826×1026 W
+Type spectral G2–V2
+Métallicité Z = 0.01227
+Rotation
+Inclinaison
+de l’axe /écliptique 7,25º
+/plan Galaxie 67,23º
+Vitesse, latitude 0 7 008,17 km⋅h-1
+Période
+de rotation
+latitude 0 ° 24 j
+latitude 30 ° 28 j
+latitude 60 ° 30,5 j
+latitude 75 ° 31,5 j
+moyenne 27,28 j
+Composition photosphérique (en masse)
+Hydrogène 73,46 %
+Hélium 24,85 %
+Oxygène 0,77 %
+Carbone 0,29 %
+Fer 0,16 %
+Néon 0,12 %
+Azote 0,09 %
+Silicium 0,07 %
+Magnésium 0,05 %
+Soufre 0,04 %
+Le Soleil est l’étoile du Système solaire. Dans la classification astronomique, c’est une étoile de type naine jaune, composée d’hydrogène (74 % de la masse ou 92,1 % du volume) et d’hélium (24 % de la masse ou 7,8 % du volume)8. Autour de lui gravitent la Terre, et sept autres planètes, au moins cinq planètes naines, de très nombreux astéroïdes et comètes et une bande de poussière. Le Soleil représente à lui seul 99,86 % de la masse du Système solaire ainsi constitué, Jupiter représentant plus des deux tiers de tout le reste.
+L’énergie solaire transmise par rayonnement rend possible la vie sur Terre par apport d'énergie lumineuse (lumière) et d'énergie thermique (chaleur), permettant la présence d’eau à l’état liquide et la photosynthèse des végétaux. Les UV solaires contribuent à la désinfection naturelle des eaux de surfaces et à y détruire certaines molécules indésirables (quand l'eau n'est pas trop turbide)9. La polarisation naturelle de la lumière solaire (y compris de nuit après diffusion ou réflexion, par la Lune) ou par des matériaux tels que l’eau ou les cuticules végétales est utilisée par de nombreuses espèces pour s’orienter.
+Le rayonnement solaire est aussi responsable des climats et de la plupart des phénomènes météorologiques observés sur la Terre. En effet, le bilan radiatif global de la Terre est tel que la densité thermique à la surface de la Terre est en moyenne à 99,97 % ou 99,98 % d’origine solairenote 1. Comme pour tous les autres corps, ces flux thermiques sont continuellement émis dans l’espace, sous forme de rayonnement thermique infrarouge ; la Terre restant ainsi en « équilibre dynamique ».
+Le Soleil fait partie d'un ensemble constitué de matière interstellaire et d’environ 234 milliards d’étoiles (estimation 2009)10 : la Voie lactée. Il se situe à 15 parsecs du plan équatorial du disque, et est distant de 8 500 parsecs (environ 26 000 années-lumière) du centre galactique.
+Le demi-grand axe de l’orbite de la Terre autour du Soleil, couramment appelé « distance de la Terre au Soleil », égal à 149 597 870 km1, est la définition originale de l’unité astronomique (ua). Il faut 8 minutes et 19 secondes pour que la lumière du Soleil parvienne jusqu’à la Terre11.
+Le symbole astronomique et astrologique du Soleil est un cercle avec un point en son centre : \odot.
+Sommaire
+ 1 Origine et étymologie du terme
+ 2 Présentation générale
+ 3 Les grandes dates
+ 4 Histoire naturelle
+ 5 Structure et fonctionnement
+ 5.1 Le cœur ou noyau
+ 5.2 La zone de radiation
+ 5.3 La zone de convection
+ 5.4 La photosphère
+ 5.5 L’atmosphère solaire
+ 5.5.1 La chromosphère
+ 5.5.2 La couronne
+ 5.5.3 L’héliosphère
+ 6 L’activité solaire
+ 6.1 Le champ magnétique solaire
+ 6.2 Les taches solaires
+ 6.3 Les éruptions solaires
+ 6.4 Effets terrestres de l’activité solaire
+ 7 Le Système solaire
+ 8 Le Soleil et l'être humain
+ 8.1 Histoire des théories et de l'observation
+ 8.2 Les missions spatiales solaires
+ 8.3 Observation du Soleil et dangers pour l’œil
+ 8.3.1 Observation à l’œil nu
+ 8.3.2 Observation avec un dispositif optique
+ 8.3.3 Les éclipses
+ 8.3.4 Lever et coucher du Soleil
+ 9 Mythes, légendes et symbolique
+ 10 Notes et références
+ 10.1 Notes
+ 10.2 Références
+ 11 Voir aussi
+ 11.1 Articles connexes
+ 11.2 Liens externes
+Origine et étymologie du terme
+Le mot « Soleil » provient du latin populaire soliculus, dérivé du latin classique sol, solis désignant l’astre et la divinité.
+Présentation générale
+Le Soleil tel que vu dans l’ultraviolet « lointain » (UVC)
+(image en « fausses couleurs »).
+ : la chromosphère et les protubérances sont les sources essentielles, bien plus chaudes que « la surface » (la photosphère).
+Le Soleil est une étoile naine jaune qui se compose de 74 % d’hydrogène, de 24 % d’hélium et d’une fraction d’éléments plus lourds. Le Soleil est de type spectral G2–V. « G2 » signifie qu’il est plus chaud (5 770 kelvins en surface environ) et plus brillant que la moyenne, avec une couleur jaune tirant sur le blanc. Son spectre renferme des bandes de métaux ionisés et neutres, ainsi que de faibles bandes d’hydrogène. Le suffixe « V » (ou « classe de luminosité ») indique qu’il évolue actuellement, comme la majorité des étoiles, sur la séquence principale du diagramme de Hertzsprung-Russell : il tire son énergie de réactions de fusion nucléaire qui transforment, dans son noyau, l’hydrogène en hélium, et se trouve dans un état d’équilibre hydrostatique, ne subissant ni contraction, ni dilatation continuelles.
+Il existe dans la Voie lactée plus de 100 millions d’étoiles de type spectral identique, ce qui fait du Soleil une étoile assez ordinaire, bien qu’il soit en fait plus brillant que 85 % des étoiles de la Galaxie, qui sont en majorité des naines rouges12.
+Le Soleil gravite autour du centre de la Voie lactée dont il est distant d’environ 25 000 à 28 000 années-lumière. Sa période de révolution galactique est d’environ 220 millions d’années, et sa vitesse de 217 km⋅s-1, équivalente à une année-lumière tous les 1 400 ans (environ), et une unité astronomique tous les 8 jours13.
+Dans cette révolution galactique, le Soleil, comme les autres étoiles du disque, a un mouvement oscillant autour du plan galactique : l’orbite galactique solaire présente des ondulations sinusoïdales perpendiculaires à son plan de révolution. Le Soleil traverserait ce plan tous les 30 millions d’années environ, d’un côté puis de l’autre — sens Nord-Sud galactique, puis inversement — et s’en éloignerait au maximum de 230 années-lumière environ, tout en restant dans le disque galactique. La masse du disque galactique attire les étoiles qui auraient un plan de révolution différent de celui du disque galactiquenote 2.
+Actuellement, le Système solaire se situerait à 48 années-lumière au-dessus (au nord) du plan galactique et en phase ascendante à la vitesse de 7 km/s14.
+Le Soleil tourne également sur lui-même, avec une période de 27 jours terrestres environ. En réalité, n’étant pas un objet solide, il subit une rotation différentielle : il tourne plus rapidement à l’équateur (25 jours) qu’aux pôles (35 jours). Le Soleil est également en rotation autour du barycentre du Système solaire, ce dernier pouvant se situer à un peu plus d’un rayon solaire du centre de l’étoile (hors de sa surface)15, en raison de la masse de Jupiter (environ un millième de la masse solaire).
+Les grandes dates
+La plus ancienne éclipse solaire répertoriée date de 1223 av. J.-C.16, elle est représentée sur une table d’argile dans la cité d’Ugarit (aujourd’hui en Syrie). Vers 800 av. J.-C., a eu lieu la première observation plausible d’une tache solaire en Chine. Environ 400 ans après, en 400 av. J.-C., les premières civilisations pensaient que la Terre était plate et que le Soleil était un dieu.
+Le philosophe grec, Anaxagore, avance l’idée que le Soleil est un corps grand, éloigné de la Terre. Il estime son rayon à 56 km. Ses idées vont à l’encontre des croyances de son temps, ce qui lui vaut d’être menacé puis finalement exilé d’Athènes.
+La première tentative de calcul mathématique de la distance Terre-Soleil est faite en 200 av. J.-C., par Aristarque de Samos. Claude Ptolémée déclare en 150 ap. J.-C., que la Terre est un corps stationnaire au centre de l’Univers. Selon lui, ce sont le Soleil, la Lune et les autres planètes qui tournent autour de la Terre.
+Plus proche de notre époque, en 1543, Copernic présente son modèle d’Univers dans lequel le Soleil est au centre et les planètes tournent autour de lui.
+En 1610, Galilée observe les taches solaires avec son télescope.
+Peu de temps après, en 1644, Descartes énonce une théorie selon laquelle le Soleil est une étoile parmi bien d’autres. Entre 1645 et 1715, se trouve la période durant laquelle on observa peu de taches solaires ; on appelle cette période « le minimum de Maunder ».
+L’astronome français Pierre-Simon de Laplace énonce en 1796, l’hypothèse de la nébuleuse selon laquelle le Soleil et le Système solaire sont nés de l’effondrement gravitationnel d’un grand nuage de gaz diffus.
+C’est en 1845 que la première image du Soleil fut prise, par les physiciens français Hippolyte Fizeau et Léon Foucault. La première relation entre l’activité solaire et géomagnétique eu lieu en 1852 (première observation 1859 par l’astronome amateur Richard Carrington).
+L’observation de l'éclipse solaire totale de 186017 permet le premier enregistrement d’une éjection de masse coronale.
+Au siècle dernier, en 1908, eut lieu le premier enregistrement des champs magnétiques des taches solaires par l’astronome américain George Ellery Hale. Onze ans après, en 1919, les lois de la polarité de Hale fournissent une preuve du cycle magnétique solaire. En 1942 fut observée pour la première fois une émission d’ondes radio solaires, puis en 1946 fut faite la première observation de rayons ultraviolets (UV) solaires à l’aide d’une fusée sonde, et évaluée la température de la couronne à 2 millions de °C, à l’aide des raies spectrales. La première observation des rayons X solaires à l’aide d’une fusée sonde date de 1949. En 1954, on s’aperçoit que l’intensité des rayons provenant du Soleil varie sur un cycle solaire de 11 ans. Une observation massive de taches solaires est réalisée en 1956, une première observation du vent solaire en 1963, par la sonde Mariner 2. En 1973 et 1974, Skylab observe le Soleil et découvre les trous coronaires. En 1982 a lieu la première observation des neutrons d’une tache solaire par la sonde SMM (Solar Maximum Mission). Et pour finir, en 1994 et 1995, Ulysse (sonde lancée par la navette Discovery en 1990) survole les régions polaires du Soleil.
+Histoire naturelle
+Articles détaillés : Évolution des étoiles et Formation et évolution du Système solaire.
+Le Soleil est une étoile âgée de 4,5682 milliards d’années18, soit un peu moins de la moitié de son chemin sur la séquence principale19. L'hypothèse des années 1970 qu'une supernova serait à l'origine de l'effondrement de la nébuleuse qui a donné naissance au Soleil n'est plus crédible. Une modélisation récente (2012) propose un scénario en trois étapes pour expliquer la formation du Soleil et l'abondance de magnésium-26 et de nickel-60 dans les météorites. Ces éléments sont les produits de la décomposition de deux isotopes radioactifs (à la vie très courte) nés dans les étoiles : l'aluminium-26 (demi-vie de 717 000 ans) et le fer-60 (demi-vie de 2,6 Ma). Pour comprendre la présence de ces éléments dans la chimie du Soleil, il fallait imaginer une étape pour le fer-60 et une autre pour l'aluminium-26. Scénario : Il y a 4,6 Ga, une nébuleuse s'effondre et une première génération d'étoiles (± 5 000) naît. Après 5 Ma, les plus massives meurent en supernovae et dispersent leurs éléments dont l'isotope fer-60. Après 2 Ma, un nuage riche en fer-60 s'effondre et de nouvelles étoiles se forment. Cette seconde génération comprend des étoiles très massives (plus de 30 masses solaires) qui éjectent des vents chargés en aluminium-26. Après 100 000 ans, le vent d'une de ces étoiles très massives comprime la matière qui l'entoure. Il se forme une coquille de gaz et de poussières riches en fer-60 et en aluminium-26 qui finit par s'effondrer et donner naissance, il y a 4,5682 Ga, à une troisième génération d'étoiles : le Soleil et une centaine d'étoiles jumelles. Quelques millions d'années plus tard, l'étoile très massive à l'origine du processus meurt en supernova. On l'appelle Coatlicue qui signifie "mère du Soleil" dans la cosmogonie aztèque. Les sœurs du Soleil (à la composition chimique identique) se dispersent dans la Voie lactée. Le Soleil reste seul ; les astéroïdes qui l'entourent gardent la trace de sa généalogie sous la forme des dérivés du fer-60 et de l'aluminium-26 : le nickel-60 et le magnésium-2620.
+Actuellement, dans le cœur du Soleil, chaque seconde, environ 627 millions de tonnes d'hydrogène fusionnent21 pour produire ± 622,7 millions de tonnes d'hélium. La différence de masse de 4,3 millions de tonnes d'hydrogène (une masse de l'ordre de celle de la pyramide de Gizeh22) équivaut à l'énergie lumineuse produite (4.1026 joules). Cette énergie lumineuse migre lentement par rayonnement et par convection vers la surface solaire et est émise dans l’espace sous forme de rayonnements électromagnétiques (lumière, rayonnement solaire) et de flux de particules (vent solaire).
+Durant les 7,6 milliards d’années23 à venir, le Soleil épuisera petit à petit ses réserves d’hydrogène ; sa brillance augmentera d’environ 7 % par milliard d’années, à la suite de l’augmentation du rythme des réactions de fusion par la lente contraction du cœur.
+Lorsqu’il sera âgé de 10,5 milliards d’années, l’équilibre hydrostatique sera rompu. Le Soleil aura converti tout l'hydrogène de son cœur en hélium. Le noyau d'hélium se contractera et s’échauffera fortement tandis que les couches superficielles, dilatées par le flux thermique croissant et ainsi partiellement libérées de l’effet gravitationnel, seront progressivement repoussées : le Soleil se dilatera et se transformera en géante rouge. Au terme de ce processus, le diamètre du Soleil sera environ 100 fois supérieur à l’actuel ; il dépassera l’orbite de Mercure et de Vénus. La Terre, si elle subsiste encore, ne sera plus qu’un désert calciné.
+C’est durant cette phase de gonflement que son cœur en contraction arrivera aux environs de 100 millions de kelvins, initiant les réactions de fusion de l’hélium pour donner du carbone (voir réaction triple-alpha) ainsi que de l'oxygène, tandis qu’une couronne externe du cœur fusionnera l’hydrogène en hélium. La période de fusion de l'hélium sera rapide : pendant 50 millions d'années, les noyaux d'hélium se combineront trois par trois pour former des noyaux de carbone qui peupleront le cœur de la géante rouge. Le Soleil n'est pas assez massif pour comprimer son cœur de carbone et atteindre la température de 600 millions de K nécessaire à la fusion du carbone produisant de l'oxygène24. Cette phase se terminera par le flash de l’hélium, suivi d'un réarrangement des couches du Soleil faisant diminuer son diamètre jusqu’à ce qu’il se stabilise à une taille de plusieurs fois (jusqu’à 10 fois) sa taille actuelle, soit d’environ 10 millions de kilomètres de diamètre. Il sera devenu une sous-géante.
+Enfin, les couches externes seront arrachées par les vents stellaires causés par les contractions du cœur de carbone sous l'effet de la gravité. La matière sera répandue dans l’espace et donnera naissance à une nébuleuse planétaire. La nébuleuse planétaire sera un nuage de gaz très chaud (plus de 10 000 K) composé essentiellement de l'hydrogène et de l'hélium non consommés dans les fusions et d'un peu de carbone. Elle servira de berceau à de nouvelles étoiles. Le cœur de carbone, n'ayant plus de carburant pour fournir l'énergie nécessaire pour contrecarrer la gravité, va s'effondrer sur lui-même et former une naine blanche d’une taille comparable à la Terre. La densité y sera si élevée que le cœur abritera de la matière électronique dégénérée . La température en surface de la naine blanche atteindra 50 000 K (chaleur emmagasinée lors de l'effondrement du cœur). Cette chaleur émet un rayonnement de couleur blanche. La surface radiative étant extrêmement faible, la naine blanche mettra plusieurs milliards d'années à se refroidir. Quand la température sera assez basse, le rayonnement thermique sera si faible que la naine blanche sera invisible. Elle terminera sa vie en naine noire, un cadavre céleste si froid qu'il n'émet plus aucune lumière.
+Ce scénario est caractéristique des étoiles de faible à moyenne masse25,26 ; de ~0,5 à ~4 M\odot.
+Cycle de vie du Soleil, il est similaire à celui d’une naine jaune. Diagramme trop court de 2 milliards d’années, il y manque aussi la « courte » phase de sous-géante.
+Structure et fonctionnement
+Structure du Soleil en coupe.
+Bien que le Soleil soit une étoile de taille moyenne, il représente à lui seul environ 99,86 % de la masse du Système solaire. Sa forme est presque parfaitement sphérique, avec un aplatissement aux pôles estimé à neuf millionièmes27, ce qui signifie que son diamètre polaire est plus petit que son diamètre équatorial de seulement dix kilomètres.
+Contrairement aux objets telluriques, le Soleil n'a pas de limite extérieure bien définie. La densité de ses gaz chute de manière à peu près exponentielle à mesure que l'on s'éloigne de son centre. Par contre, sa structure interne est bien définie.
+Le rayon du Soleil est mesuré de son centre jusqu'à la photosphère. La photosphère est la couche en dessous de laquelle les gaz sont assez condensés pour être opaques et au-delà de laquelle ils deviennent transparents. La photosphère est ainsi la couche la plus visible à l'œil nu. La majeure partie de la masse solaire se concentre à 0,7 rayon du centre.
+La structure interne du Soleil n'est pas observable directement. De la même façon que la sismologie permet, par l’étude des ondes produites par les tremblements de terre, de déterminer la structure interne de la Terre, on utilise l'héliosismologie pour mesurer et visualiser indirectement la structure interne du Soleil. La simulation informatique est également utilisée comme outil théorique pour sonder les couches les plus profondes.
+Le cœur ou noyau
+Article détaillé : Noyau solaire.
+On considère que le cœur du Soleil s’étend du centre à environ 0,25 rayon solaire. Sa masse volumique est supérieure à 150 000 kg⋅m-3 (150 fois la densité de l’eau sur Terre) et sa température approche les 15 millions de kelvins (ce qui contraste nettement avec la température de surface du Soleil, qui avoisine les 5 800 kelvins). C’est dans le cœur que se produisent les réactions thermonucléaires exothermiques (fusion nucléaire) qui transforment, dans le cas du Soleil, l’hydrogène en hélium (voir, pour les détails de ces réactions, l’article chaîne proton-proton).
+Le Soleil tire son énergie des réactions de fusion nucléaire qui transforment, en son noyau, l’hydrogène en hélium.
+Environ 3,4×1038 protons (noyaux d’hydrogène), soit 619 millions de tonnes d'hydrogène, sont convertis en 614 millions de tonnes d'hélium chaque seconde, libérant une énergie correspondant à l'annihilation de 4,26 millions de tonnes de matière par seconde, produisant 383 yottajoules (383×1024 joules) par seconde, soit l’équivalent de l’explosion de 91,5×1015 tonnes de TNT28,29.
+Le taux de fusion nucléaire est proportionnel à la densité du noyau, aussi la fusion nucléaire au sein du cœur est un processus auto-régulé : toute légère augmentation du taux de fusion provoque un réchauffement et une dilatation du cœur qui réduit en retour le taux de fusion. Inversement, toute diminution légère du taux de fusion refroidit et densifie le cœur, ce qui fait revenir le niveau de fusion à son point de départ.
+Le cœur est la seule partie du Soleil qui produise une quantité notable de chaleur par fusion : le reste de l’étoile tire sa chaleur uniquement de l’énergie qui en provient. La totalité de l’énergie qui y est produite doit traverser de nombreuses couches successives jusqu’à la photosphère, avant de s’échapper dans l’espace sous forme de rayonnement solaire ou de flux de particules.
+L'énergie des photons de haute énergie (rayons X et gamma) libérés lors des réactions de fusion met un temps considérable pour traverser les zones de radiation et de convection avant d'atteindre la surface du Soleil. On estime que le temps de transit du cœur à la surface se situe entre 10 000 et 170 000 ans30. Après avoir traversé la couche de convection et atteint la photosphère, les photons s’échappent dans l’espace, en grande partie sous forme de lumière. Chaque rayon gamma produit au centre du Soleil est finalement transformé en plusieurs millions de photons lumineux qui s’échappent dans l’espace. Des neutrinos sont également libérés par les réactions de fusion, mais contrairement aux photons ils interagissent peu avec la matière et sont donc libérés immédiatement. Pendant des années, le nombre de neutrinos produits par le Soleil était mesuré plus faible d’un tiers que la valeur théorique : c’était le problème des neutrinos solaires, qui a été résolu en 1998 grâce à une meilleure compréhension du phénomène d’oscillation du neutrino.
+La zone de radiation
+La zone de radiation ou zone radiative se situe approximativement entre 0,25 et 0,7 rayon solaire. La matière solaire y est si chaude et si dense que le transfert de la chaleur du centre vers les couches les plus extérieures se fait par la seule radiation thermique. L’hydrogène et l’hélium ionisés émettent des photons qui voyagent sur une courte distance avant d’être réabsorbés par d’autres ions. Les photons de haute énergie (rayons X et gamma) libérés lors des réactions de fusion mettent un temps considérable pour atteindre la surface du Soleil, ralentis par l’interaction avec la matière et par le phénomène permanent d’absorption et de réémission à plus basse énergie dans le manteau solaire. On estime que le temps de transit de l'énergie d’un photon du cœur à la surface se situe entre 10 000 et 170 000 ans30. Dans cette zone, il n’y a pas de convection thermique car bien que la matière se refroidisse en s’éloignant du cœur, le gradient thermique reste inférieur au gradient thermique adiabatique. La température y diminue à 2 millions de kelvins.
+La zone de convection
+La zone de convection ou zone convective s’étend de 0,8 rayon solaire du centre à la surface visible du Soleil. Elle est séparée de la zone de radiation par une couche épaisse d’environ 3 000 kilomètres, la tachocline, qui d’après les études récentes pourrait être le siège de puissants champs magnétiques et jouerait un rôle important dans la dynamo solaire. Dans la zone de convection la matière n’est plus ni assez dense ni assez chaude pour évacuer la chaleur par radiation : c’est donc par convection, selon un mouvement vertical, que la chaleur est conduite vers la photosphère. La température y passe de 2 millions à ~5 800 kelvins. La matière parvenue en surface, refroidie, plonge à nouveau jusqu’à la base de la zone de convection pour recevoir la chaleur de la partie supérieure de la zone de radiation, etc. Les gigantesques cellules de convection ainsi formées sont responsables des granulations solaires observables à la surface de l’astre. Les turbulences survenant dans cette zone produisent un effet dynamo responsable de la polarité magnétique nord-sud à la surface du Soleil.
+La photosphère
+La photosphère vue à travers un filtre.
+La photosphère est une partie externe de l’étoile qui produit entre autres la lumière visible. Elle est plus ou moins étendue : de moins de 0,1 % du rayon pour les étoiles naines, soit quelques centaines de kilomètres ; à quelques dizaines de pourcent du rayon de l’étoile pour les plus géantes, ce qui leur donnerait un contour flou contrairement au Soleil aux bords nets.
+La lumière qui y est produite contient toutes les informations sur la température, la gravité de surface et la composition chimique de l’étoile. Pour le Soleil, la photosphère a une épaisseur d’environ 400 kilomètres. Sa température moyenne est de 6 000 K. Elle permet de définir la température effective qui pour le Soleil est de 5 781 K. Sur l’image de la photosphère solaire on peut voir l’assombrissement centre-bord qui est une des caractéristiques de la photosphère. L’analyse du spectre de la photosphère solaire est très riche en information en particulier sur la composition chimique du Soleil. La photosphère est maculée d'une granulation qui lui donne l'aspect d'une peau d'orange. Ce sont des sphères d'environ 1 000 km de diamètre, composées de gaz chaud remontant vers la surface à près de 500 mètres par seconde, qui lui donnent cet aspect. La surface atteinte, elles irradient leur énergie et, une fois refroidies, replongent dans l'étoile. Chaque sphère de granulation dure huit minutes en moyenne.
+L’atmosphère solaire
+La structure du Soleil au-delà de la photosphère est généralement connue sous le nom d’Atmosphère solaire. Elle comprend trois zones principales : la chromosphère, la couronne et l’héliosphère. La chromosphère est séparée de la photosphère par la zone de température minimum et de la couronne par une zone de transition. L’héliosphère s’étend jusqu’aux confins du Système solaire où elle est limitée par l’héliopause. Pour une raison encore mal élucidée, la chromosphère et la couronne sont plus chaudes que la surface du Soleil. Bien qu’elle puisse être étudiée en détail par les télescopes spectroscopiques, l’atmosphère solaire n’est jamais aussi accessible que lors des éclipses totales de Soleil.
+La chromosphère
+La chromosphère vue en analyse spectrale Hα.
+Les éclipses totales de Soleil (ici celle du 11 août 1999) sont la seule occasion de visualiser directement la couronne (en blanc) et la chromosphère (en rose).
+La zone de température minimum qui sépare la photosphère de la chromosphère offre une température suffisamment basse (~4 000 kelvins) pour qu’on y trouve des molécules simples (monoxyde de carbone, eau), détectables par leur spectre d’absorption. La chromosphère proprement dite est épaisse d’environ 2 000 kilomètres. Sa température augmente graduellement avec l’altitude, pour atteindre un maximum de 100 000 kelvins à son sommet. Son spectre est dominé par des bandes d’émission et d’absorption. Son nom, qui vient de la racine grecque chroma (couleur), lui a été donné en raison du flash rose soutenu qu’elle laisse entrevoir lors des éclipses totales de Soleil.
+La couronne
+La zone de transition entre la chromosphère et la couronne est le siège d’une élévation rapide de température, qui peut approcher 1 million de kelvins. Cette élévation est liée à une transition de phase au cours de laquelle l’hélium devient totalement ionisé sous l’effet des très hautes températures. La zone de transition n’a pas une altitude clairement définie. Grossièrement, elle forme un halo surplombant la chromosphère sous l’apparence de spicules et de filaments. Elle est le siège d’un mouvement chaotique et permanent. Difficile à percevoir depuis la Terre malgré l’utilisation de coronographes, elle est plus aisément analysée par les instruments spatiaux sensibles aux rayonnements ultraviolets extrêmes du spectre.
+La couronne solaire est composée à 73 % d’hydrogène et à 25 % d’hélium. Les températures sont de l’ordre du million de degrés.
+Bien plus vaste que le Soleil lui-même, la couronne solaire elle-même s’étend à partir de la zone de transition et s’évanouit progressivement dans l’espace, mêlée à l’héliosphère par les vents solaires. La couronne inférieure, la plus proche de la surface du Soleil, a une densité particulaire comprise entre 1×1014 m−3 et 1×1016 m−3, soit moins d’un milliardième de la densité particulaire de l’atmosphère terrestre au niveau de la mer. Sa température, qui peut atteindre les 5 millions de kelvins, contraste nettement avec la température de la photosphère. Bien qu’aucune théorie n’explique encore complètement cette différence, une partie de cette chaleur pourrait provenir d’un processus de reconnexion magnétique.
+L’héliosphère
+Débutant à environ 20 rayons solaires (0,1 ua) du centre du Soleil, l’héliosphère s’étend jusqu’aux confins du Système solaire. On admet qu’elle débute lorsque le flux de vent solaire devient plus rapide que les ondes d’Alfvén (le flux est alors dit superalfvénique) : les turbulences et forces dynamiques survenant au-delà de cette frontière n’ont pas d’influence sur la structure de la couronne solaire, car l’information ne peut se déplacer qu’à la vitesse des ondes d’Alfvén. Le vent solaire se déplace ensuite en continu à travers l’héliosphère, donnant au champ magnétique solaire la forme d’une spirale de Parker jusqu’à sa rencontre avec l’héliopause, à plus de 50 ua du Soleil. En décembre 2004, Voyager 1 est devenue la première sonde à franchir l’héliopause. Chacune des deux sondes Voyager a détecté d’importants niveaux énergétiques à l’approche de cette frontière31.
+L’activité solaire
+Le champ magnétique solaire
+Article connexe : Dynamo solaire.
+Vue d’artiste du champ magnétique solaire.
+Le Soleil est une étoile magnétiquement active. Le soleil étant une boule de gaz et de plasma, sa rotation n'est pas contrainte à une rotation solide. On peut ainsi observer une rotation différentielle selon la latitude. Cela signifie que la surface du Soleil tourne à une vitesse différente autour de son axe selon la latitude. Cette rotation est plus rapide à l'équateur qu'aux pôles. Différents effets magnétohydrodynamiques régissent cette rotation différentielle, mais il n'y a pas encore de consensus parmi les scientifiques pour expliquer la cause de cette rotation.
+On appelle cycle solaire l'alternance de minima et de maxima d'activité solaire (apparition de taches solaires, intensité et complexité du champ magnétique). Le cycle solaire reste inexpliqué aujourd'hui. On évoque certains modèles de dynamo pour y apporter des explications, mais aucun modèle auto-consistant n'est aujourd'hui capable de reproduire les cycles solaires.
+Le vent solaire est un flux de particules issu de la couronne solaire en expansion. Une partie des particules de la couronne solaire possède une vitesse thermique suffisamment élevée pour dépasser la vitesse de libération gravitationnelle du soleil. Ils quittent alors la couronne en se dirigeant radialement dans l'espace interplanétaire. En raison du théorème du gel qui régit le comportement des plasmas très peu résistifs (MHD idéale) comme dans la couronne où le nombre de Reynolds magnétique est très élevé, le plasma (la matière) entraîne avec elle le champ magnétique. C'est ainsi que le vent solaire est muni d'un champ magnétique initialement radial. À partir de la distance d'Alfven, qui décrit l'équilibre des forces entre la réaction à la courbure des lignes de champs et le moment angulaire dû à la rotation du Soleil, le champ se courbe. Cette courbure est due à la rotation du Soleil. Il existe une analogie avec un arroseur rotatif produisant des jets d'eau dont les figures forment des spirales. Dans le cas du Soleil, cette spirale s'appelle spirale de Parker, du nom de celui qui l'a prédite dans les années 195032.
+Ce vent de particules et ce champ magnétique spiralé est le support de l'influence du Soleil autour du Système solaire. C'est ainsi qu'est définie l'héliosphère.
+Les taches solaires
+Le champ magnétique au niveau d’un groupe de taches froides de la photosphère solaire (intensité exprimée en Gauss).
+Les niveaux de couleur décrivent la composante du champ magnétique le long de la ligne de visée. Les traits blancs illustrent la composante du champ perpendiculaire à la ligne de visée.
+Image obtenue à partir d’observations du télescope solaire THEMIS33 et traitée par BASS 200034.
+Bien que tous les détails sur la genèse des taches solaires ne soient pas encore élucidés, il a été démontré (par l’observation de l’effet Zeeman) qu’elles sont la résultante d’une intense activité magnétique au sein de la zone de convection. Le champ magnétique, qui en est issu, freine la convection et limite l’apport thermique en surface à la photosphère, le plasma de la surface se refroidit et se contracte.
+Les taches solaires sont des dépressions à la surface solaire. Elles sont ainsi moins chaudes de 1 500 à 2 000 kelvins que les régions voisines, ce qui suffit à expliquer pourquoi elles apparaissent, en contraste, bien plus sombres que le reste de la photosphère. Cependant, si elles étaient isolées du reste de la photosphère, les taches solaires, où règne malgré tout une température proche des 4 000 kelvins, sembleraient 10 fois plus brillantes que la pleine lune. La sonde spatiale SoHO a permis de démontrer que les taches solaires répondent à un mécanisme proche de celui des cyclones sur Terre. On distingue deux parties au sein de la tache solaire : la zone d’ombre centrale (environ 4 000 kelvins) et la zone de pénombre périphérique (environ 4 700 kelvins). Le diamètre des taches solaires les plus petites est habituellement plus de deux fois supérieur à celui de la Terre. En période d’activité, il est parfois possible de les observer à l’œil nu sur le Soleil couchant, avec une protection oculaire adaptée.
+La surveillance des taches solaires est un excellent moyen pour mesurer l’activité solaire et prédire ses répercussions terrestres. Une tache solaire a une durée de vie moyenne de deux semaines. Au XIXe siècle, l’astronome allemand Heinrich Schwabe fut le premier à tenir une cartographie méthodique des taches solaires, ce qui lui permit de mettre en évidence une périodicité temporelle de leurs occurrences. L'ensemble des mesures réalisées indique un cycle principal dont la période varie entre 9 et 13 ans (moyenne statistique 11.2). Dans chaque période apparait un maximum d’activité (où les taches se multiplient) et un minimum d’activité. Le dernier maximum d’activité a été enregistré en 2001, avec un groupe de taches particulièrement marqué (image)35.
+Pour davantage de détails sur les taches solaires, voir l’article : Cycle solaire.
+Les éruptions solaires
+Une éruption solaire.
+Pour davantage de détails, voir les articles : Éruption solaire et Sursaut solaire.
+Effets terrestres de l’activité solaire
+Les aurores polaires sont une manifestation spectaculaire de l’activité solaire.
+Les effets terrestres de l’activité solaire sont multiples, le plus spectaculaire étant le phénomène des aurores polaires (également appelée aurore boréale dans l’hémisphère Nord et aurore australe dans l’hémisphère Sud). Une prévision de l'activité solaire est particulièrement importante en vue des missions spatiales. Une méthode reposant sur des relations entre plusieurs périodes consécutives a été établie par Wolfgang Gleißberg.
+La Terre possède une magnétosphère qui la protège des vents solaires, mais lorsque ceux-ci sont plus intenses, ils déforment la magnétosphère et des particules solaires ionisées la traversent en suivant les lignes de champs. Ces particules ionisent et excitent les particules de la haute atmosphère. Le résultat de ces réactions est la création de nuages ionisés qui reflètent les ondes radios et l’émission de lumière visible par les atomes et molécules excités dans les aurores polaires.
+Les vents solaires peuvent également perturber les moyens de communication et de navigation utilisant des satellites, en effet, les satellites à basse altitude peuvent être endommagés par l’ionisation de l’ionosphère.
+Le Système solaire
+Comparaison de la taille du Soleil par rapport aux planètes du Système solaire.
+Article détaillé : Système solaire.
+À lui seul, le Soleil représente 99,86 % de la masse totale du Système solaire, les 0,14 % restants incluant les planètes (surtout Jupiter), les comètes et les astéroïdes.
+Rapport de la masse du Soleil aux masses des planètes Mercure 6 023 600 Jupiter 1 047
+Vénus 408 523 Saturne 3 498
+Terre et Lune 328 900 Uranus 22 869
+Mars 3 098 710 Neptune 19 314
+Le Soleil et l'être humain
+Histoire des théories et de l'observation
+Le philosophe grec Anaxagore fut un des premiers occidentaux à proposer une théorie scientifique sur le Soleil, avançant qu’il s’agissait d’une masse incandescente plus grande que le Péloponnèse et non le chariot d’Hélios. Cette audace lui valut d’être emprisonné et condamné à mort, même s’il fut plus tard libéré grâce à l’intervention de Périclès.
+Rompant avec le géocentrisme, Copernic proposa la théorie héliocentrique qui plaçait le Soleil au centre de l’Univers.
+Galilée et Kepler approfondirent ses travaux.
+Au XVIe siècle, Copernic émit la théorie que la Terre tournait autour du Soleil, renouant par là avec l’hypothèse formulée par Aristarque de Samos au IIIe siècle av. J.-C. Au début du XVIIe siècle, Galilée inaugura l’observation télescopique du Soleil, observa les taches solaires, se doutant qu’elles se situaient à la surface de l’astre et qu’il ne s’agissait pas d’objets passant entre le Soleil et la Terre36. Près de cent ans plus tard, Newton décomposa la lumière solaire au moyen d’un prisme, révélant le spectre visible37, tandis qu’en 1800 William Herschel découvrit les rayons infrarouges38. Le XIXe siècle vit des avancées considérables, en particulier dans le domaine de l’observation spectroscopique du Soleil sous l’impulsion de Joseph von Fraunhofer, qui observa les raies d’absorption du spectre solaire, auxquelles il donna son nom.
+La source de l’énergie solaire fut la principale énigme des premières années de l’ère scientifique moderne. Dans un premier temps plusieurs théories furent proposées, mais aucune ne s’avéra vraiment satisfaisante. Lord Kelvin proposa un modèle suggérant que le Soleil était un corps liquide qui se refroidissait graduellement en rayonnant à partir d’une réserve de chaleur stockée en son centre39. Kelvin et Helmholtz tentèrent d’expliquer la production d’énergie solaire par la théorie connue sous le nom de mécanisme de Kelvin-Helmholtz. Malheureusement, l’âge estimé du Soleil d’après ce mécanisme n’excédait pas 20 millions d’années, ce qui était très inférieur à ce que laissait supposer la géologie. En 1890, Joseph Norman Lockyer, le découvreur de l’hélium, proposa une théorie météoritique sur la formation et l’évolution du Soleil40.
+Il fallut attendre 1904 et les travaux d’Ernest Rutherford pour qu’enfin une hypothèse plausible soit offerte. Rutherford supposa que l’énergie était produite et entretenue par une source de chaleur interne et que la radioactivité était à la source de cette énergie41. En démontrant la relation entre la masse et l’énergie (E=mc2), Albert Einstein apporta un élément essentiel à la compréhension du générateur d’énergie solaire. En 1920 Jean Perrin, suivi par Sir Arthur Eddington proposèrent la théorie selon laquelle le centre du Soleil était le siège de pressions et de températures extrêmes, permettant des réactions de fusion nucléaire qui transformaient l’hydrogène en hélium, libérant de l’énergie proportionnellement à une diminution de la masse42. La prépondérance de l’hydrogène dans le soleil fut confirmée en 1925 par Cecilia Payne-Gaposchkin. Ce modèle théorique fut complété dans les années 1930 par les travaux des astrophysiciens Subrahmanyan Chandrasekhar et Hans Bethe, qui décrivirent en détail les deux principales réactions nucléaires productrices d’énergie au cœur du Soleil43,44. Pour finir en 1957, un article intitulé Synthèse des Éléments dans les Étoiles45 apporta la démonstration définitive que la plupart des éléments rencontrés dans l’Univers se sont formés sous l’effet de réactions nucléaires au cœur d’étoiles telles que le Soleil.
+Les missions spatiales solaires
+Vue d’artiste du satellite SolarMax.
+Il observa la couronne solaire et les taches solaires de 1984 à 1989.
+Les premières sondes conçues pour observer le Soleil depuis l’espace interplanétaire furent lancées par la NASA entre 1959 et 1968 : ce furent les missions Pioneer 5, 6, 7, 8 et 9. En orbite autour du Soleil à une distance similaire à celle de l’orbite terrestre, elles permirent les premières analyses détaillées du vent solaire et du champ magnétique solaire. Pioneer 9 resta opérationnelle particulièrement longtemps et envoya des informations jusqu’en 198746.
+Dans les années 1970, deux missions apportèrent aux scientifiques des informations capitales sur le vent solaire et la couronne solaire. La sonde germano-américaine Helios 1 étudia le vent solaire depuis la périhélie d’une orbite plus petite que celle de Mercure. La station américaine Skylab, lancée en 1973, comportait un module d’observation solaire baptisé Apollo Telescope Mount et commandé par les spationautes embarqués dans la station. Skylab fit les premières observations de la zone de transition entre la chromosphère et la couronne et des émissions ultraviolettes de la couronne solaire. La mission permit également les premières observations d’éjections de masse coronale et de trous coronaux, phénomènes dont on sait aujourd’hui qu’ils sont intimement liés au vent solaire.
+En 1980 la NASA lança le satellite Solar Maximum Mission (plus connu sous le nom de SolarMax), conçu pour l’observation des rayons gamma, X et ultraviolets émis par les éruptions solaires dans les périodes de forte activité solaire. Malheureusement quelques mois après son lancement, un dysfonctionnement électronique plaça le satellite en mode standby, et l’appareil resta inactif les trois années suivantes. En 1984 toutefois la mission STS-41-C du programme Space Shuttle Challenger intercepta le satellite et permit une réparation et un relancement. SolarMax put alors réaliser des milliers d’observations de la couronne solaire et des taches solaires jusqu’à sa destruction en juin 198947.
+Le satellite japonais Yohkoh (Rayon de Soleil), lancé en 1991, observa les éruptions solaires aux longueurs d’onde des rayons X. Les données rapportées par la mission permirent aux scientifiques d’identifier différents types d’éruptions, et démontra que la couronne au-delà des régions de pics d’activité était bien plus dynamique et active qu’on l’avait supposé auparavant. Yohkoh suivit un cycle solaire entier mais tomba en panne à la suite d’une éclipse annulaire de Soleil le 14 décembre 2001. Il fut détruit en rentrant dans l’atmosphère en 200548.
+Une des plus importantes missions solaires à ce jour est la Solar and Heliospheric Observatory ou SoHO, lancée conjointement par l’Agence spatiale européenne et la NASA le 2 décembre 1995. Prévue au départ pour deux ans, la mission SoHO est toujours active. Elle s’est avérée si performante qu’une mission de prolongement baptisée Solar Dynamics Observatory est envisagée pour 2008. Localisée au point de Lagrange entre la Terre et le Soleil (auquel la force d’attraction de ces deux corps célestes est égale), SoHO envoie en permanence des images du Soleil à différentes longueurs d’onde. En plus de cette observation directe du Soleil, SoHO a permis la découverte d’un grand nombre de comètes, principalement de très petites comètes effleurant le Soleil et détruites lors de leur passage, les comètes rasantes49.
+Toutes les observations enregistrées par ces satellites sont prises depuis le plan de l’écliptique. En conséquence, ils n’ont pu observer en détail que les seules régions équatoriales du Soleil. En 1990 cependant la sonde Ulysses a été lancée pour étudier les régions polaires du Soleil. Elle fit d’abord route vers Jupiter et utilisa son assistance gravitationnelle pour se séparer du plan de l’écliptique. Par chance elle fut idéalement placée pour observer, en juillet 1994, la collision entre la comète Shoemaker-Levy 9 et Jupiter. Une fois sur l’orbite prévue, Ulysses étudia le vent solaire et la force du champ magnétique à des latitudes solaires élevées, découvrant que le vent solaire aux pôles était plus lent que prévu (750 km⋅s-1 environ) et que d’importantes ondes magnétiques en émergeaient, participant à la dispersion des rayons cosmiques50.
+La mission Genesis fut lancée par la NASA en 2001 dans le but de capturer des parcelles de vent solaire afin d’obtenir une mesure directe de la composition de la matière solaire. Elle fut sévèrement endommagée lors de son retour sur Terre, le 10 septembre 2004, mais une partie des prélèvements a pu être sauvée et est actuellement en cours d’analyse.
+La mission STEREO (Solar TErrestrial RElation Observatories) lancée le 25 octobre 2005 par la NASA a permis pour la première fois l’observation tridimensionnelle du Soleil depuis l’espace. Composée de deux satellites quasiment identiques, cette mission doit permettre une meilleure compréhension des relations Soleil-Terre, en particulier en permettant l’observation des CME (Éjections de Masse Coronale) jusqu’à l’environnement électromagnétique terrestre.
+Observation du Soleil et dangers pour l’œil
+Observation à l’œil nu
+Soleil vu de la Terre.
+Regarder le Soleil à l’œil nu, même brièvement, est douloureux et même dangereux pour les yeux.
+Un coup d’œil vers le Soleil entraîne des cécités partielles et temporaires (taches sombres dans la vision). Lors de cette action, environ 4 milliwatts de lumière frappent la rétine, la chauffant un peu, et éventuellement la détériorant. La cornée peut également être atteinte.
+L’exposition générale à la lumière solaire peut aussi être un danger. En effet, au fil des années, l’exposition aux UV jaunit le cristallin ou réduit sa transparence et peut contribuer à la formation de cataractes.
+Observation avec un dispositif optique
+Regarder le Soleil à travers les dispositifs optiques grossissants — par exemple des jumelles, un téléobjectif, une lunette astronomique ou un télescope — dépourvus de filtre adapté (filtre solaire) est extrêmement dangereux et peut provoquer des dommages irréparables à la rétine, au cristallin et à la cornée.
+Avec des jumelles, environ 500 fois plus d’énergie frappe la rétine, ce qui peut détruire les cellules rétinales quasiment instantanément et entrainer une cécité permanente.
+Une méthode pour regarder sans danger le Soleil est de projeter son image sur un écran en utilisant un télescope avec oculaire amovible (les autres types de télescopes peuvent être détériorés par ce traitement).
+Les filtres utilisés pour observer le Soleil doivent être spécialement fabriqués pour cet usage. Certains filtres laissent passer les UV ou infrarouges, ce qui peut blesser l’œil. Les filtres doivent être placés sur la lentille de l’objectif ou l’ouverture, mais jamais sur l’oculaire car ses propres filtres peuvent se briser sous l’action de la chaleur.
+Les films photographiques surexposés — et donc noirs — ne sont pas suffisants pour observer le Soleil en toute sécurité car ils laissent passer trop d’infrarouges. Il est recommandé d’utiliser des lunettes spéciales en Mylar, matière plastique noire qui ne laisse passer qu’une très faible fraction de la lumière.
+Les éclipses
+Les éclipses solaires partielles sont particulièrement dangereuses car la pupille se dilate en fonction de la lumière globale du champ de vision et non selon le point le plus brillant présent dans le champ. Durant une éclipse, la majeure partie de la lumière est bloquée par la Lune, mais les parties non cachées de la photosphère sont toujours aussi brillantes. Dans ces conditions, la pupille se dilate pour atteindre 2 à 6 millimètres et chaque cellule exposée au rayonnement solaire reçoit environ 10 fois plus de lumière qu’en regardant le Soleil sans éclipse ! Ceci peut endommager ou même tuer ces cellules, ce qui crée de petits points aveugles dans la vision51.
+Les éclipses sont encore plus dangereuses pour les observateurs inexpérimentés et les enfants car il n’y a pas perception de douleur lors de ces destructions de cellules. Les observateurs peuvent ne pas se rendre compte que leur vision est en train de se faire détruire.
+Lever et coucher du Soleil
+Coucher de soleil.
+Durant l’aube et l’aurore, le rayonnement solaire est atténué par la diffusion de Rayleigh et la diffusion de Mie dues à un plus long passage dans l’atmosphère terrestre, à tel point que le Soleil peut être observé à l’œil nu sans grand danger. En revanche, il faut éviter de le regarder lorsque sa lumière est atténuée par des nuages ou la brume, car sa luminosité pourrait croître très rapidement dès qu’il en sortirait. Un temps brumeux, les poussières atmosphériques et la nébulosité sont autant de facteurs qui contribuent à atténuer le rayonnement.
+Mythes, légendes et symbolique
+Article connexe : Mythe solaire.
+Le Soleil est un symbole très puissant pour les hommes. Il occupe une place dominante dans chaque culture.
+D’une façon générale, il est un principe masculin et actif. Toutefois, certains peuples nomades d’Asie centrale le considéraient comme un principe féminin (la Mère soleil) ; c’est aussi le cas des shintoïstes, pour qui le Soleil est le kami Amaterasu, la grande déesse, sœur de Tsukuyomi, le kami de la Lune. Même dans la langue allemande, le Soleil est féminin selon son article (die Sonne). Dans la mythologie nordique, les enfants de Mundilfari et Glaur sont Sol (déesse du Soleil) et Máni (dieu de la Lune), une idée que J. R. R. Tolkien a reprise dans son œuvre.
+Souvent, le Soleil représente le pouvoir. Cet astre donne la vie et si le Soleil venait à disparaître, ou même si ses rayons ne nous parvenaient plus, la vie s’éteindrait sur Terre, d’où le symbole de vie (donneur de vie).
+Dans l’Égypte antique, Râ (ou Rê) est le dieu Soleil et Akhénaton en fera son dieu unique sous le nom d’Aton. Dans le Panthéon grec c’est Apollon, fils de Zeus et de la titane Léto. Citons aussi Hélios qui est la personnification du Soleil lui-même. Les Aztèques l’appelaient Huitzilopochtli, dieu du Soleil et de la guerre, le maitre du monde. S’il n’est pas associé à un dieu, des gens l’ont associé à eux-mêmes comme le roi de France Louis XIV surnommé le Roi-Soleil (couronné de Dieu). La famille impériale japonaise descendrait d’Amaterasu, déesse du Soleil. Le Japon est aussi connu sous le nom de « Pays du Soleil Levant ».
+En alchimie, le symbole du Soleil et de l’or est un cercle avec un point au centre : Symbole solaire.. Il représente l’intérieur avec tout ce qui gravite autour. En astronomie comme en astrologie, le symbole est le même.
+Soleil est aussi employé par métaphore en poésie pour « jour, journée » et par analogie aux sens de « plein jour », de « vie publique » et de « grand homme » (voir le Roi Soleil)52. Ces différents sens se retrouvent dans de nombreuses périphrases qui le caractérisent : l’œil du ciel, le maître des astres, l’âme du monde, le seigneur des étoiles, le père du jour, le fils aîné de la nature, le grand flambeau, etc. Le dieu du Soleil commun entre les Romains et les Grecs, était le dieu Hélios, dieu de la vérité et du Soleil.
+Notes et références
+Notes
+ Les 0,02 % ou 0,03 % restants proviennent de la chaleur issue de la Terre elle-même ; l’ensemble des activités humaines (actuelles) produisent une puissance de l’ordre de 0,01 % de celle de l’ensoleillement terrestre.
+ C’est une situation gravitationnelle très différente que celle en cours dans le Système solaire, où la masse du Soleil peut être considéré (en première approximation) comme la source unique du champ gravitationnel.
+Références
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Sun » (voir la liste des auteurs)
+ [PDF] on guidelines for the designations and specifications of optical and infrared - astronomical photometric passbands., sur le site iau.org, consulté le 15 decembre 2012
+ « Sun Fact Sheet », sur nssdc.gsfc.nasa.gov, Williams, D. R. (2012) - Nasa,‎ 2012 (consulté le 10 octobre 2012)
+ « Measuring the Solar Radius from Space during the 2003 and 2006 Mercury Transits », sur arxiv.org, Emilio, Marcelo; Kuhn, Jeff R.; Bush, Rock I.; Scholl, Isabelle F. (March 5, 2012) - arXiv,‎ 2012 (consulté le 10 octobre 2012)
+ « Sun: Facts & Figures », sur solarsystem.nasa.gov, SolarSystem.Nasa.gov (consulté le 10 octobre 2012)
+ « Fiche d'identité de l'étoile Soleil », sur astro-rennes.com/, Société d'Astronomie de Rennes (consulté le 10 octobre 2012)
+ Valeur maximale.
+ « Asplund, M.; N. Grevesse and A. J. Sauval (2006). "The new solar abundances - Part I: the observations". Communications in Asteroseismology 147: 76–79 », sur hw.oeaw.ac.at, Communications in Asteroseismology,‎ 2006 (consulté le 10 octobre 2012)
+ Vidéo sur YouTube : euronews - space - Le soleil, ses cycles, ses tâches et ses explorateurs.
+ Reed RH (2004), The inactivation of microbes by sunlight: solar disinfection as a water treatment process Adv Appl Microbiol; 54:333-65 (http://www.ncbi.nlm.nih.gov/pubmed/15251286 pubMed])
+ « Questions de lecteurs », La Recherche (consulté le 6 août 2011)
+ CEA - Jeunes - Thèmes - La physique - Le Soleil
+ (en) Voir site : space.com.
+ (en) Kerr, F. J., Lynden-Bell D. (1986). Review of galactic constants. Monthly Notices of the Royal Astronomical Society 221 : 1023-1038.
+ Situation du Système solaire.
+ En fait, la position du barycentre fluctue selon celle des planètes ; il se trouve en moyenne à 1.19 rayon solaire du centre, mais peut s'en éloigner jusqu'à 2 rayons solaires, ou s'en rapprocher jusqu'à être presque confondu avec lui[réf. nécessaire].
+ Éclipse solaire du 5 Mars -1222
+ Éclipse solaire du 18 Juillet 1860
+ Pierre-Yves Bely, Carol Christian et Jean-René Roy : 250 réponses à vos questions sur l'astronomie, 2008, p 55 : 4,57 Ga ± 0,012 Ga. Trinh Xuan Thuan, Dictionnaire amoureux du Ciel et des Etoiles, 2009, p 793 : 4,55 Ga. Sciences et avenir octobre 2010, p 21 : 4,5682 Ga. Futura-Science 3 mai 2012 : http://www.futura-sciences.com/fr/news/t/astronomie/d/journee-mondiale-du-soleil-les-enigmes-de-notre-etoile_38317/
+ (en) Bonanno, A., Schlattl, H.; Paternò, L. (2002). [PDF]"The age of the Sun and the relativistic corrections in the EOS". Astronomy and Astrophysics 390 : 1115-1118.
+ (en)Article de Matthieu Gounelle dans Astronomy and Astrophysics Vulgarisé dans Sciences et vie décembre 2012.
+ Nucléaire - Calcul de la durée de vie du Soleil
+ Wolfram Alpha "4.3 Mt"
+ Laurent Sacco, « L’apocalypse dans 7,6 milliards d’années ? », sur http://www.futura-sciences.com, Futura-Sciences,‎ 28 février 2008 (consulté le 8 juillet 2008).
+ Trinh Xuan Thuan, Origines, la nostalgie des commencements, Folio essais 2003 p 177
+ (en) Pogge, Richard W. (1997). New Vistas in Astronomy. The Once & Future Sun (lecture notes). New Vistas in Astronomy. Consulté le 7 décembre 2005.
+ (en) Sackmann, I.-Juliana, Arnold I. Boothroyd ; Kathleen E. Kraemer (11 1993). "Our Sun. III. Present and Future". Astrophysical Journal 418 : 457.
+ (en) Godier, S., Rozelot J.-P. (2000). "The solar oblateness and its relationship with the structure of the tachocline and of the Sun’s subsurface"[PDF]. Astronomy and Astrophysics 355 : 365-374.
+ « Ciel de janvier », sur cielnoir (consulté le 24 mars 2014), p. 3
+ « Le Soleil - CEA », sur Commissariat à l'énergie atomique et aux énergies alternatives (consulté le 24 mars 2014), p. 9
+ (en) The 8-minute travel time to Earth by sunlight hides a thousand-year journey that actually began in the core.
+ (en) European Space Agency (15 mars 2005). The Distortion of the Heliosphere: our Interstellar Magnetic Compass. Consulté le 22 mars 2006.
+ Physics of the Inner Heliosphere, R. Schwenn E. Marsch, Springer-Verlag, 1990
+ (en) Page officielle du télescope THEMIS.
+ Page officielle de la base de données solaires BASS 2000.
+ (en) sec.noaa.gov – Le cycle solaire actuel.
+ (en) Galileo Galilei (1564 - 1642). BBC. Retrieved on 2006-03-22.
+ (en) Sir Isaac Newton (1643 - 1727). BBC. Consulté le 22 mars 2006.
+ (en) Herschel Discovers Infrared Light. Cool Cosmos. Consulté le 22 mars 2006.
+ (en) Thomson, Sir William (1862). "On the Age of the Sun’s Heat". Macmillan’s Magazine 5 : 288-293.
+ (en) Lockyer, Joseph Norman (1890). The meteoritic hypothesis; a statement of the results of a spectroscopic inquiry into the origin of cosmical systems. London and New York : Macmillan and Co.
+ (en) Darden, Lindley (1998). The Nature of Scientific Inquiry.
+ CNRS : Naissance, vie et mort des étoiles.
+ (en) Bethe, H. (1938). "On the Formation of Deuterons by Proton Combination". Physical Review 54 : 862-862.
+ (en) Bethe, H. (1939). "Energy Production in Stars". Physical Review 55 : 434-456.
+ (en) E. Margaret Burbidge ; G. R. Burbidge ; William A. Fowler ; F. Hoyle (1957). "Synthesis of the Elements in Stars". Reviews of Modern Physics 29 (4): 547-650.
+ (en) Pioneer 6-7-8-9-E. Encyclopedia Astronautica. Consulté le 22 mars 2006.
+ (en) St. Cyr, Chris ; Joan Burkepile (1998). Solar Maximum Mission Overview. Consulté le 22 mars 2006.
+ (en) Japan Aerospace Exploration Agency (2005). Result of Re-entry of the Solar X-ray Observatory "Yohkoh" (SOLAR-A) to the Earth’s Atmosphere. Consulté le 22 mars 2006.
+ (en) SoHO Comets. Consulté le 25 avril 2009.
+ (en) Ulysses — Science — Primary Mission Results. NASA. Consulté le 22 mars 2006.
+ F. Espenak, « Eye Safety During Solar Eclipses — adapted from NASA RP 1383 Total Solar Eclipse of 1998 February 26, April 1996, p. 17 », NASA (consulté le 22 mars 2006).
+ Alain Rey, Dictionnaire historique de la langue française,‎ 1992, 2592 p. (ISBN 978-2-85036-594-2).
+Voir aussi
+Sur les autres projets Wikimedia :
+ Soleil, sur Wikimedia Commons
+ soleil, sur le Wiktionnaire
+ Soleil, sur Wikibooks
+ Soleil, sur Wikisource
+ Soleil, sur Wikiquote
+ Soleil, sur Wikinews
+Il existe une catégorie dédiée à ce sujet : Soleil.
+Articles connexes
+ Héliosismologie
+ Étoile
+ Constante solaire
+ Météorologie de l’espace
+ Chaîne proton-proton
+ Système Solaire
+ 18 Scorpii, une étoile de la constellation du Scorpion considérée comme une quasi-jumelle du Soleil.
+ Naine jaune
+ Éclipse
+ Énergie solaire
+ Boucle coronale
+ Région de transition solaire
+ Couronne solaire
+ Chromosphère
+Liens externes
+ Soleil : les derniers secrets de notre étoile (audio), les podcasts de Ciel & Espace radio, Jean-Paul Zahn
+ (en) Le Soleil aujourd’hui dans différentes longueurs d’onde (images SoHO)
+ (en) Le Soleil vu par les amateurs, bases de données solaires en images
+ Astropixel.org : nombreuses photographies d’éruptions solaire réalisées par un astronome amateur
+ Générateur de diagramme solaire, graphiques pour la localisation et la date.
+ Les horaires du soleil pour connaître les heures de lever et coucher de soleil en France et dans d'autres pays de l'Europe
+ (fr) Carte du monde solaire 1884, Carto-mondo.fr
+Ce document provient de « http://fr.wikipedia.org/w/index.php?title=Soleil&oldid=104590338 ».
+ Dernière modification de cette page le 12 juin 2014 à 09:00.
+ Droit d'auteur : les textes sont disponibles sous licence Creative Commons paternité partage à l’identique ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+ Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.

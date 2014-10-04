@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Datagram Analyzer</title>
+        <link rel="stylesheet" href="http://ivantomic.com/projects/datagram/style.css">
+    </head>
+    <body>
+    <div id="main_content">
+    <div id="uploadBox">
+        <h2>Input demo text to analyze:</h2>
+        <span id='fileInputArea'>
+            <textarea id="InputTextBox"></textarea>
+            <div id="bottom_buttons">
+                <button class="demoText" data-id="en" type="button">English Demo</button>
+                <button class="demoText" data-id="de" type="button">German Demo</button>
+                <button class="demoText" data-id="fr" type="button">French Demo</button>
+                <button class="demoText" data-id="it" type="button">Italian Demo</button>
+                <!-- <button class="demoText" data-id="zh" type="button">Chinese Demo</button> -->
+
+                <button id="InputTextBoxSend" type="button">Process!</button>
+            </div>
+        </span>
+        <div id="console_output_1"></div>
+        <div id="console_output_2"></div>
+    </div>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://ivantomic.com/projects/datagram/socket.io/socket.io.js"></script>
+    <script src="http://ivantomic.com/projects/datagram/main.js"></script>
+    </body>
+</html>

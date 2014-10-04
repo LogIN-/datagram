@@ -1,0 +1,274 @@
+Slunce
+Z Wikipedie, otevřené encyklopedie
+Slunce Slunce Slunce
+Pozorování
+Střední vzdálenost od
+Země 149,6×106 km
+(8,31 světelné minuty)
+Hvězdná velikost (V) −26,74m
+Absolutní hvězdná velikost 4,8m
+Elementy dráhy
+Střední vzdálenost od středu
+Mléčné dráhy 2,5×1017 km
+(26 000 světelných let)
+Galaktická perioda (oběžná doba) 2,26×108 a
+Orbitální rychlost 217 km/s
+Fyzikální charakteristiky
+Průměr 1 392 020 km[1]
+(109 Zemí)
+Zploštění 9×10−6
+Povrch 6,09×1012 km²
+(11 900 Zemí)
+Objem 1,41×1018 km³
+(1 300 000 Zemí)
+Hmotnost 1,9891 × 1030 kg
+(332 950 Zemí)
+Hustota 1,408 g/cm³
+Gravitace na povrchu 273,95 m/s2>
+(27,9 G)
+Úniková rychlost
+na povrchu 617,54 km/s
+Povrchová teplota 5780 K
+Teplota koróny 5 MK
+Teplota jádra ~13,6 MK
+Zářivý výkon (L☉) 3,827×1026 W
+Intenzita záření (I☉) 2,009×107 W sr−1
+Charakteristiky rotace
+Sklon 7,25°
+(k ekliptice)
+67.23°
+(k rovině Mléčné dráhy)
+Rektascenze
+severního pólu 286,13°
+(19 h 4 min 31,2 s)
+Deklinace +23° 26' 21'' až
+-23° 26' 21''
+Perioda rotace
+na rovníku 25,3800 dní
+(25 d 9 h 7 min 12,8 s)
+Rychlost rotace
+na rovníku 7174 km/h
+Složení fotosféry
+Vodík 73,46 %
+Hélium 24,85 %
+Kyslík 0,77 %
+Uhlík 0,29 %
+Železo 0,16 %
+Neon 0,12 %
+Dusík 0,09 %
+Křemík 0,07 %
+Hořčík 0,05 %
+Síra 0,04 %
+Astronomický symbol Slunce
+Slunce je hvězda hlavní posloupnosti, spektrální třídy G2V.[2] patřící do třídy svítivosti V. Obíhá okolo středu Mléčné dráhy ve vzdálenosti od 25 000 do 28 000 světelných let. Oběh trvá přibližně 226 milionů let. Tvoří centrum sluneční soustavy, od Země je vzdálená 1 AU (asi 150 milionů km). Jde tedy o hvězdu Zemi nejbližší. Hmotnost Slunce je asi 330 000 krát větší než hmotnost Země[2] a představuje 99,8 % hmotnosti sluneční soustavy. Slunce je koule žhavého plazmatu, neustále produkuje ohromné množství energie. Jeho výkon činí zhruba 4×1026 W, z čehož na Zemi dopadá asi 45 miliardtin. Tok energie ze Slunce na Zemi činí asi 1,4 kW m−2.
+Slunce je staré přibližně 4,6 miliard let,[3] což je řadí mezi hvězdy středního věku. Bude svítit ještě asi 5 až 7 miliard let.[3] Teplota na povrchu Slunce činí asi 5800 K, proto je lidé vnímají jako žluté (i když maximum jeho vyzařování je v zelené části viditelného spektra). Průměr Slunce je zhruba 1 400 000 km, což činí asi 109 průměrů Země. Jeho objem je tedy asi 1,3 milionkrát větší než objem Země. Hustota Slunce činí průměrně 1400 kg m−3.[4] Slunce se otáčí jinou rychlostí u pólů a na rovníku. Na rovníku se otočí jednou za 25 dní, na pólu za 36 dní. Jeho absolutní magnituda je +4,1, relativní pak -26,74.[2] Jde tak o nejjasnější těleso na obloze. Astronomický symbol pro Slunce je kruh s bodem uprostřed, v Unicode ☉ (U+2609 SUN).
+Obsah
+ 1 Význam
+ 2 Vývoj představ o Slunci
+ 3 Vlastnosti
+ 3.1 Barva
+ 3.2 Tvar Slunce
+ 3.3 Sluneční energie
+ 3.4 Sluneční světlo
+ 4 Složení Slunce
+ 4.1 Výzkum
+ 5 Struktura Slunce
+ 5.1 Jádro
+ 5.1.1 Termojaderná fúze
+ 5.2 Vrstva v zářivé rovnováze
+ 5.3 Tachoklina
+ 5.4 Konvektivní zóna
+ 5.5 Fotosféra
+ 5.6 Chromosféra
+ 5.7 Přechodová oblast
+ 5.8 Koróna
+ 6 Magnetické pole Slunce
+ 7 Fyzikální pohyby Slunce
+ 7.1 Rotace
+ 7.2 Pohyb Slunce v Galaxii
+ 8 Sluneční aktivita
+ 9 Obíhající tělesa
+ 10 Vznik a vývoj
+ 11 Zdánlivý pohyb Slunce po obloze
+ 11.1 Zatmění Slunce
+ 12 Pozorování Slunce
+ 13 Výzkum Slunce
+ 14 Odkaz v kultuře
+ 14.1 Náboženský význam
+ 15 Odkazy
+ 15.1 Reference
+ 15.2 Externí odkazy
+Význam
+Slunce je hvězda nejbližší k Zemi, jejíž povrch zásobuje teplem a světlem. Světlo dosáhne povrchu Země za 8 minut a 19 sekund[5] (přičemž z druhé nejbližší hvězdy Alpha Centauri dosáhne světlo zemského povrchu za 4,35 roku). Vzdálenost mezi Zemí a Sluncem se pohybuje v rozmezí 147 097 000 km (perihélium) až do 152 099 000 km (afélium).[5] Tyto změny vzdálenosti však nejsou příčinou střídání ročních období na Zemi. Od zdánlivého pohybu Slunce se současně odvozuje i pravý sluneční čas. Jeho upravená hodnota v podobě středního slunečního času je základem měření času v běžném životě.
+Energie slunečního záření pohání téměř všechny procesy, které na Zemi probíhají. Je na ní závislé podnebí, změny počasí i teploty, významně se podílí na přílivu a odlivu. Pomáhá udržet na zemském povrchu vodu v kapalném skupenství, je klíčovým faktorem pro fotosyntézu rostlin a umožňuje živočichům vidět.
+Zemská atmosféra propouští jen část spektra slunečního záření - všechny složky viditelného spektra, část ultrafialového, infračerveného a radiového záření.
+Ultrafialové záření podněcuje tvorbu vitaminu D vznikajícího v lidské kůži.[6] Při dlouhodobějším působení ale může způsobovat i nepříznivé efekty v podobě mutací a vzniků nádorových onemocnění[6] či slepoty.[7]
+Vývoj představ o Slunci
+Slunce je jedním z nejstarších náboženských motivů a předmětem uctívání
+Slunce bylo ve starověku v mnoha kulturách uctíváno jako božstvo. V antickém Řecku byl bohem Slunce Helios, který cestoval každý den po obloze ve svém zlatém voze. Ve starověkém Římě se nazýval Sol a ve starověkém Egyptě pak Ré, Ra či Amon. V astrologii je Slunce symbolem vitality a zdraví. Většina kultur považovala Slunce za symbol života a znovuzrození, což bylo spojeno s jeho pravidelným objevováním se na obloze každé ráno.
+První písemné zmínky o pozorování Slunce pocházejí z období 2000 let př. n. l. ze starověké Číny. V roce 762 př. n. l. bylo pozorováno první zatmění Slunce v Asýrii, o kterém se dochovaly písemné zmínky v podobě hliněné destičky psané klínovým písmem.[8]
+Anaxagoras se v roce 434 př. n. l. domníval, že se Slunce skládá z hromady hořícího kamení, které je jen o málo větší než Řecko. Dle představ mnohých civilizací Slunce obíhalo okolo Země a nikoliv Země kolem Slunce, jak bylo později prokázáno. Aristoteles ve svém modelu vesmíru umístil Slunce mezi oběžnou dráhu Měsíce a Merkuru, čímž na dlouhou dobu ovlivnil řadu dalších myslitelů. Aristarchos ze Samu předvedl současně teorii, že Slunce je středem soustavy a že Země kolem něho obíhá.[8] Tato raná heliocentrická představa se příliš neuchytila a až do roku 1507 převažoval názor, že středem soustavy je Země. V roce 1543 publikoval svoje teze Mikuláš Koperník v knize De revolutionibus orbium coelestium, kde se vyjádřil pro heliocentrickou soustavu. Konstrukce prvního dalekohledu značně rozšířila možnosti zkoumání Slunce, čehož využil Galileo Galilei a David Fabricius pro pozorování slunečních skvrn.[8]
+Sluneční skvrna
+Objevení slunečních skvrn značně pobouřilo tehdejší katolickou obec, jelikož do té doby se věřilo, že Slunce je tvořeno z „dokonale čistého éteru“ a tedy je nemožné, aby se na jeho povrchu nacházely tmavší plochy. Během následujících dvou let se ale podařilo minimálně čtyřem dalším pozorovatelům pozorovat sluneční skvrny, což podpořilo Galileovo pozorování.
+V roce 1625 jezuita Christoph Scheiner zjistil, že Slunce rotuje podobně jako Země okolo svojí rotační osy.[8] Tento objev učinil na základě pozorování slunečních skvrn, které se během pozorování nápadně pohybovaly od jednoho okraje ke druhému. Významným krokem pro porozumění významu a pozice Slunce se stalo objevení Keplerových zákonů a Newtonova gravitačního zákona. Díky nim se zjistilo, že Slunce je velmi hmotné a že všechna tělesa ve sluneční soustavě kolem něho obíhají. Velikost a vzdálenost od Země byly poprvé přesně změřeny v roce 1672 díky přesným měřením italského astronoma Giovanniho Cassiniho a Johna Flamsteeda. V roce 1814 použil německý astronom Joseph von Fraunhofer spektroskop pro analýzu slunečního světla a zjistil, že spektrum Slunce je přerušované tmavými absorpčními čárami. Tyto čáry byly pojmenovány jako Fraunhoferovy čáry a staly se důležitým pomocníkem při pozdějším určování chemického složení Slunce.
+Ve druhé polovině 19. století bylo Slunce a další hvězdy velmi intenzivně studovány, jelikož zde platila vzájemná provázanost. Nové objevy u Slunce pomáhaly vědcům pochopit procesy, které se odehrávají v jiných hvězdách a opačně. Příčina jeho záření ale přes veškerou námahu zůstávala dlouho nejasná. Jedna z hypotéz vyslovená skotským inženýrem Johnem Waterstonem předpokládala, že vyzářená energie pochází z gravitační kontrakce Slunce. Další vyslovená J. Mayerem tvrdila, že teplota Slunce je udržována dopady meteoritů na jeho povrch.
+Důležitým mezníkem pro pochopení Slunce se stal objev spektrometrie, díky němuž došlo k určení chemického složení Slunce. Postupně se začalo předpokládat, že hlavní energetický zdroj Slunce bude v podobě jaderných reakcí. Začaly panovat debaty o formě této jaderné reakce, zda se tedy jedná o slučování (fúzi), nebo o štěpení. Až v roce 1938 navrhl německý fyzik Hans Bethe jadernou fúzi jako zdroj Slunce. Tato teorie byla definitivně potvrzena až v roce 2002.
+Vlastnosti
+Rozklad světla na spektrální barvy
+Slunce je jednoznačně největší nebeské těleso, které se nachází ve sluneční soustavě. Má přibližně 109 krát větší průměr než Země a 1 300 000násobně větší objem. Celkově obsahuje okolo 99,8 % hmoty sluneční soustavy. Funguje jako obrovská plazmová koule[2] s průměrnou hustotou jen o málo větší, než je hustota vody.[3] Směrem ke středu hustota i teplota narůstá.
+V porovnání s ostatními hvězdami v naší Galaxii patří do středně staré skupiny hvězd. Jeho hmotnost a svítivost je však větší než je průměr hvězd nacházejících se v naší Galaxii, který se odhaduje asi na polovičku hodnot Slunce. Průměr hmotnosti a svítivosti hvězd v Galaxii je totiž tvořen červenými trpaslíky. Zvláštností Slunce je i to, že se jedná o samostatnou hvězdu, která netvoří vícenásobný systém, či dvojhvězdu (i když se v některých případech spekuluje o nepovedené dvojhvězdě Slunce – Jupiter[zdroj?]) a současně také není členem žádné hvězdokupy.
+Barva
+Barva ze Země se značně mění v průběhu dne a v závislosti na stavu atmosféry
+Slunce je viděno ze Země jako červené jen při svém východu a západu. Tedy tehdy, kdy je nízko nad obzorem a sluneční světlo na Zemi dorazí až poté, co vykonalo dlouhou cestu nižší a hustší vrstvou atmosféry. Molekuly vzduchu absorbují kratší vlnové délky světla (modré světlo), takže pozorovateli zůstane převážně červená. Při východu a západu se může Slunce zdát šišaté či velmi velké, což je také způsobeno tím, že světlo urazí dlouhou dráhu hustší atmosférou, čímž je zkreslen jeho tvar.
+Naopak je-li Slunce kolem poledne vysoko nad obzorem, jeví se barva oblohy jako modrá, protože sluneční světlo urazí nejkratší vzdálenost atmosférou. Tato vzdálenost odpovídá vlnové délce modrého světla, ostatní vlnové délky (delší – červená, …) jsou molekulami absorbovány, proto je obloha modrá a v této fázi tvar Slunce nejvíce odpovídá skutečnosti. Obsahuje-li ovšem atmosféra velké množství vodních par, dojde k absorpci i vlnových délek odpovídajících modré barvě a na obloze tak vznikají mraky, jež jsou šedé až černé barvy.
+Pokud je Slunce pozorováno z místa mimo vliv atmosféry, je díky svojí pozici v hlavní posloupnosti hvězd na pozici hvězdy ze spektrální třídy G2, tedy hvězda menší než modrý obr. Slunce emituje záření v celém elektromagnetickém spektru, nejintenzivnější vyzařování má na vlnové délce 501 nm.
+Prostorový snímek Slunce pořízený observatořemi STEREO. Slunce je téměř dokonalá koule s minimálním zploštěním na pólech
+Tvar Slunce
+Slunce je téměř dokonalá koule,[9] se zploštěním přibližně pouhých 10 km polárního průměru vzhledem k rovníkovému průměru. Tento téměř ideální stav je dán částečně tím, že odstředivý efekt sluneční rotace je asi 18 milionkrát slabší, než přitažlivost na povrchu v oblasti rovníku.
+Sluneční energie
+ Související informace naleznete také v článku Sluneční energie.
+Téměř všechna energie Slunce je vyzařována ve formě elektromagnetického záření, které je nezbytným předpokladem pro všechny formy života na Zemi. Vzniká jako výsledek termonukleární reakce pp-řetězce, kdy dochází k přeměně vodíku na hélium za současného uvolňování energie. Předpokládá se, že každou sekundu Slunce spotřebuje a přemění 700 miliónů tun vodíku na 695 miliónů tun hélia. Zbytek v podobě 4,5 miliónů tun za sekundu je přeměněn na energii v poměru 96 % elektromagnetického záření a 4 % elektronová neutrina.[3]
+Všechno elektromagnetické záření včetně viditelného záření pochází z fotosféry. Každou sekundu vyzáří Slunce do okolí tolik energie, že by to stačilo pokrýt potřeby celého světa na více než 1000 let. Energie ve středu Slunce vzniká ve formě fotonů gama záření a neutrin. Na povrch Slunce se dostává prostřednictvím konvekce, absorpce a emise, opouští ho v podobě elektromagnetické radiace a neutrin (v malé míře také v podobě kinetické energii a termální energie slunečního větru a jako energie magnetického pole. Tlak záření, které se dostává na povrch Slunce, je obrovský a vyrovnává se působením gravitační síly, kterou jsou všechny částice ve Slunci přitahovány k jeho středu. Slunce je v hydrostatické rovnováze.[9]
+Sluneční neutrina je možno detekovat pomocí neutrinového detektoru. Sledování slunečních neutrin je důležité, protože může poskytovat informace o jádře Slunce v téměř reálném čase na rozdíl od fotonů, které ze středu putují tisíce až milióny let. Současný počet pozorovaných slunečných neutrin je však asi třikrát menší, než počet neutrin, které bylo předpovídáno modelem. Rozdíl mezi předpokládaným a skutečným počtem neutrin se dlouho nepodařilo uspokojivě vysvětlit. Měření pomocí neutrinového detektoru Subdury Neutrino Observatory však potvrdilo teorii, že neutrina mají nenulovou hmotnost a že po dobu své cesty zevnitř Slunce k Zemi oscilují mezi elektronovým neutrinem, mionovým neutrinem a tauónovým neutrinem. Současné detektory založené na chlóru a galiu však mohou zachytit jen elektronová neutrina.[10]
+Od svého vzniku už Slunce spotřebovalo polovinu svých zásob vodíku. Dalších přibližně 5 až 7 miliard let bude ještě ve Slunci probíhat termonukleární reakce, během které se přemění většina vodíku na helium. Až dojde vodík v jádře, naruší se na krátký čas hydrostatická rovnováha, což povede k tomu, že se stane červeným obrem. Zvětšováním průměru Slunce dojde k tomu, že nejbližší planety budou pohlceny rozšiřujícím se Sluncem. Předpokládá se, že bude pohlcena i Země.
+Sluneční světlo
+Dopadající sluneční světlo na Zemi má bílou barvu se spektrem složených barev, které se rozkládají od červené, přes oranžovou, žlutou, zelenou, modrou až po fialovou. Tyto barvy je možné vidět během polarizace světla či v přírodě během vzniku duhy, která má v tomto pořadí i seřazené barvy.[4]
+Složení Slunce
+Složení Slunce není do dnešních dnů zcela známé. Většina informací o jeho složení pochází z výzkumu spektrálních čar. Slunce není složeno homogenně, ale jeho chemické složení je závislé na hloubce. V jádře vlivem jaderných reakcí je větší obsah helia, než na jeho povrchu. Předpokládá se, že v jádře je vodík zastoupen již 34 % a hélium 64 %. Spektrum současně ukazuje, že se ve Slunci nachází ve stopovém množství většina prvků, které jsou známé na Zemi. Metalicita Slunce, tedy poměr obsahu těžších a lehčích prvků, je 1,6 %.
+Složení Slunce v procentech počtu atomů prvek vodík hélium kyslík uhlík dusík neon železo křemík hořčík síra ostatní
+podíl v % 92,1 7,8 0,061 0,030 0,0084 0,0076 0,0037 0,0031 0,0024 0,0015 0,0015
+V hmotnostních poměrech je Slunce složeno ze zhruba ¾ vodíku a ¼ hélia.
+Výzkum
+V roce 2003 měla americká sonda Genesis za úkol výzkum slunečního větru a odebrání jeho vzorků. Při přistávání návratového modulu na Zemi se však neotevřely padáky a pouzdro se zřítilo. Velká část vzorků tak byla poškozena.
+Struktura Slunce
+Jednotlivé vrstvy Slunce
+Sluneční těleso spolu s atmosférou zvanou heliosféra se dělí na několik vrstev.
+Jádro
+ Související informace naleznete také v článku Jádro Slunce.
+Uprostřed Slunce se nachází jádro, kde dochází k uvolňování energie. Jedná se o oblast, která sahá do vzdálenosti 175 000 km od středu. Teplota v jádru dosahuje 1,5×107 K[9] a hustota plazmy se zde pohybuje okolo 130 000 kg.m−3.
+Termojaderná fúze
+ Související informace naleznete také v článku Termojaderná fúze.
+V tomto prostředí jsou již jednotlivé atomy rozloženy na volná jádra a elektrony, současně se vodík postupně a velmi pomalu mění na helium za uvolnění obrovského množství energie, tento proces se nazývá termojaderná fúze. Každou sekundu se při tom spálí 700 000 000 tun vodíku. Ani to však neznamená, že uvnitř Slunce děj probíhá nějak překotně. Hustota výkonu Slunce je pouhých 0,19 mW.kg−1.
+Postupně přes několik mezistupňů v tzv. proton-protonovém cyklu[2] dojde ke sloučení čtyř protonů v jednu částici alfa - jádra helia, přičemž dva z protonů se přemění na neutrony. Řetězec těchto reakcí produkuje mnoho energie ve formě fotonů tvrdého gama záření. Předpokládá se, že z 1 gramu vodíku vznikne hélium a současně i 1012 J energie.[4] Ty pronikají k chladnějšímu povrchu, což jim trvá podle různých odhadů od asi 17 tisíců.[11] po 50 miliónů let.[12] Za tu dobu předají většinu své energie hmotě Slunce a stanou se z nich fotony o mnohem delších vlnových délkách, například fotony viditelného světla. Mnohem rychleji se k povrchu dostanou vzniklá neutrina, pro které hmota Slunce prakticky není překážkou.
+Vrstva v zářivé rovnováze
+ Související informace naleznete také v článku Vrstva v zářivé rovnováze.
+Tato vrstva je široká zhruba půl milionu km.[3] Zářivá rovnováha znamená, že co atomy v této vrstvě pohltí, to také později vyzáří, přičemž tlak záření vyrovnává gravitační tlak. Právě tato vrstva způsobuje výrazné zpomalení fotonů, protože každý foton, který je pohlcen, je následně vyzářen v náhodném směru. Předpokládá se, že fotony touto vrstvou projdou přibližně za 100 000 let.[3] Teplota se zde pohybuje v rozmezí 7 až 2 000 000 K, hustota dosahuje 20 g/cm3 ve spodních vrstvách a 0,2 g/cm3 ve svrchních.
+Tachoklina
+Jedná se o tenkou mezivrstvu, která byla objevena měřením americké družice SOHO. Předpokládá se, že zde dochází ke generaci rozsáhlého magnetického pole Slunce. Současně se zde mění rychlost proudů plazmy a ke změně rotační rychlosti.
+Konvektivní zóna
+Tato vrstva o tloušťce asi 200 tisíc km[9] je nejsvrchnější vrstva Slunce, která se podobá hrnci s vroucí vodou. V této vzdálenosti od jádra je již způsob předávání energie pomocí záření málo účinný. Některé ionty jsou totiž schopny za nižších teplot fotony pohlcovat a následně je neemitovat dále, čímž dochází k jejich absorpci.
+Studenější hmota padá směrem ke středu Slunce, ohřátá se dere k povrchu, což způsobuje značné turbulence v této vrstvě a promíchávání materiálu. Hlavním přenosem tepla se tak stává proudění čili konvekce. Během konvekce se přenášený plyn rychle ochlazuje a rozpíná. Výstupy konvektivních proudů je možno v této zóně pozorovat jako granuly či supergranuly. Odhaduje se, že teplota se zde pohybuje od 2 000 000 do 6000 K.
+Fotosféra
+ Související informace naleznete také v článku Fotosféra.
+Fotosféra je viditelný povrch Slunce, která se pozoruje jako sluneční kotouč viditelný ze Země. Při pozorování se jeví střed Slunce jasnější, než okraje, což je dáno tím, že se na okrajích Slunce pozorují chladnější oblasti fotosféry. Ve fotosféře je možné pozorovat vrcholky vystupujících proudů z konvektivní zóny dosahující velikostí až 1000 km (tzv. granulace). Nápadné jsou také sluneční skvrny a protuberance.[3] Předpokládá se, že její hustota se pohybuje okolo 1023 částic/m3 (či v jiném zápisu 3,5 × 10−7 do 4,5 × −8 g/sm3)[13] při teplotě kolem 5800 K.[3] Fotosféra je tak nejchladnější oblastí Slunce. Její šířka je v rozmezí mezi 200 až 300 km.[13]
+Typickým jevem ve fotosféře je přítomnost granulí, které jsou různá zrna s průměrem od 200 do 1800 km. Jedná se o výstupné konvekční proudy ze svrchních oblastí Slunce, které mají přibližně o 200 °C vyšší teplotu než okolní fotosféra.[14]
+Chromosféra
+ Související informace naleznete také v článku Chromosféra.
+Chromosféra je vcelku tenká a řídká vrstva nad fotosférou, která má jasně červené zbarvení. Její teplota stoupá směrem od Slunce a dosahuje až 300 000 K, ale její hodnota není všude stejná. Do výšky 3000 km pozvolna stoupá asi k hodnotě 6000 K, ale pak rychle narůstá směrem od Slunce, což je nejspíše způsobeno nestabilitou plazmatu.[3] Objevují se v ní chromosférické erupce. Je to vrstva silně ionizovaného plynu, která se rozkládá od 12 000 do 15 000 km.[15] Jedná se o spodní část sluneční atmosféry, která je během zatmění Slunce viditelná jako načervenalý světelný úkaz. Tato červená barva je způsobena tím, že maximum jejího záření se nachází ve vodíkové čáře H-alfa, čemuž odpovídá vlnová délka světla 656,7 nanometrů. Hustota plynu se zde pohybuje okolo 10−15 g/cm3, což odpovídá přibližně hustotě částic 75 km nad povrchem Země.[15]
+Přechodová oblast
+ Související informace naleznete také v článku Přechodová oblast.
+Přechodová oblast (některé zdroje jí samostatně nevyčleňují) je tenká nepravidelná vrstva sluneční atmosféry, které odděluje korónu od chladnější fotosféry. Teplota se zde náhle mění z 20 000 K (na hranici s chromosférou) až na teplotu 1 000 000 K (na hranici s korónou). Tato vrstva je pozorovatelná převážně přes ultrafialovou část spektra.
+Koróna
+ Související informace naleznete také v článku Koróna.
+Koróna nemá vnější hranici a zasahuje hluboko do sluneční soustavy, ale někdy je udáváno, že končí ve vzdálenosti 1 až 2 000 000 km. Teplota v koróně o tří řády přesahuje teplotu na povrchu Slunce, pohybuje se mezi 1 000 000 K až 6 000 000 K.[16] Příčinou je zřejmě ohřev pomocí Alfénových vln.[17][18] Koróna je velice řídká (hustota částic se pohybuje okolo 1011 částic/m3) a normálně neviditelná, neboť je přezářena spodnější fotosférou; pozorovatelná je pouze při zatměních Slunce nebo pomocí koronografu. Také v koróně se vyskytují erupce a protuberance.
+Modelace pohybu částic v magnetickém poli Slunce
+Magnetické pole Slunce
+Slunce má silné magnetické pole, které má přibližně hodnotu 10−4 tesla, lokálně pole slunečních skvrn dosahuje až do 10−1 tesla.[2] Většina útvarů na jeho povrchu s tímto polem souvisí. Slunce je magneticky proměnná hvězda, polarita jeho pólů a orientace jeho siločar se mění spolu s 11 ročním slunečním cyklem.[19] V maximu slunečního cyklu je magnetické pole Slunce velmi složité a dá se vnímat zastoupený dvojpólový moment. Silokřivky jsou vlivem rotace Slunce tvarovány do podoby tzv. Archimedových spirál, což má za následek, že obíhající tělesa kolem Slunce procházejí střídavě oblastmi s rozdílnými směry magnetického pole.[3]
+Celkové magnetické pole vzniklo v původním magnetickém plyno-prachové sluneční mlhoviny, ze kterého vzniklo Slunce a ostatní objekty sluneční soustavy. Toto pole se podle posledních měření vyskytuje všude na Slunci. Další složka celkového magnetického pole jsou tzv. lokální magnetické pole. Jsou velmi proměnlivé a nejsilnější jsou v místech aktivních oblastí. Vznik tohoto magnetického pole jako jeho vznik a vývoj fotosférických, chromosférických a koronálních objektů není zatím zcela dostatečně vysvětlen.
+Magnetické pole Slunce ovlivňuje celou sluneční soustavu.[3]
+Fyzikální pohyby Slunce
+Rotace
+Hypotézu rotace Slunce poprvé vyslovil roku 1609 Johannes Kepler ve své knize Astronomia nova.
+Všechna hmota na Slunci se díky extrémní teplotě vyskytuje v podobě plazmy. To umožňuje, aby Slunce rotovalo rychleji na rovníku než ve vyšších zeměpisných šířkách. Díky tomuto rozdílu je magnetické pole Slunce deformované a tvarem připomíná silotrubici. Tato deformace magnetického pole způsobuje erupce a spouští vznik slunečních skvrn a protuberancí.
+Umělecká představa zachycující přibližnou pozici Slunce v Galaxii Mléčná dráha
+Slunce rotuje okolo své osy v porovnání s jinými hvězdami pomalu. Rychlost rotace není všude na povrchu stejná. Na rovníku se Slunce otočí jednou za 25,38 dne, na pólech za 36 dní. Tento jev se nazývá diferenciální rotace. Vnitřek Slunce se otáčí jako tuhé těleso jednotnou rychlostí jednou za 27 dní. Toto je synodická doba rotace, která je počítána vzhledem k Zemi. Vůči okolním nehybným objektům se Slunce otočí jednou za 25,38 dne.
+Pohyb Slunce v Galaxii
+ Související informace naleznete také v článku Galaxie Mléčná dráha.
+Slunce se vůči Zemi a ostatním tělesům sluneční soustavy téměř nepohybuje. Z pohledu Galaxie však Slunce není stacionárním tělesem, ale obíhá kolem galaktického jádra přibližně ve vzdálenosti 30 000 světelných let od jádra rychlostí přibližně 250 km×s−1.[2] Slunce oběhne střed Galaxie ve vzdálenosti 25 000 až 28 000 světelných let jednou za 226 miliónů let. Tento oběh nemá tvar kružnice a ani elipsy, ale vykonává zvláštní pohyb po tzv. galaktických epicyklech. Jedná se o elipsu, jejíž střed obíhá kolem středu Galaxie po kružnici. Jeden oběh Slunce okolo středu Galaxie se nazývá galaktický rok.
+Dopadající sluneční světlo na zemský povrch
+Sluneční aktivita
+ Související informace naleznete také v článku Sluneční cyklus.
+Sluneční aktivita je komplex dynamických jevů, které se v omezeném čase a prostoru vyskytují na slunečním povrchu nebo těsně pod ním. Následkem těchto procesů je změna magnetického pole a změna množství vyvrhovaných částic do okolního prostoru. Elektricky nabité a neutrální částice opouštějící korónu a s nimi unikající záření se nazývá sluneční vítr.[20] Částice slunečního větru se pohybují po zakřivených spirálovitých drahách. Je to proto, jelikož sledují siločáry slunečního magnetického pole, které se v důsledku svojí rotace deformují magnetické pole do tvaru tzv. Parkerových spirál. Ty planety sluneční soustavy, které mají magnetické pole, většinu částic slunečního větru od sebe odklánějí. Množství slunečního větru závisí nejen na sluneční aktivitě, ale také na místě na povrchu Slunce, odkud sluneční částice unikají. Největší množství slunečního větru se uvolňuje skrz koronární díry. Každou sekundou Slunce opustí asi 1 milión tun sluneční plazmy. Od svého vzniku až do dneška tak Slunce do svého okolí vyvrhlo přibližně okolo 0,01 % svojí hmoty.[zdroj?]
+V periodě slunečního cyklu se mění též celkové množství jeho záření – celkové vyzařování nazývané též nesprávně jako sluneční konstanta. Jelikož ale dochází k pozvolným změnám vyzařované energie v závislosti na čase, není tato hodnota konstantní. V současnosti platí, že každý metr slunečního povrchu vyzáří za sekundu do okolního prostoru přibližně 62,86×106 J, celý povrch Slunce pak 3,826×1026 J.[4] Na Zemi z tohoto množství dopadá přibližně 2×1017 J, ale asi polovička se odráží zpět o atmosféru, či se v ní rozptyluje.
+V blízkosti Země dosahuje sluneční vítr rychlosti od 300 do 800 km/s. Množství slunečního větru se zvyšuje s výronem koronální hmoty v důsledku sluneční erupce. Výron koronální hmoty má nepříznivý vliv na tělesa v okolí Země jako jsou družice i na astronauti, ale současně se projevují i na Zemi v podobě geomagnetické bouřky. Mezi jejich projevy patří občasné narušení navigačních systémů, výpadky bezdrátového spojení, či případně vyřazení elektrických rozvodů. Sluneční aktivita se mění v závislosti na slunečním cyklu, který má střední délku 11 let.
+Tento cyklus má asymetrický tvar: náběh cyklu do maxima trvá přibližně 4 roky, jeho pokles k minimu je pomalejší a trvá 7 let. Jeho nejviditelnějším projevem jsou sluneční skvrny, které se začnou na jeho povrchu postupně objevovat. V čase slunečního minima se sluneční skvrny na Slunci téměř nevyskytují a v době maxima je jich oproti tomu na povrchu Slunce značné množství. Maxima výskytu skvrn nejsou stejné, jelikož jejich výskyt je spojen současně s 80 ročním slunečním cyklem. Mezi další projevy patří prototurbulence, které jsou gigantické výrony plynu do sluneční atmosféry.
+Sluneční soustava
+Obíhající tělesa
+ Související informace naleznete také v článku Sluneční soustava.
+Slunce je hlavním tělesem sluneční soustavy, které má 745× větší hmotnost než všechny planety soustavy. Slunce si tak udržuje gravitačním působením dominanci v soustavě. Těžiště sluneční soustavy se nachází blízko Slunce, podle působení ostatních planet je nad nebo pod jeho povrchem.[21] Ostatní tělesa soustavy obíhají kolem tohoto těžiště v o mnoho řádů větších vzdálenostech, takže je korektní označit jejich oběh za oběh kolem Slunce. Těmi to tělesy jsou především planety, trpasličí planety, planetky, meteoroidy, komety a kosmický prach.
+Aby těleso bylo schopno uniknout z gravitačního působení Slunce, musí překonat tzv. třetí kosmickou rychlost. Ta se mění podle vzdálenosti tělesa od Slunce – např. u Země je 42,1 km/s.
+Vznik a vývoj
+ Související informace naleznete také v článku Vznik a vývoj sluneční soustavy.
+Solar Life Cycle cs.svg
+Slunce vzniklo spolu se sluneční soustavou ze hvězdné mlhoviny. Materiál ve středu globule se díky gravitačním kontrakcím začal postupně zahušťovat.[9] Odstředivá síla zrychlovala rotaci mlhoviny, což vedlo ke zploštění původně kulaté globule do protoplanetárního disku. V jeho středu se utvořila protohvězda, ve středu které rychle začala narůstat hustota a tlak, až došlo k zažehnutí termonukleární reakce.
+Délka života hvězdy typu G2, tedy skupiny do které spadá i Slunce, se pohybuje okolo 10 miliard let. Slunce vzniklo přibližně před 4,6 miliardami let, což znamená, že má před sebou ještě minimálně dalších 5 až 7 miliard let své stabilní existence v současné podobě. Po vyčerpání zásob vodíku se předpokládá, že se termojaderná reakce v jeho vnitru na krátko ustane, tlak záření přestane působit proti vlastní gravitaci, což naruší vnitřní rovnováhu. Jádro se smrští a jeho teplota a tlak se opětovně zvýší, čímž dojde k syntéze hélia na další chemické prvky, jako jsou například uhlík a kyslík. Tato reakce bude probíhat několik miliónů let, což Slunce na okamžik opět stabilizuje. Vnější vrstvy Slunce se však začnou rozpínat, řídnout a chladnout, což se projeví na jeho zvětšujícím se objemu a změně barvy. Slunce se přemění do stádia rudého obra. Předpokládá se, že rozpínající Slunce následně pohltí Merkur, Venuši a dle některých scénářů i Zemi.
+Po vyčerpání zásob hélia v jádře dojde opětovně k pozastavení termojaderných reakcí, což povede k tomu, že již žádná síla nebude působit proti gravitačnímu působení a Slunce se začne smršťovat do malého tělesa. Jádro zkolabuje, scvrkne se a změní se na bílého trpaslíka. Vnější vrstvy budou během tohoto pochodu odmrštěny do okolního prostředí – vznikne planetární mlhovina, která bude obsahovat značné množství různých prvků rozšiřujících se do okolního vesmíru. Bílý trpaslík bude pozvolna chladnout, až vychladne zcela.
+Zdánlivý denní pohyb Slunce po obloze na 50. stupni severní zeměpisné šířky
+Zdánlivý pohyb Slunce po obloze
+Země obíhá okolo Slunce a zároveň rotuje kolem své osy. Díky rotaci Země směrem od západu k východu se Slunce zdánlivě pohybuje po obloze opačným směrem, tedy od východu na západ. Azimut jeho východu a západu se mění v závislosti na ročním období. V rámci zeměpisné šířky zůstává stejný jen úhel, pod kterým vychází a zapadá. Na 48° severní zeměpisné šířky (jižní části Slovenska) Slunce vychází a zapadá pod úhlem 42°. Na rovníků je tento úhel roven 90°. Na pólech je úhel východu nulový, nad a pod obzor ho vynáší zdánlivý pohyb Slunce po ekliptice. Tento úhel současně ovlivňuje i délku soumraku, která je největší na pólech a nejmenší na rovníku.
+Oběh Země okolo Slunce způsobuje zdánlivý pohyb Slunce po ekliptice. Tento pohyb se děje proti směru zemské rotace. Proto je slunečný tzv. synodický den o čtyři minuty delší než hvězdný tzv. siderický. Slunce postupně přechází zdánlivými souhvězdími po noční obloze a znameními zvěrokruhu. Dvakrát za rok přejde Slunce světovým rovníkem a to v době rovnodennosti. Od světového rovníku se nikdy nevzdálí na větší vzdálenost než je sklon rotační osy Země a tedy 23,5°. Tím se mění maximální výška Slunce nad jižním bodem horizontu. Na 48. rovnoběžce se jeho výška mění od 18,5° (zimní slunovrat) do 65,5° (letní slunovrat). Oběh Země okolo Slunce se popisuje pomocí ekliptikálních souřadnic. Jelikož Země obíhá kolem Slunce nerovnoměrnou rychlostí, Slunce nekulminuje každý den přesně ve dvanáct, respektive v letním čase v jednu hodinu. Tyto rozdíly mezi pravým slunečním časem a středním slunečným časem vyrovnává časová rovnice.
+Zatmění Slunce
+Úplné zatmění Slunce, které proběhlo 11. srpna 1999 a bylo viditelné z Evropy. Fotografie je pořízena z území Francie
+ Související informace naleznete také v článku Zatmění Slunce.
+Zatmění Slunce je astronomický jev, který nastane, když Měsíc vstoupí mezi Zemi a Slunce, takže jej částečně, nebo zcela zakryje. Taková situace se objevuje, jen pokud je měsíc v novu a Slunce i Měsíc jsou při pohledu ze Země v jedné přímce. Na části Země, kde je zatmění pozorováno, dochází k výraznému setmění, ochlazení, kolem černého středu slunce je vidět výrazná záře sluneční koróny, objeví se hvězdy i některé planety a známé jsou také neobvyklé reakce zvířat. Tyto průvodní jevy v některých kulturách v minulosti vedly ke spojování události s náboženstvím a přisuzování mystických významů. V moderní době jsou však duchovní významy zatmění Slunce většinou odmítány v důsledku snadnosti pochopení jeho příčin.
+Pozorování Slunce
+Slunce je na denní obloze velmi jasné těleso, které se nedoporučuje pozorovat nechráněným okem, jelikož jeho delší pozorování by mohlo vést k poškození zraku.[22] Přímý pohled do Slunce způsobuje fosfenové vizuální jevy a dočasnou částečnou slepotu. Při přímém pohledu působí Slunce na sítnici výkonem asi 4 miliwatty, což vede k zahřívání sítnice a k jejímu možnému poškození.
+Během východu a západu Slunce je sluneční světlo zeslabeno rozptylem světla díky obzvláště dlouhému průchodu zemskou atmosférou; za těchto podmínek lze Slunce bez nebezpečí pozorovat. Mlha, atmosférický prach a vysoká vlhkost přispívají k atmosférickému zředění.[zdroj?]
+Pozorování Slunce optikou soustřeďující záření, jako je dalekohled, je bez ochranného filtru tlumícího záření velmi nebezpečné. Je důležité použít vhodný filtr; improvizované filtry mohou propustit UV záření, které může při vysoké jasnosti poškodit zrak. Nefiltrovaný dalekohled může na sítnici doručit 500 krát více slunečního světla než prosté oko, čímž téměř okamžitě zabíjí buňky sítnice. I krátký pohled do poledního Slunce přes nefiltrovaný dalekohled může způsobit trvalou slepotu.[22] Bezpečný způsob, jak pozorovat Slunce, je promítnutí jeho obrazu na plátno či papír pomocí dalekohledu nebo malého teleskopu.
+Doporučuje se, aby pozorovatel byl vybaven speciálními ochrannými pomůckami i během pozorování slunečního zatmění a to jak celkového, tak i částečného. Jako nejvhodnější ochrana se doporučuje používat speciální brýle pro pozorování Slunce.
+Výzkum Slunce
+První satelit navržený pro průzkum Slunce byly americké sondy Pioneer 5, 6, 7, 8 a 9 vypuštěné během rozmezí let 1959 až 1968. Cílem sond nebylo přiblížit se ke Slunci, ale provádět pozorování ze vzdálenosti odpovídající přibližné oběžné dráze Země. V této vzdálenosti sondy poprvé podrobně měřily sluneční vítr a magnetické pole Slunce.
+V 70. letech 20. století byla vyslána sonda Helios 1 a za pomoci Apollo Telescope Mount byly prováděny nová pozorování a měření slunečního větru a sluneční korony. Sonda Helios 1 byla společným americko-německým projektem, který měl za úkol studovat sluneční vítr z orbity uvnitř dráhy Merkuru.
+V roce 1980 byla vyslána americká sonda Solar Maximum Mission, která byla navržena k pozorování gamma záření, rentgenového záření a měření UV záření ze slunečních erupcí během zvýšené sluneční aktivity. Sonda několik měsíců po startu vlivem elektronického selhání přestala fungovat, jelikož došlo k přepnutí sondy do záložního stavu, ve kterém setrvala 3 roky než byla v roce 1984 opravena během mise STS-41-C. Sonda následně zaslala na Zemi tisíce snímků sluneční korony před tím, než v červnu 1989 vstoupila do atmosféry Země, kde byla zničena.[23]
+Další sondy určené k výzkumu Slunce a slunečního větru:
+ TRACE
+ SOHO
+ Ulysses
+ Genesis
+ dvojice sond STEREO
+Odkaz v kultuře
+Náboženský význam
+ Související informace naleznete také v článku Sluneční božstva.
+Pahýl Tato část článku je příliš stručná nebo neobsahuje všechny důležité informace. Pomozte Wikipedii tím, že ji vhodně rozšíříte.
+Odkazy
+Reference
+V tomto článku byl použit překlad textu z článku Slnko na slovenské Wikipedii.
+ (slovensky)Japonskí vedci odmerali diameter Slnka
+ BRANDOS, Otakar. Slunce, naše nejbližší hvězda [online]. treking.eu, [cit. 2008-06-27]. Dostupné online.
+ Aldebaran.cz - Slunce [online]. Aldebaran.cz, [cit. 2008-06-28]. Dostupné online.
+ ČEMAN, Róbert. Vesmír 1 Sluneční soustava. 1. vyd. Bratislava : Mapa Slovakia Bratislava, 2002. ISBN 80-8067-072-2. S. 91.
+ DEMPIR. Dotaz číslo 749: Za jak dlouho dorazí světlo ze Slunce na Zemi? [online]. fyzweb.cz, [cit. 2008-10-24]. Dostupné online.
+ UV paprsky: riziko rakoviny proti riziku deficitu vitamínu D [online]. [cit. 2008-10-24]. Dostupné online.
+ Opalování může způsobit i slepotu [online]. Idnes.cz, [cit. 2008-10-24]. Dostupné online.
+ Historie pozorování Slunce [online]. Astronomia, [cit. 2008-06-27]. Dostupné online.
+ KLEZCEK, Josip. Velká encyklopedie vesmíru. 1. vyd. Praha : Academia, 2002. ISBN 80-200-0906-X. S. 455.
+ Josip Klezcek. Velká encyklopedie vesmíru. [s.l.] : Academia, Praha, 2002. ISBN 80-200-0906-X. S. 461.
+ PLAIT, Phil. Bitesize Tour of the Solar System: The Long Climb from the Sun's Core [online]. Bad Astronomy, [cit. 2006-03-22]. Dostupné online.
+ LEWIS, Richard. The Illustrated Encyclopedia of the Universe. [s.l.] : Harmony Books, New York, 1983. S. 65.
+ ČEMAN, Róbert. Vesmír 1 Sluneční soustava. 1. vyd. Bratislava : Mapa Slovakia Bratislava, 2002. ISBN 80-8067-072-2. S. 94.
+ ČEMAN, Róbert. Vesmír 1 Sluneční soustava. 1. vyd. Bratislava : Mapa Slovakia Bratislava, 2002. ISBN 80-8067-072-2. S. 96.
+ ČEMAN, Róbert. Vesmír 1 Sluneční soustava. 1. vyd. Bratislava : Mapa Slovakia Bratislava, 2002. ISBN 80-8067-072-2. S. 98.
+ Aschwanden, M. J. (2006). Physics of the Solar Corona: An Introduction With Problems And Solutions. New York: Springer.
+ Kulhánek, P. (2009). Ohřev sluneční koróny. Aldebaran Bulletin, 7(9).
+ McIntosh, S. W., De Pontieu, B., Carlsson, M., Hansteen, V., Boerner, P., & Goossens, M. (2011). Alfvénic waves with sufficient energy to power the quiet solar corona and fast solar wind. Nature, 475(7357). 477-480.
+ KLEZCEK, Josip. Velká encyklopedie vesmíru. 1. vyd. Praha : Academia, 2002. ISBN 80-200-0906-X. S. 456.
+ ČEMAN, Róbert. Vesmír 1 Sluneční soustava. 1. vyd. Bratislava : Mapa Slovakia Bratislava, 2002. ISBN 80-8067-072-2. S. 100.
+ METELKA, Ladislav. Klimatologie na přelomu tisíciletí [online]. Corona Pragensis, 2000, [cit. 2008-11-08]. Dostupné online.
+ Bezpečné pozorování Slunce od Britské astronomické společnosti (anglicky)
+ ST. CYR, Chris, Joan Burkepile Solar Maximum Mission Overview [online]. [cit. 2006-03-22]. Dostupné online.
+Externí odkazy
+ Slovníkové heslo Slunce ve Wikislovníku
+ Téma Slunce ve Wikicitátech
+ Slunce na Aldebaran.cz
+ Stránky Sluneční observatoře SOHO, včetně webové kamery angl.
+ Aktuální družicové snímky Slunce CS
+ Bezpečné pozorování Slunce (anglicky)
+ Bezpečnost zraku při slunečním zatmění (NASA, anglicky)
+Citováno z „http://cs.wikipedia.org/w/index.php?title=Slunce&oldid=11561893“
+Kategorie:
+ Sluneční soustava
+ Slunce
+ Hvězdy hlavní posloupnosti
+ Hvězdy s planetami
+ Stránka byla naposledy editována 8. 6. 2014 v 19:11.
+ Text je dostupný pod licencí Creative Commons Uveďte autora – Zachovejte licenci 3.0 Unported, případně za dalších podmínek. Podrobnosti naleznete na stránce Podmínky užití.

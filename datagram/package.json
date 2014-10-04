@@ -1,0 +1,34 @@
+{
+  "name": "datagram",
+  "description": "General natural language facilities",
+  "version": "0.0.2",
+  "homepage": "https://github.com/LogIN-/datagram",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/LogIN-/datagram.git"
+  },
+  "engines": {
+    "node": ">=0.4.10" 
+  },
+  "dependencies": {
+    "iconv-lite": "0.2.8",
+    "iconv": "2.0.6",
+    "generic-pool": "2.0.3",
+    "jschardet": ">= 1.1.0",
+    "underscore": ">= 1.6.0"
+  },
+  "author": "LogIN- <info@ivantomic.com> (https://github.com/LogIN-)",
+  "keywords": [
+    "natural",
+    "language",
+    "classifier",
+    "levenshtein"
+  ],
+  "main": "./lib/index.js",
+  "maintainers": [
+    {
+      "name": "Ivan Tomic",
+      "email": "info@ivantomic.com"
+    }
+  ]
+}

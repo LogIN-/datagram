@@ -1,0 +1,230 @@
+Sol
+De Wikipedia, la enciclopedia libre
+El SolSun symbol.svg TheSun.png
+Datos derivados de la observación terrestre
+Distancia media desde la Tierra 149.597.871 km (~1,5 × 1011 m)
+Brillo visual (V) –26,8m
+Diám. angular en el perihelio 32' 35,64"
+Diám. angular en el afelio 31' 31,34"
+Características físicas
+Diámetro 1.392.000 km (~1,4 × 109 m)
+Diámetro relativo (dS/dT) 109
+Superficie 6,0877 × 1012 km2
+Volumen 1,4122 × 1018 km3
+Masa 1,9891 × 1030 kg
+Masa relativa a la de la Tierra 332946x
+Densidad 1411 kg/m3
+Densidad relativa a la de la Tierra 0,26x
+Densidad relativa al agua 1,41x
+Gravedad en la superficie 274 m/s2 (27,9 g)
+Velocidad de escape 617,7 km/s
+Temperatura máxima de la superficie 5.778 K
+Temperatura máxima de la corona 1-2×106 K1
+Temperatura del núcleo ~1,36 × 107 K
+Luminosidad (LS) 3,827 × 1026 W
+Características orbitales
+Periodo de rotación 
+En el ecuador: 27d 6h 36min
+A 30° de latitud: 28d 4h 48min
+A 60° de latitud: 30d 19h 12min
+A 75° de latitud: 31d 19h 12min
+Distancia máxima al centro de la Galaxia
+ ~2.5×1017 km
+~26000 años luz
+Periodo orbital alrededor del
+centro galáctico 2,25 - 2,50 × 108 años2
+Velocidad orbital máxima ~251 km/s3
+Inclinación axial con la eclíptica 7.25 º
+Inclinación axial con el plano de la galaxia 67.23 º
+Composición de la fotosfera
+Hidrógeno 73,46%
+Helio 24,85%
+Oxígeno 0,77%
+Carbono 0,29%
+Hierro 0,16%
+Neón 0,12%
+Nitrógeno 0,09%
+Silicio 0,07%
+Magnesio 0,05%
+Azufre 0,04%
+El Sol (del latín sol, solis, a su vez de la raíz proto-indoeuropea sauel-)4 es una estrella del tipo espectral G2 que se encuentra en el centro del Sistema Solar y constituye la mayor fuente de radiación electromagnética de este sistema planetario.5 La Tierra y otros cuerpos (incluidos otros planetas, asteroides, meteoroides, cometas y polvo) orbitan alrededor del Sol.5 Por sí solo, representa alrededor del 99,86% de la masa del Sistema Solar.6 La distancia media del Sol a la Tierra es de aproximadamente 149.600.000 kilómetros y su luz recorre esta distancia en 8 minutos y 19 segundos. La energía del Sol, en forma de luz solar, sustenta a casi todas las formas de vida en la Tierra a través de la fotosíntesis, y determina el clima de la Tierra y la meteorología.
+Es la estrella del sistema planetario en el que se encuentra la Tierra; por tanto, es el astro con mayor brillo aparente. Su visibilidad en el cielo local determina, respectivamente, el día y la noche en diferentes regiones de diferentes planetas. En la Tierra, la energía radiada por el Sol es aprovechada por los seres fotosintéticos, que constituyen la base de la cadena trófica, siendo así la principal fuente de energía de la vida. También aporta la energía que mantiene en funcionamiento los procesos climáticos. El Sol es una estrella que se encuentra en la fase denominada secuencia principal, con un tipo espectral G2, que se formó entre 4567,9 y 4570,1 millones de años y permanecerá en la secuencia principal aproximadamente 5000 millones de años más. El Sol, junto con todos los cuerpos celestes que orbitan a su alrededor, incluida la Tierra, forman el Sistema Solar.
+A pesar de ser una estrella mediana, es la única cuya forma se puede apreciar a simple vista, con un diámetro angular de 32' 35" de arco en el perihelio y 31'31" en el afelio, lo que da un diámetro medio de 32' 03". La combinación de tamaños y distancias del Sol y la Luna son tales que se ven, aproximadamente, con el mismo tamaño aparente en el cielo. Esto permite una amplia gama de eclipses solares distintos (totales, anulares o parciales).
+Índice
+ 1 Nacimiento y muerte del Sol
+ 2 Estructura del Sol
+ 2.1 Núcleo
+ 2.2 Zona convectiva
+ 2.3 Fotosfera
+ 2.4 Cromosfera
+ 2.5 Corona solar
+ 3 Heliosfera. Efectos del viento solar en el Sistema Solar
+ 3.1 Eyección de masa coronal
+ 3.2 Cambio de polaridad solar
+ 4 Importancia de la energía solar en la Tierra
+ 4.1 Reacciones termonucleares e incidencia sobre la superficie terrestre
+ 5 Observación astronómica del Sol
+ 5.1 Exploración solar
+ 6 Luz solar
+ 7 Véase también
+ 8 Notas aclaratorias
+ 9 Referencias
+ 10 Bibliografía
+ 11 Enlaces externos
+ 11.1 Generales
+ 11.2 Observación del Sol
+Nacimiento y muerte del Sol
+El Sol visto a través de las lentes de una cámara fotográfica desde la superficie terrestre.
+La diferencia de tamaños entre el Sol y La tierra queda patente en esta imagen comparativa de ambos, con la tierra en el lado izquierdo, y un trozo del Sol a la derecha.
+El Sol se formó hace 4650 millones de años y tiene combustible para 5500 millones más.nota 1 Después, comenzará a hacerse más y más grande, hasta convertirse en una gigante roja. Finalmente, se hundirá por su propio peso y se convertirá en una enana blanca, que puede tardar un billón de años en enfriarse. Se formó a partir de nubes de gas y polvo que contenían residuos de generaciones anteriores de estrellas. Gracias a la metalicidad de dicho gas, de su disco circumestelar surgieron, más tarde, los planetas, asteroides y cometas del Sistema Solar. En el interior del Sol se producen reacciones de fusión en las que los átomos de hidrógeno se transforman en helio, produciéndose la energía que irradia. Actualmente, el Sol se encuentra en plena secuencia principal, fase en la que seguirá unos 5000 millones de años más quemando hidrógeno de manera estable.
+Cada segundo se transforman 700 millones de toneladas de hidrógeno en cenizas de helio, este proceso transforma 5 millones de toneladas de materia en energía, lo que da como resultado que el Sol cada vez se vuelve más liviano.7
+Llegará un día en que el Sol agote todo el hidrógeno en la región central al haberlo transformado en helio. La presión será incapaz de sostener las capas superiores y la región central tenderá a contraerse gravitacionalmente, calentando progresivamente las capas adyacentes. El exceso de energía producida hará que las capas exteriores del Sol tiendan a expandirse y enfriarse y el Sol se convertirá en una estrella gigante roja. El diámetro puede llegar a alcanzar y sobrepasar al de la órbita de la Tierra, con lo cual, cualquier forma de vida se habrá extinguido. Cuando la temperatura de la región central alcance aproximadamente 100 millones de kelvins, comenzará a producirse la fusión del helio en carbono mientras alrededor del núcleo se sigue fusionando hidrógeno en helio. Ello producirá que la estrella se contraiga y disminuya su brillo a la vez que aumenta su temperatura, convirtiéndose el Sol en una estrella de la rama horizontal. Al agotarse el helio del núcleo, se iniciará una nueva expansión del Sol y el helio empezará también a fusionarse en una nueva capa alrededor del núcleo inerte -compuesto de carbono y oxígeno y que por no tener masa suficiente el Sol no alcanzará las presiones y temperaturas suficientes para fusionar dichos elementos en elementos más pesados- que lo convertirá de nuevo en una gigante roja, pero ésta vez de la rama asintótica gigante y provocará que el astro expulse gran parte de su masa en la forma de una nebulosa planetaria, quedando únicamente el núcleo solar que se transformará en una enana blanca y, mucho más tarde, al enfriarse totalmente, en una enana negra. El Sol no llegará a estallar como una supernova al no tener la masa suficiente para ello.
+Si bien se creía en un principio que el Sol acabaría por absorber a Mercurio, a Venus y a la Tierra al convertirse en gigante roja, la gran pérdida de masa que sufrirá en el proceso hizo pensar por un tiempo que la órbita terrestre -al igual que la de los demás planetas del Sistema Solar- se expandiría posiblemente y salvaría a nuestro planeta de ese destino.8 Sin embargo, un artículo reciente postula que ello no ocurrirá y que las interacciones mareales, así como el roce con la materia de la cromosfera solar, harán que nuestro planeta sea absorbido.9 Otro artículo posterior apunta en la misma dirección.10
+Ciclo de vida del Sol.
+Estructura del Sol
+Como toda estrella, el Sol posee una forma esférica, y a causa de su lento movimiento de rotación, tiene también un leve achatamiento polar. Como en cualquier cuerpo masivo, toda la materia que lo constituye es atraída hacia el centro del objeto por su propia fuerza gravitatoria. Sin embargo, el plasma que forma el Sol se encuentra en equilibrio, ya que la creciente presión en el interior solar compensa la atracción gravitatoria, lo que genera un equilibrio hidrostático. Estas enormes presiones se producen debido a la densidad del material en su núcleo y a las enormes temperaturas que se dan en él gracias a las reacciones termonucleares que allí acontecen. Existe, además de la contribución puramente térmica, una de origen fotónico. Se trata de la presión de radiación, nada despreciable, que es causada por el ingente flujo de fotones emitidos en el centro del Sol.
+Imagen detallada de un conjunto de manchas solares observadas en el espectro de luz visible. La umbra y la penumbra son claramente discernibles, así como la granulación solar.
+Casi todos los elementos químicos terrestres (aluminio, azufre, bario, cadmio, calcio, carbono, cerio, cobalto, cobre, cromo, estaño, estroncio, galio, germanio, helio, hidrógeno, hierro, indio, magnesio, manganeso, níquel, nitrógeno, oro, oxígeno, paladio, plata, platino, plomo, potasio, rodio, silicio, sodio, talio, titanio, tungsteno, vanadio, circonio y zinc) y diversos compuestos (como el cianógeno, el óxido de carbono y el amoniaco) han sido identificados en la constitución del astro rey, por lo que se ha concluido que, si nuestro planeta se calentara hasta la temperatura solar, tendría un espectro luminoso casi idéntico al Sol. Incluso el helio fue descubierto primero en el Sol y luego se constató su presencia en nuestro planeta.11
+El Sol presenta una estructura en capas esféricas o en "capas de cebolla". La frontera física y las diferencias químicas entre las distintas capas son difíciles de establecer. Sin embargo, se puede determinar una función física que es diferente para cada una de las capas. En la actualidad, la astrofísica dispone de un modelo de estructura solar que explica satisfactoriamente la mayor parte de los fenómenos observados. Según este modelo, el Sol está formado por: 1) núcleo, 2) zona radiante, 3) zona convectiva, 4) fotosfera, 5) cromosfera, 6) corona, 7) manchas solares, 8) granulación y 9) viento solar.
+Núcleo
+Imagen que muestra las capas del interior del sol
+Ocupa unos 139 000 km del radio solar, 1/5 del mismo, y es en esta zona donde se verifican las reacciones termonucleares que proporcionan toda la energía que el Sol produce. Esta energía generada en el núcleo del Sol tarda un millón de años para alcanzar la superficie solar.7 El Sol está constituido por un 81 por ciento de hidrógeno, 18 por ciento de helio, y el 1 por ciento restante se reparte entre otros elementos. En su centro se calcula que existe un 49 por ciento de hidrógeno, 49 por ciento de helio y un 2 por ciento que se distribuye en otros elementos que sirven como catalizadores en las reacciones termonucleares. A comienzos de la década de los años 30 del siglo XX, el físico austriaco Fritz Houtermans (1903-1966) y el astrónomo inglés Robert d'Escourt Atkinson (1898-1982) unieron sus esfuerzos para averiguar si la producción de energía en el interior del Sol y en las estrellas se podía explicar por las transformaciones nucleares. En 1938 Hans Albrecht Bethe (1906-2005), en los Estados Unidos, y Carl Friedrich von Weizsäcker (1912-2007), en Alemania, simultánea e independientemente, encontraron el hecho notable de que un grupo de reacciones en las que intervienen el carbono y el nitrógeno como catalizadores constituyen un ciclo, que se repite una y otra vez, mientras dura el hidrógeno. A este grupo de reacciones se les conoce como ciclo de Bethe o del carbono, y es equivalente a la fusión de cuatro protones en un núcleo de helio. En estas reacciones de fusión hay una pérdida de masa, esto es, el hidrógeno consumido pesa más que el helio producido. Esa diferencia de masa se transforma en energía, según la ecuación de Einstein (E = mc2), donde E es la energía, m la masa y c la velocidad de la luz. Estas reacciones nucleares transforman el 0,7 por ciento de la masa afectada en fotones, con una longitud de onda cortísima y, por lo tanto, muy energéticos y penetrantes. La energía producida mantiene el equilibrio térmico del núcleo solar a temperaturas aproximadamente de 15 millones de kelvins.
+El ciclo ocurre en las siguientes etapas:
+ 1H1 + 6C12 → 7N13 ;
+ 7N13 → 6C13 + e+ + neutrino ;
+ 1H1 + 6C13 → 7N14 ;
+ 1H1 + 7N14 → 8O15 ;
+ 8O15 → 7N15 + e+ + neutrino ;
+ 1H1 + 7N15 → 6C12 + 2He4.
+Sumando todas las reacciones y cancelando los términos comunes, se tiene
+ 4 1H1 → 2He4 + 2e+ + 2 neutrinos = 26,7 MeV.
+La energía neta liberada en el proceso es 26,7 MeV, o sea cerca de 6,7·1014 J por kg de protones consumidos. El carbono actúa como catalizador, pues al final del ciclo se regenera.
+Otra reacción de fusión que ocurre en el Sol y en las estrellas es el ciclo de Critchfiel o protón-protón. Charles Critchfield (1910-1994) era en 1938 un joven físico alumno de George Gamow (1904-1968) en la Universidad George Washington, y tuvo una idea completamente diferente, al darse cuenta que en el choque entre dos protones muy rápidos puede ocurrir que uno pierda su carga positiva y se convierta en un neutrón, que permanece unido al otro protón y forma un deuterón, es decir, un núcleo de hidrógeno pesado.
+La reacción puede producirse de dos maneras algo distintas:
+ 1H1 + 1H1 → 1H2 + e+ + neutrino ;
+ 1H1 + 1H2 → 2He3 ;
+ 2He3 + 2He3 → 2He4 + 2 1H1.
+El primer ciclo se da en estrellas más calientes y con mayor masa que el Sol, y la cadena protón-protón en las estrellas similares al Sol. En cuanto al Sol, hasta el año 1953 se creyó que su energía era producida casi exclusivamente por el ciclo de Bethe, pero se demostró durante estos últimos años que el calor solar proviene en su mayor parte (~75%) del ciclo protón-protón.
+En los últimos estadios de su evolución, el Sol fusionará también el helio producto de estos procesos para dar carbono y oxígeno (véase proceso triple-alfa).
+Zona convectiva
+Esta región se extiende por encima de la zona radiante, y en ella los gases solares dejan de estar ionizados y los fotones son absorbidos con facilidad y se convierten en un material opaco al transporte de radiación. Por lo tanto, el transporte de energía se realiza por convección, de modo que el calor se transporta de manera no homogénea y turbulenta por el propio fluido. Los fluidos se dilatan al ser calentados y disminuyen su densidad. Por lo tanto, se forman corrientes ascendentes de material desde la zona caliente hasta la zona superior, y simultáneamente se producen movimientos descendentes de material desde las zonas exteriores frías. Así, a unos 200 000 km bajo la fotosfera del Sol, el gas se vuelve opaco por efecto de la disminución de la temperatura; en consecuencia, absorbe los fotones procedentes de las zonas inferiores y se calienta a expensas de su energía. Se forman así secciones convectivas turbulentas, en las que las parcelas de gas caliente y ligero suben hasta la fotosfera, donde nuevamente la atmósfera solar se vuelve transparente a la radiación y el gas caliente cede su energía en forma de luz visible, y se enfría antes de volver a descender a las profundidades. El análisis de las oscilaciones solares ha permitido establecer que esta zona se extiende hasta estratos de gas situados a la profundidad indicada anteriormente. La observación y el estudio de estas oscilaciones solares constituyen el campo de trabajo de la heliosismología.
+Fotosfera
+La fotosfera es la zona visible donde se emite luz visible del Sol. La fotosfera se considera como la «superficie» solar y, vista a través de un telescopio, se presenta formada por gránulos brillantes que se proyectan sobre un fondo más oscuro. A causa de la agitación de nuestra atmósfera, estos gránulos parecen estar siempre en agitación. Puesto que el Sol es gaseoso, su fotosfera es algo transparente: puede ser observada hasta una profundidad de unos cientos de kilómetros antes de volverse completamente opaca. Normalmente se considera que la fotosfera solar tiene unos 100 o 200 km de profundidad.
+Esquema de la estructura de anillo de una llamarada solar y su origen causado por la deformación de las líneas del campo electromagnético.
+Aunque el borde o limbo del Sol aparece bastante nítido en una fotografía o en la imagen solar proyectada con un telescopio, se aprecia fácilmente que el brillo del disco solar disminuye hacia el borde. Este fenómeno de oscurecimiento del centro al limbo es consecuencia de que el Sol es un cuerpo gaseoso con una temperatura que disminuye con la distancia al centro. La luz que se ve en el centro procede en la mayor parte de las capas inferiores de la fotosfera, más caliente y por tanto más luminosa. Al mirar hacia el limbo, la dirección visual del observador es casi tangente al borde del disco solar por lo que llega radiación procedente sobre todo de las capas superiores de la fotosfera, más frías y emitiendo con menor intensidad que las capas profundas en la base de la fotosfera.
+Un fotón tarda un promedio de 10 días desde que surge de la fusión de dos átomos de hidrógeno, en atravesar la zona radiante y un mes en recorrer los 200 000 km de la zona convectiva, empleando tan sólo unos 8 minutos y medio en cruzar la distancia que separa la Tierra del Sol. No se trata de que los fotones viajen más rápidamente ahora, sino que en el exterior del Sol el camino de los fotones no se ve obstaculizado por los continuos cambios, choques, quiebros y turbulencias que experimentaban en el interior del Sol.
+Los gránulos brillantes de la fotosfera tienen muchas veces forma hexagonal y están separados por finas líneas oscuras. Los gránulos son la evidencia del movimiento convectivo y burbujeante de los gases calientes en la parte exterior del Sol. En efecto, la fotosfera es una masa en continua ebullición en el que las células convectivas se aprecian como gránulos en movimiento cuya vida media es tan solo de unos nueve minutos. El diámetro medio de los gránulos individuales es de unos 700 a 1000 km y resultan particularmente notorios en los períodos de mínima actividad solar. Hay también movimientos turbulentos a una escala mayor, la llamada "supergranulación", con diámetros típicos de unos 35 000 km. Cada supergranulación contiene cientos de gránulos individuales y sobrevive entre 12 a 20 horas. Fue Richard Christopher Carrington (1826-1875), cervecero y astrónomo aficionado, el primero en observar la granulación fotosférica en el siglo XIX. En 1896 el francés Pierre Jules César Janssen (1824-1907) consiguió fotografiar por primera vez la granulación fotosférica.
+Imagen detallada de un conjunto de manchas solares observadas en el visible. La umbra y la penumbra son claramente discernibles así como la granulación solar.
+El signo más evidente de actividad en la fotosfera son las manchas solares. En los tiempos antiguos se consideraba al Sol como un fuego divino y, por consiguiente, perfecto e infalible. Del mismo modo se sabía que la brillante cara del Sol estaba a veces nublada con unas manchas oscuras, pero se imaginaba que era debido a objetos que pasaban en el espacio entre el Sol y la Tierra. Cuando Galileo (1564-1642) construyó el primer telescopio astronómico, dando origen a una nueva etapa en el estudio del Universo, hizo la siguiente afirmación "Repetidas observaciones me han convencido, de que estas manchas son sustancias en la superficie del Sol, en la que se producen continuamente y en la que también se disuelven, unas más pronto y otras más tarde". Una mancha solar típica consiste en una región central oscura, llamada "umbra", rodeada por una "penumbra" más clara. Una sola mancha puede llegar a medir hasta 12 000 km (casi tan grande como el diámetro de la Tierra), pero un grupo de manchas puede alcanzar 120 000 km de extensión e incluso algunas veces más. La penumbra está constituida por una estructura de filamentos claros y oscuros que se extienden más o menos radialmente desde la umbra. Ambas (umbra y penumbra) parecen oscuras por contraste con la fotosfera, simplemente porque están más frías que la temperatura media de la fotosfera. Así, la umbra tiene una temperatura de 4000 K, mientras que la penumbra alcanza los 5600 K, inferiores en ambos casos a los 6000 K que tienen los gránulos de la fotosfera. Por la ley de Stefan-Boltzmann, en que la energía total radiada por un cuerpo negro (como una estrella) es proporcional a la cuarta potencia de su temperatura efectiva (E = σT4, donde σ = 5,67051·10−8 W/m2·K4), la umbra emite aproximadamente un 32% de la luz emitida por un área igual de la fotosfera y análogamente la penumbra tiene un brillo de un 71% de la fotosfera. La oscuridad de una mancha solar está causada únicamente por un efecto de contraste; si pudiéramos ver a una mancha tipo, con una umbra del tamaño de la Tierra, aislada y a la misma distancia que el Sol, brillaría una 50 veces más que la Luna llena. Las manchas están relativamente inmóviles con respecto a la fotosfera y participan de la rotación solar. El área de la superficie solar cubierta por las manchas se mide en términos de millonésima del disco visible.
+Cromosfera
+La cromosfera es una capa exterior a la fotosfera visualmente mucho más transparente. Su tamaño es de aproximadamente 10,000 km, y es imposible observarla sin filtros especiales, pues es eclipsada por el mayor brillo de la fotosfera. La cromosfera puede observarse durante un eclipse solar en un tono rojizo característico y en longitudes de onda específicas, notablemente en Hα, una longitud de onda característica de la emisión por hidrógeno a muy alta temperatura.
+Las prominencias solares ascienden ocasionalmente desde la fotosfera, alcanzan alturas de hasta 150,000 km y producen erupciones solares espectaculares.
+Corona solar
+Tomada por el Telescopio Óptico Solar Hinode, el 12 de enero de 2007, esta imagen revela la naturaleza filamentaria del plasma conectando dos regiones con diferente polaridad magnética.
+La corona solar está formada por las capas más tenues de la atmósfera superior solar. Su temperatura alcanza los millones de kelvin, una cifra muy superior a la de la capa que le sigue, la fotosfera, siendo esta inversión térmica uno de los principales enigmas de la ciencia solar reciente. Estas elevadísimas temperaturas son un dato engañoso y consecuencia de la alta velocidad de las pocas partículas que componen la atmósfera solar. Sus grandes velocidades son debidas a la baja densidad del material coronal, a los intensos campos magnéticos emitidos por el Sol y a las ondas de choque que rompen en la superficie solar estimuladas por las células convectivas. Como resultado de su elevada temperatura, desde la corona se emite gran cantidad de energía en rayos X. En realidad, estas temperaturas no son más que un indicador de las altas velocidades que alcanza el material coronal que se acelera en las líneas de campo magnético y en dramáticas eyecciones de material coronal (EMCs). Lo cierto es que esa capa es demasiado poco densa como para poder hablar de temperatura en el sentido usual de agitación térmica.
+Todos estos fenómenos combinados ocasionan extrañas rayas en el espectro luminoso que hicieron pensar en la existencia de un elemento desconocido en la tierra al que incluso denominaron coronium hasta que investigaciones posteriores en 1942 concluyeron que se trataban de radiaciones producidas por átomos neutros de oxígeno de la parte externa de la misma corona, así como de hierro, níquel, calcio y argón altamente ionizados (fenómenos imposibles de obtener en laboratorios).12
+La corona solar solamente es observable desde el espacio con instrumentos adecuados que anteponen un disco opaco para eclipsar artificialmente al Sol o durante un eclipse solar natural desde la Tierra. El material tenue de la corona es continuamente expulsado por la fuerte radiación solar dando lugar a un viento solar. Así pues, se cree que las estructuras observadas en la corona están modeladas en gran medida por el campo magnético solar y las células de transporte convectivo.
+En 1970 el físico sueco Hannes Alfven obtuvo el premio Nobel. Él estimó que había ondas que transportaban energía por líneas del campo magnético que recorre el plasma de la corona solar. Pero hasta hoy no se había podido detectar la cantidad de ondas que eran necesarias para producir dicha energía.
+Pero imágenes de alta definición ultravioleta, tomadas cada 8 segundos por el satélite de la NASA Solar Dymanics Observatory (SDO), han permitido a científicos como Scott McIntosh y a sus colegas del Centro Nacional Estadounidense de Investigación Atmosférica, detectar gran cantidad de estas ondas. Las mismas se propagan a gran velocidad (entre 200 y 250 kilómetros por segundo) en el plasma en movimiento. Ondas cuyo flujo energético se sitúa entre 100 y 200 vatios por kilómetro cuadrado "son capaces de proveer la energía necesaria para propulsar a los rápidos vientos solares y así compensar las pérdidas de calor de las regiones menos agitadas de la corona solar", estiman los investigadores.
+Sin embargo, para McIntosh esto no es suficiente para generar los 2.000 vatios por metro cuadrado que se necesitan para abastecer a las zonas activas de la corona. Es por esto que se requiere de instrumentos con mayor capacidad temporal y espacial para estudiar todo el espectro de energía irradiada en las regiones activas de nuestra estrella.
+Heliosfera. Efectos del viento solar en el Sistema Solar
+Vista de la heliosfera protegiéndonos de las radiaciones provenientes del centro de la galaxia.
+Véase también: Viento solar
+La heliosfera sería la región que se extiende desde el Sol hasta más allá de Plutón y que se encuentra bajo la influencia del viento solar. Es en esta región donde se extienden los efectos de las tormentas geomagnéticas y también donde se extiende el influyo del campo magnético solar. La heliosfera protege al Sistema Solar de las radiaciones provenientes del medio interestelar y su límite se extiende a más de 100 UA del Sol, límite solo superado por los cometas.
+Eyección de masa coronal
+Tormenta solar.
+La eyección de masa coronal (CME) es una onda hecha de radiación y viento solar que se desprende del Sol en el periodo llamado Actividad Máxima Solar. Esta onda es muy peligrosa ya que daña los circuitos eléctricos, los transformadores y los sistemas de comunicación. Cuando esto ocurre, se dice que hay una tormenta solar.
+ Cada 11 años, el Sol entra en un turbulento ciclo (Actividad Máxima Solar) que representa la época más propicia para que el planeta sufra una tormenta solar. Dicho proceso acaba con el cambio de polaridad solar (no confundir con el cambio de polaridad terrestre).
+ Nos encontramos en el Ciclo Solar 24, que comenzó en enero de 2008.
+ El próximo máximo solar ocurrirá en el año 2022.13
+ Una potente tormenta solar es capaz de paralizar por completo la red eléctrica de las grandes ciudades, una situación que podría durar semanas, meses o incluso años.
+ Las tormentas solares pueden causar interferencias en las señales de radio, afectar a los sistemas de navegación aéreos, dañar las señales telefónicas e inutilizar satélites por completo.
+ El 13 de marzo de 1989, la ciudad de Quebec, en Canadá, fue azotada por una fuerte tormenta solar. Como resultado de ello, seis millones de personas se vieron afectadas por un gran apagón que duró 90 segundos. La red eléctrica de Montreal estuvo paralizada durante más de nueve horas. Los daños que provocó el apagón, junto con las pérdidas originadas por la falta de energía, alcanzaron los cientos de millones de dólares.
+ Entre los días 1 y 2 de septiembre de 1859, una intensa tormenta solar afectó a la mayor parte del planeta. Las líneas telegráficas de los Estados Unidos y el norte de Europa quedaron inutilizadas y se provocaron varios incendios. Además, una impresionante aurora boreal, fenómeno que normalmente sólo puede observarse desde las regiones árticas, pudo verse en lugares tan alejados de los polos como el sur de Europa, el Caribe, o Hawái.14
+Cambio de polaridad solar
+El campo magnético del sol se forma como sigue: En el núcleo, las presiones del hidrógeno provocan que sus átomos únicamente queden excluidos por las fuerzas de polaridad de los protones, dejando una nube de electrones en torno a dicho núcleo (los electrones se han desprendido de las órbitas tradicionales, formando una capa de radiación electrónica común). La fusión de los átomos de hidrógeno en helio se produce en la parte más interna del núcleo, en donde el helio queda restringido por ser un material más pesado. Dicho 'ordenamiento' induce que los propios electrones compartan estados de energía y en consecuencia sus campos magnéticos adquieran aún más densidad y potencia. Las enormes fuerzas de gravedad, impiden a los fotones (portadores de esas fuerzas) escapen de forma libre. De esta forma se genera en su interior un potente campo magnético que influye en la dinámica del plasma en las capas siguientes.
+Los campos magnéticos, tal como si se tratase de un material fluido, encuentra su dinámica por las fuerzas magnetohidrodinámicas en constante interacción con las gravitatorias y rotacionales de la estrella, llegando a la superficie de manera que, los materiales más externos quedan ordenados conforme a las líneas de fuerza gauss. La rotación solar produce que las capas más externas no giren todas a la misma velocidad, por lo que el ordenamiento de estas líneas de fuerza se va descompensando a medida que los materiales distribuidos entre los polos y el ecuador van perdiendo sincronismo en el giro rotacional de la estrella. Por cada ruptura en la integridad del campo magnético, se produce un escape de líneas de fuerza gauss (produciendo las típicas manchas negras), en las que un aumento de estas, puede tener como consecuencia una erupción solar consecuente por la desintegración local del campo gauss. Cuando el sol se acerca a su máximo desorden, las tormentas solares son máximas. Estos periodos se dan cada 11 años. El sol no posee un campo electromagnético como el de la Tierra, sino que posee lo que se denomina Viento solar, producido por esas inestabilidades rotacionales del Sol. Si no fuera por eso, los campos magnéticos del sol quedarían restringidos a la dinámica del plasma.
+Por esa misma razón, una reacción de fusión entre dos átomos de hidrógeno en el interior del sol, tarda 11 años en llegar a escapar de las enormes fuerzas gravitatorias y magnéticas.
+Importancia de la energía solar en la Tierra
+La mayor parte de la energía utilizada por los seres vivos procede del Sol, las plantas la absorben directamente y realizan la fotosíntesis, los herbívoros absorben indirectamente una pequeña cantidad de esta energía comiendo las plantas, y los carnívoros absorben indirectamente una cantidad más pequeña comiendo a los herbívoros.
+La mayoría de las fuentes de energía usadas por el hombre derivan indirectamente del Sol. Los combustibles fósiles preservan energía solar capturada hace millones de años mediante fotosíntesis, la energía hidroeléctrica usa la energía potencial de agua que se condensó en altura después de haberse evaporado por el calor del Sol, etc.
+Sin embargo, el uso directo de energía solar para la obtención de energía no está aún muy extendido debido a que los mecanismos actuales no son suficientemente eficaces.
+Reacciones termonucleares e incidencia sobre la superficie terrestre
+Una mínima cantidad de materia puede convertirse en una enorme manifestación de energía. Esta relación entre la materia y la energía explica la potencia del Sol, que hace posible la vida. ¿Cuál es la equivalencia? En 1905, Einstein había predicho una equivalencia entre la materia y la energía mediante su ecuación E=mc². Una vez que Einstein formuló la relación, los científicos pudieron explicar por qué ha brillado el Sol por miles de millones de años. En el interior del Sol se producen continuas reacciones termonucleares. De este modo, el Sol convierte cada segundo unos 564 millones de toneladas de hidrógeno en 560 millones de toneladas de helio, lo que significa que unos cuatro millones de toneladas de materia se transforman en energía solar, una pequeña parte de la cual llega a la Tierra y sostiene la vida.
+Con la fórmula y los datos anteriores se puede calcular la producción de energía del Sol, obteniéndose que la potencia de nuestra estrella es aproximadamente 3'8x1026 vatios, ó 3'8x1023 kilovatios -o, dicho de otra manera, el Sol produce en un segundo 760.000 veces la producción energética anual a nivel mundial-.
+Observación astronómica del Sol
+Archivo:Moon transit of sun large.ogg 
+Tránsito lunar frente al Sol capturado durante la calibración de las cámaras de imagen ultravioleta de la sonda STEREO B
+Unas de las primeras observaciones astronómicas de la actividad solar fueron las realizadas por Galileo Galilei en el s.XVII, utilizando vidrios ahumados al principio, y usando el método de proyección después. Galileo observó así las manchas solares y pudo medir la rotación solar así como percibir la variabilidad de éstas. En la actualidad la actividad solar es monitoreada constantemente por observatorios astronómicos terrestres y observatorios espaciales. Entre los objetivos de estas observaciones se encuentra, no solo alcanzar una mayor comprensión de la actividad solar, sino también la predicción de sucesos de elevada emisión de partículas potencialmente peligrosas para las actividades en el espacio y las telecomunicaciones terrestres.
+Exploración solar
+Para obtener una visión ininterrumpida del Sol en longitudes de onda inaccesibles desde la superficie terrestre, la Agencia Espacial Europea y la NASA lanzaron cooperativamente el satélite SOHO (Solar and Heliospheric Observatory) el 2 de diciembre de 1995. La sonda europea Ulysses realizó estudios de la actividad solar, y la sonda norteamericana Génesis se lanzó en un vuelo cercano a la heliósfera para regresar a la Tierra con una muestra directa del material solar. Génesis regresó a la Tierra en el 2004, pero su reentrada en la atmósfera fue acompañada de un fallo en su paracaídas principal que hizo que se estrellara sobre la superficie. El análisis de las muestras obtenidas prosigue en la actualidad.
+Luz solar
+Archivo:NASA SDO multispectral view of the Sun, September 2011.ogv 
+Video con un mosaico de imágenes captadas por instrumentos de la sonda espacial Solar Dynamics Observatory que permite observar la luz producida por el Sol más allá de lo que el ojo humano puede percibir.
+La luz solar que apreciamos de a simple vista es de color amarillo, pero en realidad el sol la emite en todas las longitudes de onda.15
+Véase también
+ Ver el portal sobre Sistema Solar Portal:Sistema Solar. Contenido relacionado con Sistema Solar.
+ Ciclo Solar 24
+ Día
+ Dios del Sol
+ Eclipse solar
+ Energía solar
+ Evolución estelar
+ Índice de protección solar
+ Orto
+ Sistema Solar
+ Sol de medianoche
+ Variación solar
+ Viento solar
+Notas aclaratorias
+ En algunos documentos es posible encontrar 5,5 billones de años, error que se comete por una mala traducción de 5.5 billions del sistema inglés.
+Referencias
+ Markus J. Aschwanden (2007). «The Sun». En Lucy Ann McFadden, Paul R. Weissman, Torrence V. Johnsson. Encyclopedia of the Solar System. Academic Press. p. 80.
+ Stacy Leong (2002). Glenn Elert (ed.) (ed.): «Period of the Sun's Orbit around the Galaxy (Cosmic Year)». The Physics Factbook (self-published). Consultado el 26-06-2008.
+ «Milky Way keeps tight grip on its neighbor». New Scientist 199 (2669): p. 8. 2008. doi:10.1016/S0262-4079(08)62026-6.
+ Etimología de la palabra Sol.
+ «The Solar System» (en inglés). Solarviews.com. Consultado el 8 de mayo de 2009. «The planets, most of the satellites of the planets and the asteroids revolve around the Sun in the same direction, in nearly circular orbits».
+ Woolfson, M. (2000). «The origin and evolution of the solar system». Astronomy & Geophysics 41 (1): p. 12.
+ «Captan una espectacular grieta de fuego en el sol». Consultado el 26 de diciembre de 2013.
+ «Our Sun. III. Present and Future».
+ Sobre las mareas, la cromosfera solar y la futura absorción de la Tierra
+ [1]
+ Gallo, J. y Anfossi, A. (1980). Cosmografía, 7a. ed. , p. 90. México: Progreso.
+ Mosqueira R. S. (1983). Cosmografia y astrofísica. México: Patria. p. 228.
+ Alerta sobre Tormenta Solar - NASA
+ «El Sol, un reactor nuclear a 150 millones de km». Consultado el 7 de febrero de 2014.
+ «La NASA muestra todos los colores del Sol». Consultado el 25 de diciembre de 2013.
+Bibliografía
+ Bonanno A, Schlattl H, Paternò L: "The age of the Sun and the relativistic corrections in the EOS". Astronomy and Astrophysics. 2002;390:1115-18.
+ Carslaw KS, Harrison RG, Kirkby J: "Cosmic Rays, Clouds, and Climate". Science. 2002;298:1732-37.
+ Kasting, JF, Ackerman TP: "Climatic Consequences of Very High Carbon Dioxide Levels in the Earth’s Early Atmosphere". Science. 1986;234:1383-85.
+ Priest, Eric Ronald: Solar Magnetohydrodynamics. Dordrecht: D. Reidel Pub., 1982, p. 206-245. ISBN 90-277-1374-X
+ Schlattl H: "Three-flavor oscillation solutions for the solar neutrino problem", Physical Review D. 2001;64(1).
+ Thompson MJ: "Solar interior: Helioseismology and the Sun's interior", Astronomy & Geophysics. 2004;45(4):21-25.
+Enlaces externos
+ Commons-logo.svg Multimedia en Commons.
+ Wiktionary-logo-en.svg Definiciones en Wikcionario.
+ Wikibooks-logo.svg Libros de texto en Wikilibros.
+ Wikiquote-logo.svg Citas en Wikiquote.
+ Wikisource-logo.svg Textos originales en Wikisource.
+ Wikinews-logo.svg Noticias en Wikinoticias.
+Generales
+ Sobre la edad más exacta del Sol/Sistema Solar (en inglés)
+ Sistema Solar
+ El Sol (solarviews.com)
+ El Sol (astronomiaonline.com)
+ Nuestro Sol Actividad educativa: el Sistema Solar
+Observación del Sol
+ Recomendaciones para observar el Sol
+ Lista de la mayoría de observatorios solares terrestres (en inglés)
+ Página web de SOHO (The Solar and Heliospheric Observatory (en inglés)
+ Solar Position algorithm (en inglés)
+Obtenido de «http://es.wikipedia.org/w/index.php?title=Sol&oldid=74963444»
+Categorías:
+ Sol
+ Estrellas
+ Enanas amarillas
+ Plasma espacial
+ Esta página fue modificada por última vez el 10 jun 2014, a las 20:29.
+ El texto está disponible bajo la Licencia Creative Commons Atribución Compartir Igual 3.0; podrían ser aplicables cláusulas adicionales. Léanse los términos de uso para más información.
+ Wikipedia® es una marca registrada de la Fundación Wikimedia, Inc., una organización sin ánimo de lucro.

@@ -1,0 +1,44 @@
+{
+    "name": "datagram",
+    "version": "1.0.0",
+    "description": "datagram is \"Neural network\" library. Easy data-set categorization for node.js, i can detect languages (Computational linguistics) or any other data.",
+    "homepage": "https://github.com/LogIN-/datagram",
+    "main": "./datagram/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LogIN-/datagram"
+    },
+    "engines": {
+        "node": ">=0.4.10"
+    },
+    "dependencies": {
+        "iconv-lite": "0.2.8",
+        "iconv": "2.0.6",
+        "generic-pool": "2.0.3",
+        "jschardet": ">= 1.1.0",
+        "underscore": ">= 1.6.0"
+    },
+    "devDependencies": {
+        "express": "*",
+        "socket.io": "*"
+    },
+    "author": "LogIN- <info@ivantomic.com> (https://github.com/LogIN-)",
+    "keywords": [
+        "natural",
+        "language",
+        "classifier",
+        "levenshtein"
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/LogIN-/datagram/issues"
+    },
+    "homepage": "https://github.com/LogIN-/datagram",
+    "maintainers": [{
+        "name": "Ivan Tomic",
+        "email": "info@ivantomic.com"
+    }]
+}

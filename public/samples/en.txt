@@ -1,0 +1,501 @@
+Sun
+From Wikipedia, the free encyclopedia
+The Sun Sun symbol.svg The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg
+Observation data
+Mean distance
+from Earth 1.496×108 km
+8 min 19 s at light speed
+Visual brightness (V) −26.74[1]
+Absolute magnitude 4.83[1]
+Spectral classification G2V
+Metallicity Z = 0.0122[2]
+Angular size 31.6–32.7′[3]
+Adjectives Solar
+Orbital characteristics
+Mean distance
+from Milky Way core ≈ 2.7×1017 km
+27200 light-years
+Galactic period (2.25–2.50)×108 a (years)
+Velocity ≈ 220 km/s (orbit around the center of the Galaxy)
+≈ 20 km/s (relative to average velocity of other stars in stellar neighborhood)
+≈ 370 km/s[4] (relative to the cosmic microwave background)
+Physical characteristics
+Equatorial radius 696342±65 km[5]
+109 × Earth[6]
+Equatorial circumference 4.379×106 km[6]
+109 × Earth[6]
+Flattening 9×10−6
+Surface area 6.09×1012 km2[6]
+12000 × Earth[6]
+Volume 1.41×1018 km3[6]
+1300000 × Earth
+Mass (1.98855±0.00025)×1030 kg[1]
+333000 × Earth[1]
+Average density 1.408×103 kg/m3[1][6][7]
+0.255 × Earth[1][6]
+Density Center (model): 1.622×105 kg/m3[1]
+Equatorial surface gravity 274.0 m/s2[1]
+27.94 g
+27542.29 cgs
+28 × Earth[6]
+Escape velocity
+(from the surface) 617.7 km/s[6]
+55 × Earth[6]
+Temperature Center (modeled): ≈ 1.57×107 K[1]
+Photosphere (effective): 5778 K[1]
+Corona: ≈ 5×106 K
+Luminosity (Lsol) 3.846×1026 W[1]
+≈ 3.75×1028 lm
+≈ 98 lm/W efficacy
+Mean intensity (Isol) 2.009×107 W·m−2·sr−1
+Age ≈4.6 billion years[8][9]
+Rotation characteristics
+Obliquity 7.25°[1]
+(to the ecliptic)
+67.23°
+(to the galactic plane)
+Right ascension
+of North pole[10] 286.13°
+19 h 4 min 30 s
+Declination
+of North pole +63.87°
+63° 52' North
+Sidereal rotation period
+(at equator) 25.05 days[1]
+(at 16° latitude) 25.38 days[1]
+25 d 9 h 7 min 12 s[10]
+(at poles) 34.4 days[1]
+Rotation velocity
+(at equator) 7.189×103 km/h[6]
+Photospheric composition (by mass)
+Hydrogen 73.46%[11]
+Helium 24.85%
+Oxygen 0.77%
+Carbon 0.29%
+Iron 0.16%
+Neon 0.12%
+Nitrogen 0.09%
+Silicon 0.07%
+Magnesium 0.05%
+Sulfur 0.04%
+The Sun is the star at the center of the Solar System. It is almost perfectly spherical and consists of hot plasma interwoven with magnetic fields.[12][13] It has a diameter of about 1,392,684 km (865,374 mi),[5] around 109 times that of Earth, and its mass (1.989×1030 kilograms, approximately 330,000 times the mass of Earth) accounts for about 99.86% of the total mass of the Solar System.[14] Chemically, about three quarters of the Sun's mass consists of hydrogen, while the rest is mostly helium. The remainder (1.69%, which nonetheless equals 5,600 times the mass of Earth) consists of heavier elements, including oxygen, carbon, neon and iron, among others.[15]
+The Sun formed about 4.567 billion[a][16] years ago from the gravitational collapse of a region within a large molecular cloud. Most of the matter gathered in the center, while the rest flattened into an orbiting disk that would become the Solar System. The central mass became increasingly hot and dense, eventually initiating thermonuclear fusion in its core. It is thought that almost all stars form by this process. The Sun is a G-type main-sequence star (G2V) based on spectral class and it is informally designated as a yellow dwarf because its visible radiation is most intense in the yellow-green portion of the spectrum, and although it is actually white in color, from the surface of the Earth it may appear yellow because of atmospheric scattering of blue light.[17] In the spectral class label, G2 indicates its surface temperature, of approximately 5778 K (5505 °C), and V indicates that the Sun, like most stars, is a main-sequence star, and thus generates its energy by nuclear fusion of hydrogen nuclei into helium. In its core, the Sun fuses about 620 million metric tons of hydrogen each second.[18][19]
+Once regarded by astronomers as a small and relatively insignificant star, the Sun is now thought to be brighter than about 85% of the stars in the Milky Way, most of which are red dwarfs.[20][21] The absolute magnitude of the Sun is +4.83; however, as the star closest to Earth, the Sun is by far the brightest object in the sky with an apparent magnitude of −26.74.[22][23] This is about 13 billion times brighter than the next brightest star, Sirius, with an apparent magnitude of −1.46. The Sun's hot corona continuously expands in space creating the solar wind, a stream of charged particles that extends to the heliopause at roughly 100 astronomical units. The bubble in the interstellar medium formed by the solar wind, the heliosphere, is the largest continuous structure in the Solar System.[24][25]
+The Sun is currently traveling through the Local Interstellar Cloud (near to the G-cloud) in the Local Bubble zone, within the inner rim of the Orion Arm of the Milky Way.[26][27] Of the 50 nearest stellar systems within 17 light-years from Earth (the closest being a red dwarf named Proxima Centauri at approximately 4.2 light-years away), the Sun ranks fourth in mass.[28] The Sun orbits the center of the Milky Way at a distance of approximately 24000–26000 light-years from the galactic center, completing one clockwise orbit, as viewed from the galactic north pole, in about 225–250 million years. Since the Milky Way is moving with respect to the cosmic microwave background radiation (CMB) in the direction of the constellation Hydra with a speed of 550 km/s, the Sun's resultant velocity with respect to the CMB is about 370 km/s in the direction of Crater or Leo.[29]
+The mean distance of the Sun from the Earth is approximately 1 astronomical unit (about 150,000,000 km; 93,000,000 mi), though the distance varies as the Earth moves from perihelion in January to aphelion in July.[30] At this average distance, light travels from the Sun to Earth in about 8 minutes and 19 seconds. The energy of this sunlight supports almost all life[b] on Earth by photosynthesis,[31] and drives Earth's climate and weather. The enormous effect of the Sun on the Earth has been recognized since prehistoric times, and the Sun has been regarded by some cultures as a deity. An accurate scientific understanding of the Sun developed slowly, and as recently as the 19th century prominent scientists had little knowledge of the Sun's physical composition and source of energy. This understanding is still developing; there are a number of present-day anomalies in the Sun's behavior that remain unexplained.
+Contents
+ 1 Name and etymology
+ 2 Characteristics
+ 2.1 Core
+ 2.2 Radiative zone
+ 2.3 Convective zone
+ 2.4 Photosphere
+ 2.5 Atmosphere
+ 2.6 Magnetic field
+ 3 Chemical composition
+ 3.1 Singly ionized iron group elements
+ 3.2 Solar and planetary mass fractionation relationship
+ 4 Solar cycles
+ 4.1 Sunspots and the sunspot cycle
+ 4.2 Possible long-term cycle
+ 5 Life phases
+ 5.1 Formation
+ 5.2 Main sequence
+ 5.3 After core hydrogen exhaustion
+ 5.4 Earth's fate
+ 6 Sunlight
+ 7 Motion and location
+ 8 Theoretical problems
+ 8.1 Coronal heating problem
+ 8.2 Faint young Sun problem
+ 9 History of observation
+ 9.1 Early understanding
+ 9.2 Development of scientific understanding
+ 9.3 Solar space missions
+ 10 Observation and effects
+ 11 See also
+ 12 Notes
+ 13 References
+ 14 Further reading
+ 15 External links
+Name and etymology
+The English proper noun Sun developed from Old English sunne (in around 725, attested in Beowulf), and may be related to south. Cognates to English sun appear in other Germanic languages, including Old Frisian sunne, sonne, Old Saxon sunna, Middle Dutch sonne, modern Dutch zon, Old High German sunna, modern German Sonne, Old Norse sunna, and Gothic sunnō. All Germanic terms for the Sun stem from Proto-Germanic *sunnōn.[32][33]
+In relation, the Sun is personified as a goddess in Germanic paganism, Sól/Sunna.[33] Scholars theorize that the Sun, as a Germanic goddess, may represent an extension of an earlier Proto-Indo-European sun deity due to Indo-European linguistic connections between Old Norse Sól, Sanskrit Surya, Gaulish Sulis, Lithuanian Saulė, and Slavic Solntse.[33]
+The English weekday name Sunday stems from Old English (Sunnandæg; "Sun's day", from before 700) and is ultimately a result of a Germanic interpretation of Latin dies solis, itself a translation of the Greek ἡμέρα ἡλίου (hēméra hēlíou).[34] The Latin name for the star, Sol, is widely known but is not common in general English language use; the adjectival form is the related word solar.[35][36] The term sol is also used by planetary astronomers to refer to the duration of a solar day on another planet, such as Mars.[37] A mean Earth solar day is approximately 24 hours, while a mean Martian 'sol' is 24 hours, 39 minutes, and 35.244 seconds.[38]
+Characteristics
+File:Incandescent Sun.ogv 
+This video takes Solar Dynamics Observatory images and applies additional processing to enhance the structures visible. The events in this video represent 24 hours of activity on September 25, 2011.
+The Sun is a G-type main-sequence star comprising about 99.86% of the total mass of the Solar System. It is a near-perfect sphere, with an oblateness estimated at about 9 millionths,[39] which means that its polar diameter differs from its equatorial diameter by only 10 kilometres (6.2 mi).[40] Since the Sun consists of a plasma and is not solid, it rotates faster at its equator than at its poles. This behavior is known as differential rotation and is caused by convection in the Sun and the movement of mass, due to steep temperature gradients from the core outwards. This mass carries a portion of the Sun’s counter-clockwise angular momentum (as viewed from the ecliptic north pole), thus redistributing the angular velocity. The period of this actual rotation is approximately 25.6 days at the equator and 33.5 days at the poles. However, due to our constantly changing vantage point from the Earth as it orbits the Sun, the apparent rotation of the star at its equator is about 28 days.[41] The centrifugal effect of this slow rotation is 18 million times weaker than the surface gravity at the Sun's equator. The tidal effect of the planets is even weaker and does not significantly affect the shape of the Sun.[42]
+The Sun is a Population I, or heavy-element-rich,[c] star.[43] The formation of the Sun may have been triggered by shockwaves from one or more nearby supernovae.[44] This is suggested by a high abundance of heavy elements in the Solar System, such as gold and uranium, relative to the abundances of these elements in so-called Population II (heavy-element-poor) stars. These elements could most plausibly have been produced by endothermic nuclear reactions during a supernova, or by transmutation through neutron absorption within a massive second-generation star.[43]
+The Sun does not have a definite boundary as rocky planets do, and in its outer parts the density of its gases drops exponentially with increasing distance from its center.[45] Nevertheless, it has a well-defined interior structure, described below. The Sun's radius is measured from its center to the edge of the photosphere. The photosphere is the last visible layer as those above it are too cool or too thin to radiate sufficient light to be visible to the naked eye[46] in the presence of the brilliant light from the photosphere. During a total solar eclipse, however, when the photosphere is obscured by the Moon, the Sun's corona can be easily seen surrounding it.
+The solar interior is not directly observable, and the Sun itself is opaque to electromagnetic radiation. However, just as seismology uses waves generated by earthquakes to reveal the interior structure of the Earth, the discipline of helioseismology makes use of pressure waves (infrasound) traversing the Sun's interior to measure and visualize the star's inner structure.[47] Computer modeling of the Sun is also used as a theoretical tool to investigate its deeper layers.
+Core
+The structure of the Sun
+The core of the Sun is considered to extend from the center to about 20–25% of the solar radius.[48] It has a density of up to 150 g/cm3[49][50] (about 150 times the density of water) and a temperature of close to 15.7 million kelvin (K).[50] By contrast, the Sun's surface temperature is approximately 5,800 K. Recent analysis of SOHO mission data favors a faster rotation rate in the core than in the rest of the radiative zone.[48] Through most of the Sun's life, energy is produced by nuclear fusion through a series of steps called the p–p (proton–proton) chain; this process converts hydrogen into helium.[51] Only 0.8% of the energy generated in the Sun comes from the CNO cycle.[52]
+The core is the only region in the Sun that produces an appreciable amount of thermal energy through fusion; 99% of the power is generated within 24% of the Sun's radius, and by 30% of the radius, fusion has stopped nearly entirely. The rest of the star is heated by energy that is transferred outward by radiation from the core to the convective layers just outside. The energy produced by fusion in the core must then travel through many successive layers to the solar photosphere before it escapes into space as sunlight or the kinetic energy of particles.[53][18]
+The proton–proton chain occurs around 9.2×1037 times each second in the core. Since this reaction uses four free protons (hydrogen nuclei), it converts about 3.7×1038 protons to alpha particles (helium nuclei) every second (out of a total of ~8.9×1056 free protons in the Sun), or about 6.2×1011 kg per second.[18] Since fusing hydrogen into helium releases around 0.7% of the fused mass as energy,[54] the Sun releases energy at the mass–energy conversion rate of 4.26 million metric tons per second, 384.6 yotta watts (3.846×1026 W),[1] or 9.192×1010 megatons of TNT per second.
+The power production by fusion in the core varies with distance from the solar center. At the center of the Sun, theoretical models estimate it to be approximately 276.5 watts/m3,[55] a power production density that more nearly approximates reptile metabolism than a thermonuclear bomb.[d] Peak power production in the Sun has been compared to the volumetric heats generated in an active compost heap. The tremendous power output of the Sun is not due to its high power per volume, but instead due to its large size.
+The fusion rate in the core is in a self-correcting equilibrium: a slightly higher rate of fusion would cause the core to heat up more and expand slightly against the weight of the outer layers, reducing the fusion rate and correcting the perturbation; and a slightly lower rate would cause the core to cool and shrink slightly, increasing the fusion rate and again reverting it to its present level.[56][57]
+The gamma rays (high-energy photons) released in fusion reactions are absorbed in only a few millimeters of solar plasma and then re-emitted again in a random direction and at slightly lower energy. Therefore it takes a long time for radiation to reach the Sun's surface. Estimates of the photon travel time range between 10,000 and 170,000 years.[58] In contrast, it takes only 2.3 seconds for the neutrinos, which account for about 2% of the total energy production of the Sun, to reach the surface. Since energy transport in the Sun is a process which involves photons in thermodynamic equilibrium with matter, the time scale of energy transport in the Sun is longer, on the order of 30,000,000 years. This is the time it would take the Sun to return to a stable state if the rate of energy generation in its core were suddenly to be changed.[59]
+During the final part of the photon's trip out of the Sun, in the convective outer layer, collisions are fewer and far between, and they have less energy. The photosphere is the transparent surface of the Sun where the photons escape as visible light. Each gamma ray in the Sun's core is converted into several million photons of visible light before escaping into space. Neutrinos are also released by the fusion reactions in the core, but unlike photons they rarely interact with matter, so almost all are able to escape the Sun immediately. For many years measurements of the number of neutrinos produced in the Sun were lower than theories predicted by a factor of 3. This discrepancy was resolved in 2001 through the discovery of the effects of neutrino oscillation: the Sun emits the number of neutrinos predicted by the theory, but neutrino detectors were missing 2⁄3 of them because the neutrinos had changed flavor by the time they were detected.[60]
+Cross-section of a solar-type star (NASA)
+Radiative zone
+Below about 0.7 solar radii, solar material is hot and dense enough that thermal radiation is the primary means of energy transfer from the core.[61] This zone is not regulated by thermal convection; however the temperature drops from approximately 7 to 2 million kelvin with increasing distance from the core.[50] This temperature gradient is less than the value of the adiabatic lapse rate and hence cannot drive convection.[50] Energy is transferred by radiation—ions of hydrogen and helium emit photons, which travel only a brief distance before being reabsorbed by other ions.[61] The density drops a hundredfold (from 20 g/cm3 to only 0.2 g/cm3) from 0.25 solar radii to the top of the radiative zone.[61]
+The radiative zone and the convective zone are separated by a transition layer, the tachocline. This is a region where the sharp regime change between the uniform rotation of the radiative zone and the differential rotation of the convection zone results in a large shear—a condition where successive horizontal layers slide past one another.[62] The fluid motions found in the convection zone above, slowly disappear from the top of this layer to its bottom, matching the calm characteristics of the radiative zone on the bottom. Presently, it is hypothesized (see Solar dynamo) that a magnetic dynamo within this layer generates the Sun's magnetic field.[50]
+Convective zone
+In the Sun's outer layer, from its surface to approximately 200,000 km below (70% of the solar radius away from the center), the temperature is lower than in the radiative zone and heavier atoms are not fully ionized. As a result, radiative heat transport is less effective. The density of the gases are low enough to allow convective currents to develop. Material heated at the tachocline picks up heat and expands, thereby reducing its density and allowing it to rise. As a result, thermal convection develops as thermal cells carry the majority of the heat outward to the Sun's photosphere. Once the material cools off at the photosphere, its density increases, and it sinks to the base of the convection zone, where it picks up more heat from the top of the radiative zone and the cycle continues. At the photosphere, the temperature has dropped to 5,700 K and the density to only 0.2 g/m3 (about 1/6,000th the density of air at sea level).[50]
+File:Bénard cells convection.ogv 
+Small Bénard cells on Earth made by mixing acetone and gold paint in a shallow dish. Solar Bénard cells are orders of magnitude larger, but operate on the same principle—hence the similar appearance.
+The thermal columns in the convection zone form an imprint on the surface of the Sun as the solar granulation and supergranulation. The turbulent convection of this outer part of the solar interior causes "small-scale" dynamos that produces magnetic north and south poles all over the surface of the Sun.[50] The Sun's thermal columns are Bénard cells and take the shape of hexagonal prisms.[63]
+Photosphere
+The effective temperature, or black body temperature, of the Sun (5777 K) is the temperature a black body of the same size must have to yield the same total emissive power.
+The visible surface of the Sun, the photosphere, is the layer below which the Sun becomes opaque to visible light.[64] Above the photosphere visible sunlight is free to propagate into space, and its energy escapes the Sun entirely. The change in opacity is due to the decreasing amount of H− ions, which absorb visible light easily.[64] Conversely, the visible light we see is produced as electrons react with hydrogen atoms to produce H− ions.[65][66] The photosphere is tens to hundreds of kilometers thick, being slightly less opaque than air on Earth. Because the upper part of the photosphere is cooler than the lower part, an image of the Sun appears brighter in the center than on the edge or limb of the solar disk, in a phenomenon known as limb darkening.[64] The spectrum of sunlight has approximately the spectrum of a black-body radiating at about 6,000 K, interspersed with atomic absorption lines from the tenuous layers above the photosphere. The photosphere has a particle density of ~1023 m−3 (about 0.37% of the particle number per volume of the Earth's atmosphere at sea level). The photosphere is not fully ionized—the extent of ionization is about 3%, leaving almost all of the hydrogen in atomic form.[67]
+During early studies of the optical spectrum of the photosphere, some absorption lines were found that did not correspond to any chemical elements then known on Earth. In 1868, Norman Lockyer hypothesized that these absorption lines were caused by a new element which he dubbed helium, after the Greek Sun god Helios. Twenty-five years later, helium was isolated on Earth.[68]
+Atmosphere
+During a total solar eclipse, the solar corona can be seen with the naked eye, during the brief period of totality.
+The parts of the Sun above the photosphere are referred to collectively as the solar atmosphere.[64] They can be viewed with telescopes operating across the electromagnetic spectrum, from radio through visible light to gamma rays, and comprise five principal zones: the temperature minimum, the chromosphere, the transition region, the corona, and the heliosphere.[64] The heliosphere, which may be considered the tenuous outer atmosphere of the Sun, extends outward past the orbit of Pluto to the heliopause, which forms the boundary with the interstellar medium. The chromosphere, transition region, and corona are much hotter than the surface of the Sun.[64] The reason has not been conclusively proven; evidence suggests that Alfvén waves may have enough energy to heat the corona.[69]
+The coolest layer of the Sun is a temperature minimum region about 500 km above the photosphere, with a temperature of about 4100 K.[64] This part of the Sun is cool enough to allow the existence of simple molecules such as carbon monoxide and water, which can be detected via their absorption spectra.[70]
+Above the temperature minimum layer is a layer about 2000 km thick, dominated by a spectrum of emission and absorption lines.[64] It is called the chromosphere from the Greek root chroma, meaning color, because the chromosphere is visible as a colored flash at the beginning and end of total solar eclipses.[61] The temperature in the chromosphere increases gradually with altitude, ranging up to around 20000 K near the top.[64] In the upper part of the chromosphere helium becomes partially ionized.[71]
+Taken by Hinode's Solar Optical Telescope on January 12, 2007, this image of the Sun reveals the filamentary nature of the plasma connecting regions of different magnetic polarity.
+Above the chromosphere, in a thin (about 200 km) transition region, the temperature rises rapidly from around 20,000 K in the upper chromosphere to coronal temperatures closer to 1,000,000 K.[72] The temperature increase is facilitated by the full ionization of helium in the transition region, which significantly reduces radiative cooling of the plasma.[71] The transition region does not occur at a well-defined altitude. Rather, it forms a kind of nimbus around chromospheric features such as spicules and filaments, and is in constant, chaotic motion.[61] The transition region is not easily visible from Earth's surface, but is readily observable from space by instruments sensitive to the extreme ultraviolet portion of the spectrum.[73]
+The corona is the extended outer atmosphere of the Sun, which is much larger in volume than the Sun itself. The corona continuously expands into space becoming the solar wind, which fills all the Solar System.[74] The low corona, near the surface of the Sun, has a particle density around 1015–1016 m−3.[71][e] The average temperature of the corona and solar wind is about 1,000,000–2,000,000 K; however, in the hottest regions it is 8,000,000–20,000,000 K.[72] While no complete theory yet exists to account for the temperature of the corona, at least some of its heat is known to be from magnetic reconnection.[72][74]
+The heliosphere, which is the volume around the Sun filled with the solar wind plasma, begins from approximately 20 solar radii (0.1 AU) and extends to the outer fringes of the Solar System. Its inner boundary is defined as the layer in which the flow of the solar wind becomes superalfvénic—that is, where the flow becomes faster than the speed of Alfvén waves.[75] Turbulence and dynamic forces in the heliosphere cannot affect the shape of the solar corona within, because the information can only travel at the speed of Alfvén waves. The solar wind travels outward continuously through the heliosphere, forming the solar magnetic field into a spiral shape,[74] until it impacts the heliopause more than 50 AU from the Sun. In December 2004, the Voyager 1 probe passed through a shock front that is thought to be part of the heliopause. Both of the Voyager probes have recorded higher levels of energetic particles as they approach the boundary.[76]
+Magnetic field
+In this false-color ultraviolet image, the Sun shows a C3-class solar flare (white area on upper left), a solar tsunami (wave-like structure, upper right) and multiple filaments of plasma following a magnetic field, rising from the stellar surface.
+The heliospheric current sheet extends to the outer reaches of the Solar System, and results from the influence of the Sun's rotating magnetic field on the plasma in the interplanetary medium.[77]
+The Sun is a magnetically active star. It supports a strong, changing magnetic field that varies year-to-year and reverses direction about every eleven years around solar maximum.[78] The Sun's magnetic field leads to many effects that are collectively called solar activity, including sunspots on the surface of the Sun, solar flares, and variations in solar wind that carry material through the Solar System.[79] The effects of solar activity on Earth include auroras at moderate to high latitudes and the disruption of radio communications and electric power. Solar activity is thought to have played a large role in the formation and evolution of the Solar System. Solar activity changes the structure of Earth's outer atmosphere.[80]
+All matter in the Sun is in the form of gas and at high temperatures, plasma. This makes it possible for the Sun to rotate faster at its equator (about 25 days) than it does at higher latitudes (about 35 days near its poles). The differential rotation of the Sun's latitudes causes its magnetic field lines to become twisted together over time, producing magnetic field loops to erupt from the Sun's surface and trigger the formation of the Sun's dramatic sunspots and solar prominences (see magnetic reconnection). This twisting action creates the solar dynamo and an 11-year solar cycle of magnetic activity as the Sun's magnetic field reverses itself about every 11 years.[81][82]
+The solar magnetic field extends well beyond the Sun itself. The magnetized solar wind plasma carries the Sun's magnetic field into space forming what is called the interplanetary magnetic field.[74] Since the plasma can only move along the magnetic field lines, the interplanetary magnetic field is initially stretched radially away from the Sun. Because the fields above and below the solar equator have different polarities pointing towards and away from the Sun, there exists a thin current layer in the solar equatorial plane, which is called the heliospheric current sheet.[74] At great distances, the rotation of the Sun twists the magnetic field and the current sheet into the Archimedean spiral like structure called the Parker spiral.[74] The interplanetary magnetic field is much stronger than the dipole component of the solar magnetic field. The Sun's dipole magnetic field of 50–400 μT (at the photosphere) reduces with the cube of the distance to about 0.1 nT at the distance of the Earth. However, according to spacecraft observations the interplanetary field at the Earth's location is around 5 nT, about a hundred times greater.[83] The difference is due to magnetic fields generated by electrical currents in the plasma surrounding the Sun.
+Chemical composition
+Image taken by NASA STEREO probes launched in 2006; utilizing two spacecraft to image the Sun at the extreme UV wavelength (171 Å).
+ “From a chemist’s point of view, the surface or interior of a star…is boring—there are no molecules there.”—Roald Hoffmann[84]
+The Sun is composed primarily of the chemical elements hydrogen and helium; they account for 74.9% and 23.8% of the mass of the Sun in the photosphere, respectively.[85] All heavier elements, called metals in astronomy, account for less than 2% of the mass. The most abundant metals are oxygen (roughly 1% of the Sun's mass), carbon (0.3%), neon (0.2%), and iron (0.2%).[86]
+The Sun inherited its chemical composition from the interstellar medium out of which it formed. The hydrogen and helium in the Sun were produced by Big Bang nucleosynthesis, and the metals were produced by stellar nucleosynthesis in generations of stars that completed their stellar evolution and returned their material to the interstellar medium before the formation of the Sun.[87] The chemical composition of the photosphere is normally considered representative of the composition of the primordial Solar System.[88] However, since the Sun formed, some of the helium and heavy elements have gravitationally settled from the photosphere. Therefore, in today's photosphere the helium fraction is reduced and the metallicity is only 84% of that in the protostellar phase (before nuclear fusion in the core started). The protostellar Sun's composition was reconstructed as 71.1% hydrogen, 27.4% helium, and 1.5% metals.[85]
+In the inner portions of the Sun, nuclear fusion has modified the composition by converting hydrogen into helium, so the innermost portion of the Sun is now roughly 60% helium, with the metal abundance unchanged. Because the interior of the Sun is radiative, not convective (see Radiative zone above), none of the fusion products from the core have risen to the photosphere.[89]
+The reactive core zone of "hydrogen burning", where hydrogen is converted into helium, is starting to surround the core of "helium ash". This development will continue and will eventually cause the Sun to leave the main sequence, to become a red giant[90]
+The solar heavy-element abundances described above are typically measured both using spectroscopy of the Sun's photosphere and by measuring abundances in meteorites that have never been heated to melting temperatures. These meteorites are thought to retain the composition of the protostellar Sun and are thus not affected by settling of heavy elements. The two methods generally agree well.[15]
+Singly ionized iron group elements
+In the 1970s, much research focused on the abundances of iron group elements in the Sun.[91][92] Although significant research was done, the abundance determination of some iron group elements (e.g. cobalt and manganese) was still difficult at least as far as 1978 because of their hyperfine structures.[91]
+The first largely complete set of oscillator strengths of singly ionized iron group elements were made available first in the 1960s,[93] and improved oscillator strengths were computed in 1976.[94] In 1978 the abundances of 'singly Ionized' elements of the iron group were derived.[91]
+Solar and planetary mass fractionation relationship
+Various authors have considered the existence of a mass fractionation relationship between the isotopic compositions of solar and planetary noble gases,[95] for example correlations between isotopic compositions of planetary and solar neon and xenon.[96] Nevertheless, the belief that the whole Sun has the same composition as the solar atmosphere was still widespread, at least until 1983.[97]
+In 1983, it was claimed that it was the fractionation in the Sun itself that caused the fractionation relationship between the isotopic compositions of planetary and solar wind implanted noble gases.[97]
+Solar cycles
+Sunspots and the sunspot cycle
+Measurements of solar cycle variation during the last 30 years
+When observing the Sun with appropriate filtration, the most immediately visible features are usually its sunspots, which are well-defined surface areas that appear darker than their surroundings because of lower temperatures. Sunspots are regions of intense magnetic activity where convection is inhibited by strong magnetic fields, reducing energy transport from the hot interior to the surface. The magnetic field causes strong heating in the corona, forming active regions that are the source of intense solar flares and coronal mass ejections. The largest sunspots can be tens of thousands of kilometers across.[98]
+The number of sunspots visible on the Sun is not constant, but varies over an 11-year cycle known as the solar cycle. At a typical solar minimum, few sunspots are visible, and occasionally none at all can be seen. Those that do appear are at high solar latitudes. As the sunspot cycle progresses, the number of sunspots increases and they move closer to the equator of the Sun, a phenomenon described by Spörer's law. Sunspots usually exist as pairs with opposite magnetic polarity. The magnetic polarity of the leading sunspot alternates every solar cycle, so that it will be a north magnetic pole in one solar cycle and a south magnetic pole in the next.[99]
+History of the number of observed sunspots during the last 250 years, which shows the ~11-year solar cycle
+The solar cycle has a great influence on space weather, and a significant influence on the Earth's climate since the Sun's luminosity has a direct relationship with magnetic activity.[100] Solar activity minima tend to be correlated with colder temperatures, and longer than average solar cycles tend to be correlated with hotter temperatures. In the 17th century, the solar cycle appeared to have stopped entirely for several decades; few sunspots were observed during this period. During this era, known as the Maunder minimum or Little Ice Age, Europe experienced unusually cold temperatures.[101] Earlier extended minima have been discovered through analysis of tree rings and appear to have coincided with lower-than-average global temperatures.[102]
+Possible long-term cycle
+A recent theory claims that there are magnetic instabilities in the core of the Sun that cause fluctuations with periods of either 41,000 or 100,000 years. These could provide a better explanation of the ice ages than the Milankovitch cycles.[103][104]
+Life phases
+The Sun today is roughly halfway through the most stable part of its life. It has not changed dramatically for four billion[a] years, and will remain fairly stable for four billion more. However after hydrogen fusion in its core has stopped, the Sun will undergo severe changes, both internally and externally.
+Formation
+The Sun was formed about 4.57 billion years ago from the collapse of part of a giant molecular cloud that consisted mostly of hydrogen and helium and which probably gave birth to many other stars.[105] This age is estimated using computer models of stellar evolution and through nucleocosmochronology.[8] The result is consistent with the radiometric date of the oldest Solar System material, at 4.567 billion years ago.[106][107] Studies of ancient meteorites reveal traces of stable daughter nuclei of short-lived isotopes, such as iron-60, that form only in exploding, short-lived stars. This indicates that one or more supernovae must have occurred near the location where the Sun formed. A shock wave from a nearby supernova would have triggered the formation of the Sun by compressing the gases within the molecular cloud and causing certain regions to collapse under their own gravity.[108] As one fragment of the cloud collapsed it also began to rotate due to conservation of angular momentum and heat up with the increasing pressure. Much of the mass became concentrated in the center, while the rest flattened out into a disk which would become the planets and other solar system bodies. Gravity and pressure within the core of the cloud generated a lot of heat as it accreted more gas from the surrounding disk, eventually triggering nuclear fusion. Thus, the Sun was born.
+Main sequence
+Evolution of the Sun's luminosity, radius and effective temperature compared to the present Sun. After Ribas (2010)[109]
+The Sun is about halfway through its main-sequence stage, during which nuclear fusion reactions in its core fuse hydrogen into helium. Each second, more than four million tonnes of matter are converted into energy within the Sun's core, producing neutrinos and solar radiation. At this rate, the Sun has so far converted around 100 Earth-masses of matter into energy. The Sun will spend a total of approximately 10 billion years as a main-sequence star.[110]
+After core hydrogen exhaustion
+The size of the current Sun (now in the main sequence) compared to its estimated size during its red giant phase in the future
+The Sun does not have enough mass to explode as a supernova. Instead it will exit the main sequence in approximately 5.4 billion years and start to turn into a red giant. It is calculated that the Sun will become sufficiently large to engulf the current orbits of the solar system's inner planets, possibly including Earth.[111][112]
+Even before it becomes a red giant, the luminosity of the Sun will have nearly doubled, and the Earth will be hotter than Venus is today. Once the core hydrogen is exhausted in 5.4 billion years, the Sun will expand into a subgiant phase and slowly double in size over about half a billion years. It will then expand more rapidly over about half a billion years until it is over two hundred times larger than today and a couple of thousand times more luminous. This then starts the red giant branch (RGB) phase where the Sun will spend around a billion years and lose around a third of its mass.[112]
+Evolution of a sun-like star. The track of a one solar mass star on the Hertzsprung–Russell diagram is shown from the main sequence to the post-AGB stage.
+After RGB the Sun now has only about 120 million years of active life left, but they are highly eventful. First the core ignites violently in the helium flash, and the Sun shrinks back to around 10 times its current size with 50 times the luminosity, with a temperature a little lower than today. It has now reached the red clump or horizontal branch (HB), but a star of the Sun's mass does not evolve blueward along the HB. Instead it just becomes mildly larger and more luminous over about 100 million years as it continues to burn helium in the core.[112]
+When the helium is exhausted, the Sun will repeat the expansion it followed when the hydrogen in the core was exhausted, except that this time it all happens faster, and the Sun becomes larger and more luminous. This is the asymptotic giant branch (AGB) phase, and the Sun is alternately burning hydrogen in a shell or helium in a deeper shell. After about 20 million years on the early AGB, the Sun becomes increasingly unstable, with rapid mass loss and thermal pulses that increase the size and luminosity for a few hundred years every 100,000 years or so. The thermal pulses become larger each time, with the later pulses pushing the luminosity to as much as 5,000 times the current level and the radius to over 1 AU.[113] Models vary depending on the rate and timing of mass loss. Models that have higher mass loss on the RGB produce smaller, less luminous stars at the tip of the AGB, perhaps only 2,000 times the luminosity and less than 200 times the radius.[112] For the Sun, four thermal pulses are predicted before it completely loses its outer envelope and starts to make a planetary nebula. By the end of that phase – lasting approximately 500,000 years – the Sun will only have about half of its current mass.
+The post AGB evolution is even faster. The luminosity stays approximately constant while the temperature increases, with the ejected half of the Sun's mass becoming ionised into a planetary nebula as the exposed core reaches 30,000K. The final naked core temperature will be over 100,000K, after which the remnant will cool towards a white dwarf. The planetary nebula will disperse in about 10,000 years, but the white dwarf will survive for trillions of years before fading to black.[114][115]
+Earth's fate
+An artist's depiction of the Sun entering its red giant phase viewed from Earth. All life on Earth is extinct at this phase.
+In the long run, the Earth's water and most of its atmosphere will eventually escape into space. During its life in the main sequence, the Sun is becoming more luminous (about 10% every 1 billion years) and its surface temperature is slowly rising. The increase in solar temperatures is such that in about another billion years the Earth's water will evaporate and escape into space, rendering the planet inhospitable to all known terrestrial life.[116][117] The Earth is not expected to survive the Sun's transition into a red giant. At its largest, the Sun will have a maximum radius beyond the Earth's current orbit, 1 AU (1.5×1011 m), 250 times the present radius of the Sun.[116] By the time the Sun has entered the asymptotic red giant branch, the orbits of the planets will have drifted outwards due to a loss of roughly 30% of the Sun's present mass. Most of this mass will be lost as the solar wind increases. Also, tidal acceleration will help boost the Earth to a higher orbit (similar to what the Earth does to the moon). If it were only for this, Earth would probably remain outside the Sun. However, current research suggests that after the Sun becomes a red giant, Earth will be pulled in owing to tidal deceleration.[116]
+Sunlight
+Comparison of the Sun's apparent size, as seen from the vicinity of Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto
+Sunlight is Earth's primary source of energy. The only other source of energy the Earth has are the fissionable materials generated by the cataclysmic death of another star. These fissionable materials trapped in the Earth's crust is what gives rise to geothermal energy, which drives the volcanism on Earth while also making it possible for mankind to fuel nuclear reactors. The solar constant is the amount of power that the Sun deposits per unit area that is directly exposed to sunlight. The solar constant is equal to approximately 1368 W/m2 (watts per square meter) at a distance of one astronomical unit (AU) from the Sun (that is, on or near Earth).[118] Sunlight at the top of Earth's atmosphere is composed (by total energy) of about 50% infrared light, 40% visible light, and 10% ultraviolet light.[119]
+Sunlight on the surface of Earth is attenuated by the Earth's atmosphere so that less power arrives at the surface—closer to 1000 W/m2 in clear conditions when the Sun is near the zenith.[120] The atmosphere in particular filters out over 70% of solar ultraviolet, especially at the shorter wavelengths.[121]
+Solar energy can be harnessed by a variety of natural and synthetic processes—photosynthesis by plants captures the energy of sunlight and converts it to chemical form (oxygen and reduced carbon compounds), while direct heating or electrical conversion by solar cells are used by solar power equipment to generate electricity or to do other useful work, sometimes employing concentrating solar power (that it is measured in suns). The energy stored in petroleum and other fossil fuels was originally converted from sunlight by photosynthesis in the distant past.[122]
+Motion and location
+Illustration of the Milky Way galaxy, showing the location of the Sun (click to enlarge)
+The Sun lies close to the inner rim of the Milky Way Galaxy's Orion Arm, in the Local Fluff or the Gould Belt, at a hypothesized distance of 7.5–8.5 kpc (25,000–28,000 light-years) from the Galactic Center,[123][124][125][126] contained within the Local Bubble, a space of rarefied hot gas, possibly produced by the supernova remnant, Geminga.[127] The distance between the local arm and the next arm out, the Perseus Arm, is about 6,500 light-years.[128] The Sun, and thus the Solar System, is found in what scientists call the galactic habitable zone.
+The Apex of the Sun's Way, or the solar apex, is the direction that the Sun travels through space in the Milky Way, relative to other nearby stars. The general direction of the Sun's galactic motion is towards the star Vega in the constellation of Lyra at an angle of roughly 60 sky degrees to the direction of the Galactic Center.
+The Sun's orbit around the Galaxy is expected to be roughly elliptical with the addition of perturbations due to the galactic spiral arms and non-uniform mass distributions. In addition the Sun oscillates up and down relative to the galactic plane approximately 2.7 times per orbit. It has been argued that the Sun's passage through the higher density spiral arms often coincides with mass extinctions on Earth, perhaps due to increased impact events.[129] It takes the Solar System about 225–250 million years to complete one orbit of the galaxy (a galactic year),[130] so it is thought to have completed 20–25 orbits during the lifetime of the Sun. The orbital speed of the Solar System about the center of the Galaxy is approximately 251 km/s (156 mi/s).[131] At this speed, it takes around 1,190 years for the Solar System to travel a distance of 1 light-year, or 7 days to travel 1 AU.[132]
+Motion of the barycenter of the Solar System relative to the Sun
+The Sun's motion about the center of mass of the Solar System is complicated by perturbations from the planets. The barycenter is just outside the volume of the Sun when Jupiter and Saturn (the two planets with the greatest masses) are roughly in the same direction, as seen from the Sun. When they are in opposite directions, and the other planets are aligned appropriately, the barycentre can be very close to the centre of the Sun. Every few hundred years this motion switches between prograde and retrograde.[133]
+Theoretical problems
+Map of the full sun by STEREO and SDO spacecraft
+Coronal heating problem
+The optical surface of the Sun (the photosphere) is known to have a temperature of approximately 6,000 K. Above it lies the solar corona, rising to a temperature of 1,000,000–2,000,000 K.[72] The high temperature of the corona shows that it is heated by something other than direct heat conduction from the photosphere.[74]
+It is thought that the energy necessary to heat the corona is provided by turbulent motion in the convection zone below the photosphere, and two main mechanisms have been proposed to explain coronal heating.[72] The first is wave heating, in which sound, gravitational or magnetohydrodynamic waves are produced by turbulence in the convection zone.[72] These waves travel upward and dissipate in the corona, depositing their energy in the ambient gas in the form of heat.[134] The other is magnetic heating, in which magnetic energy is continuously built up by photospheric motion and released through magnetic reconnection in the form of large solar flares and myriad similar but smaller events—nanoflares.[135]
+Currently, it is unclear whether waves are an efficient heating mechanism. All waves except Alfvén waves have been found to dissipate or refract before reaching the corona.[136] In addition, Alfvén waves do not easily dissipate in the corona. Current research focus has therefore shifted towards flare heating mechanisms.[72]
+Faint young Sun problem
+Theoretical models of the Sun's development suggest that 3.8 to 2.5 billion years ago, during the Archean period, the Sun was only about 75% as bright as it is today. Such a weak star would not have been able to sustain liquid water on the Earth's surface, and thus life should not have been able to develop. However, the geological record demonstrates that the Earth has remained at a fairly constant temperature throughout its history, and that the young Earth was somewhat warmer than it is today. The consensus among scientists is that the young Earth's atmosphere contained much larger quantities of greenhouse gases (such as carbon dioxide, methane and/or ammonia) than are present today, which trapped enough heat to compensate for the smaller amount of solar energy reaching the planet.[137]
+History of observation
+Early understanding
+The Trundholm Sun chariot pulled by a horse is a sculpture believed to be illustrating an important part of Nordic Bronze Age mythology. The sculpture is probably from around 1350 BC. It is displayed at the National Museum of Denmark.
+Like other natural phenomena, the Sun has been an object of veneration in many cultures throughout human history. Humanity's most fundamental understanding of the Sun is as the luminous disk in the sky, whose presence above the horizon creates day and whose absence causes night. In many prehistoric and ancient cultures, the Sun was thought to be a solar deity or other supernatural phenomenon. Worship of the Sun was central to civilizations such as the ancient Egyptians, the Inca of South America and the Aztecs of what is now Mexico. In religions such as Hinduism, the Sun is still considered a God. Many ancient monuments were constructed with solar phenomena in mind; for example, stone megaliths accurately mark the summer or winter solstice (some of the most prominent megaliths are located in Nabta Playa, Egypt; Mnajdra, Malta and at Stonehenge, England); Newgrange, a prehistoric human-built mount in Ireland, was designed to detect the winter solstice; the pyramid of El Castillo at Chichén Itzá in Mexico is designed to cast shadows in the shape of serpents climbing the pyramid at the vernal and autumn equinoxes.
+The Egyptians portrayed Ra (=the sun) as being carried across the sky in a solar barque, accompanied by lesser gods, and to the Greeks, he was Helios, carried by a chariot drawn by fiery horses. From the reign of Elagabalus in the late Roman Empire the Sun's birthday was a holiday celebrated as Sol Invictus (literally “unconquered sun”) soon after the winter solstice which may have been an antecedent to Christmas. Regarding the fixed stars, the Sun appears from Earth to revolve once a year along the ecliptic through the zodiac, and so Greek astronomers considered it to be one of the seven planets (Greek planetes, “wanderer”), after which the seven days of the week are named in some languages.[138][139][140]
+Development of scientific understanding
+File:Observing The Sun.OGG 
+Since the discovery of sunspots by Galileo in 1609, scientists have continued to study the Sun.
+In the early first millennium BC, Babylonian astronomers observed that the Sun's motion along the ecliptic was not uniform, though they were unaware of why this was; it is today known that this is due to the movement of the Earth in an elliptic orbit around the Sun, with the Earth moving faster when it is nearer to the Sun at perihelion and moving slower when it is farther away at aphelion.[141]
+One of the first people to offer a scientific or philosophical explanation for the Sun was the Greek philosopher Anaxagoras, who reasoned that it was a giant flaming ball of metal even larger than the Peloponnesus rather than the chariot of Helios, and that the Moon reflected the light of the Sun.[142] For teaching this heresy, he was imprisoned by the authorities and sentenced to death, though he was later released through the intervention of Pericles. Eratosthenes estimated the distance between the Earth and the Sun in the 3rd century BC as "of stadia myriads 400 and 80000", the translation of which is ambiguous, implying either 4,080,000 stadia (755,000 km) or 804,000,000 stadia (148 to 153 million kilometers or 0.99 to 1.02 AU); the latter value is correct to within a few percent. In the 1st century AD, Ptolemy estimated the distance as 1,210 times the Earth radius, approximately 7.71 million kilometers (0.0515 AU).[143]
+The theory that the Sun is the center around which the planets move was first proposed by the ancient Greek Aristarchus of Samos in the 3rd century BC, and later adopted by Seleucus of Seleucia (see Heliocentrism). This largely philosophical view was developed into fully predictive mathematical model of a heliocentric system in the 16th century by Nicolaus Copernicus. In the early 17th century, the invention of the telescope permitted detailed observations of sunspots by Thomas Harriot, Galileo Galilei and other astronomers. Galileo made some of the first known telescopic observations of sunspots and posited that they were on the surface of the Sun rather than small objects passing between the Earth and the Sun.[144] Sunspots were also observed since the Han Dynasty (206 BC – AD 220) by Chinese astronomers who maintained records of these observations for centuries. Averroes also provided a description of sunspots in the 12th century.[145]
+Arabic astronomical contributions include Albatenius' discovery that the direction of the Sun's apogee (the place in the Sun's orbit against the fixed stars where it seems to be moving slowest) is changing.[146] (In modern heliocentric terms, this is caused by a gradual motion of the aphelion of the Earth's orbit). Ibn Yunus observed more than 10,000 entries for the Sun's position for many years using a large astrolabe.[147]
+Sol, the Sun, from a 1550 edition of Guido Bonatti's Liber astronomiae.
+The transit of Venus was first observed in 1032 by Persian astronomer and polymath Avicenna, who concluded that Venus is closer to the Earth than the Sun.[148] In 1672 Giovanni Cassini and Jean Richer determined the distance to Mars and were thereby able to calculate the distance to the Sun.
+Isaac Newton observed the Sun's light using a prism, and showed that it was made up of light of many colors,[149] while in 1800 William Herschel discovered infrared radiation beyond the red part of the solar spectrum.[150] The 19th century saw advancement in spectroscopic studies of the Sun; Joseph von Fraunhofer recorded more than 600 absorption lines in the spectrum, the strongest of which are still often referred to as Fraunhofer lines. In the early years of the modern scientific era, the source of the Sun's energy was a significant puzzle. Lord Kelvin suggested that the Sun was a gradually cooling liquid body that was radiating an internal store of heat.[151] Kelvin and Hermann von Helmholtz then proposed a gravitational contraction mechanism to explain the energy output, but the resulting age estimate was only 20 million years, well short of the time span of at least 300 million years suggested by some geological discoveries of that time.[151] In 1890 Joseph Lockyer, who discovered helium in the solar spectrum, proposed a meteoritic hypothesis for the formation and evolution of the Sun.[152]
+Not until 1904 was a documented solution offered. Ernest Rutherford suggested that the Sun's output could be maintained by an internal source of heat, and suggested radioactive decay as the source.[153] However, it would be Albert Einstein who would provide the essential clue to the source of the Sun's energy output with his mass-energy equivalence relation E = mc2.[154] In 1920, Sir Arthur Eddington proposed that the pressures and temperatures at the core of the Sun could produce a nuclear fusion reaction that merged hydrogen (protons) into helium nuclei, resulting in a production of energy from the net change in mass.[155] The preponderance of hydrogen in the Sun was confirmed in 1925 by Cecilia Payne using the ionization theory developed by Meghnad Saha, an Indian physicist. The theoretical concept of fusion was developed in the 1930s by the astrophysicists Subrahmanyan Chandrasekhar and Hans Bethe. Hans Bethe calculated the details of the two main energy-producing nuclear reactions that power the Sun.[156][157] Finally, a seminal paper entitled "Synthesis of the Elements in Stars" was published in 1957 by Margaret Burbidge, Geoffrey Burbidge, William Fowler and Fred Hoyle.[158] The paper demonstrated convincingly that most of the elements in the universe had been synthesized by nuclear reactions inside stars, some like the Sun.
+Solar space missions
+The Sun giving out a large geomagnetic storm on 1:29 pm, EST, 13th March 2012
+File:Moon transit of sun large.ogg 
+A lunar transit of the Sun captured during calibration of STEREO B's ultraviolet imaging cameras[159]
+The first satellites designed to observe the Sun were NASA's Pioneers 5, 6, 7, 8 and 9, which were launched between 1959 and 1968. These probes orbited the Sun at a distance similar to that of the Earth, and made the first detailed measurements of the solar wind and the solar magnetic field. Pioneer 9 operated for a particularly long time, transmitting data until May 1983.[160][161]
+In the 1970s, two Helios spacecraft and the Skylab Apollo Telescope Mount provided scientists with significant new data on solar wind and the solar corona. The Helios 1 and 2 probes were U.S.–German collaborations that studied the solar wind from an orbit carrying the spacecraft inside Mercury's orbit at perihelion.[162] The Skylab space station, launched by NASA in 1973, included a solar observatory module called the Apollo Telescope Mount that was operated by astronauts resident on the station.[73] Skylab made the first time-resolved observations of the solar transition region and of ultraviolet emissions from the solar corona.[73] Discoveries included the first observations of coronal mass ejections, then called "coronal transients", and of coronal holes, now known to be intimately associated with the solar wind.[162]
+In 1980, the Solar Maximum Mission was launched by NASA. This spacecraft was designed to observe gamma rays, X-rays and UV radiation from solar flares during a time of high solar activity and solar luminosity. Just a few months after launch, however, an electronics failure caused the probe to go into standby mode, and it spent the next three years in this inactive state. In 1984 Space Shuttle Challenger mission STS-41C retrieved the satellite and repaired its electronics before re-releasing it into orbit. The Solar Maximum Mission subsequently acquired thousands of images of the solar corona before re-entering the Earth's atmosphere in June 1989.[163]
+Launched in 1991, Japan's Yohkoh (Sunbeam) satellite observed solar flares at X-ray wavelengths. Mission data allowed scientists to identify several different types of flares, and demonstrated that the corona away from regions of peak activity was much more dynamic and active than had previously been supposed. Yohkoh observed an entire solar cycle but went into standby mode when an annular eclipse in 2001 caused it to lose its lock on the Sun. It was destroyed by atmospheric re-entry in 2005.[164]
+One of the most important solar missions to date has been the Solar and Heliospheric Observatory, jointly built by the European Space Agency and NASA and launched on 2 December 1995.[73] Originally intended to serve a two-year mission, a mission extension through 2012 was approved in October 2009.[165] It has proven so useful that a follow-on mission, the Solar Dynamics Observatory (SDO), was launched in February 2010.[166] Situated at the Lagrangian point between the Earth and the Sun (at which the gravitational pull from both is equal), SOHO has provided a constant view of the Sun at many wavelengths since its launch.[73] Besides its direct solar observation, SOHO has enabled the discovery of a large number of comets, mostly tiny sungrazing comets which incinerate as they pass the Sun.[167]
+A solar prominence erupts in August 2012, as captured by SDO
+All these satellites have observed the Sun from the plane of the ecliptic, and so have only observed its equatorial regions in detail. The Ulysses probe was launched in 1990 to study the Sun's polar regions. It first travelled to Jupiter, to "slingshot" past the planet into an orbit which would take it far above the plane of the ecliptic. Serendipitously, it was well-placed to observe the collision of Comet Shoemaker-Levy 9 with Jupiter in 1994. Once Ulysses was in its scheduled orbit, it began observing the solar wind and magnetic field strength at high solar latitudes, finding that the solar wind from high latitudes was moving at about 750 km/s which was slower than expected, and that there were large magnetic waves emerging from high latitudes which scattered galactic cosmic rays.[168]
+Elemental abundances in the photosphere are well known from spectroscopic studies, but the composition of the interior of the Sun is more poorly understood. A solar wind sample return mission, Genesis, was designed to allow astronomers to directly measure the composition of solar material. Genesis returned to Earth in 2004 but was damaged by a crash landing after its parachute failed to deploy on re-entry into Earth's atmosphere. Despite severe damage, some usable samples have been recovered from the spacecraft's sample return module and are undergoing analysis.[169]
+The Solar Terrestrial Relations Observatory (STEREO) mission was launched in October 2006. Two identical spacecraft were launched into orbits that cause them to (respectively) pull further ahead of and fall gradually behind the Earth. This enables stereoscopic imaging of the Sun and solar phenomena, such as coronal mass ejections.[170][171]
+The Indian Space Research Organisation has scheduled the launch of a 100 kg satellite named Aditya for 2015–16. Its main instrument will be a coronagraph for studying the dynamics of the Solar corona.[172]
+Observation and effects
+The Sun, as seen from low Earth orbit overlooking the International Space Station. This sunlight is not filtered by the lower atmosphere, which blocks many wavelengths of light
+The brightness of the sun can cause pain from looking at it with the naked eye; however, doing so for brief periods is not hazardous for normal non-dilated eyes.[173][174] Looking directly at the Sun causes phosphene visual artifacts and temporary partial blindness. It also delivers about 4 milliwatts of sunlight to the retina, slightly heating it and potentially causing damage in eyes that cannot respond properly to the brightness.[175][176] UV exposure gradually yellows the lens of the eye over a period of years, and is thought to contribute to the formation of cataracts, but this depends on general exposure to solar UV, and not whether one looks directly at the Sun.[177] Long-duration viewing of the direct Sun with the naked eye can begin to cause UV-induced, sunburn-like lesions on the retina after about 100 seconds, particularly under conditions where the UV light from the Sun is intense and well focused;[178][179] conditions are worsened by young eyes or new lens implants (which admit more UV than aging natural eyes), Sun angles near the zenith, and observing locations at high altitude.
+Viewing the Sun through light-concentrating optics such as binoculars may result in permanent damage to the retina without an appropriate filter that blocks UV and substantially dims the sunlight. When using an attenuating filter to view the Sun, the viewer is cautioned to use a filter specifically designed for that use. Some improvised filters that pass UV or IR rays, can actually harm the eye at high brightness levels.[180] Herschel wedges, also called Solar Diagonals, are effective, inexpensive filters for small telescopes. The sunlight that is destined for the eyepiece is reflected from an unsilvered surface of a piece of glass. Only a very small fraction of the incident light is reflected. The rest passes through the glass and leaves the instrument. If the glass breaks because of the heat, no light at all is reflected, making the device fail-safe. Simple filters made of darkened glass allow the full intensity of sunlight to pass through if they break, endangering the observer's eyesight. Unfiltered binoculars can deliver hundreds of times as much energy as using the naked eye, possibly causing immediate damage. It is claimed that even brief glances at the midday Sun through an unfiltered telescope can cause permanent damage.[181]
+Halo with sun dogs
+Partial solar eclipses are hazardous to view because the eye's pupil is not adapted to the unusually high visual contrast: the pupil dilates according to the total amount of light in the field of view, not by the brightest object in the field. During partial eclipses most sunlight is blocked by the Moon passing in front of the Sun, but the uncovered parts of the photosphere have the same surface brightness as during a normal day. In the overall gloom, the pupil expands from ~2 mm to ~6 mm, and each retinal cell exposed to the solar image receives up to ten times more light than it would looking at the non-eclipsed Sun. This can damage or kill those cells, resulting in small permanent blind spots for the viewer.[182] The hazard is insidious for inexperienced observers and for children, because there is no perception of pain: it is not immediately obvious that one's vision is being destroyed.
+The Sun as it appears from the surface of the Earth at sunrise.
+The Sun as it appears from the surface of the Earth at sunset.
+During sunrise and sunset sunlight is attenuated due to Rayleigh scattering and Mie scattering from a particularly long passage through Earth's atmosphere,[183] and the Sun is sometimes faint enough to be viewed comfortably with the naked eye or safely with optics (provided there is no risk of bright sunlight suddenly appearing through a break between clouds). Hazy conditions, atmospheric dust, and high humidity contribute to this atmospheric attenuation.[184]
+A rare optical phenomenon may occur shortly after sunset or before sunrise, known as a green flash. The flash is caused by light from the Sun just below the horizon being bent (usually through a temperature inversion) towards the observer. Light of shorter wavelengths (violet, blue, green) is bent more than that of longer wavelengths (yellow, orange, red) but the violet and blue light is scattered more, leaving light that is perceived as green.[185]
+Ultraviolet light from the Sun has antiseptic properties and can be used to sanitize tools and water. It also causes sunburn, and has other medical effects such as the production of vitamin D. Ultraviolet light is strongly attenuated by Earth's ozone layer, so that the amount of UV varies greatly with latitude and has been partially responsible for many biological adaptations, including variations in human skin color in different regions of the globe.[186]
+See also
+ Advanced Composition Explorer
+ Antisolar point
+ List of brightest stars
+ List of Solar System bodies formerly considered planets
+ Solar astronomy
+ Solar energy
+ Sun dog
+ Sun path
+ Sun-Earth Day
+ Sungazing
+Notes
+ All numbers in this article are short scale. One billion is 109, or 1,000,000,000.
+ Hydrothermal vent communities live so deep under the sea that they have no access to sunlight. Bacteria instead use sulfur compounds as an energy source, via chemosynthesis.
+ In astronomical sciences, the term heavy elements (or metals) refers to all elements except hydrogen and helium.
+ A 50 kg adult human has a volume of about 0.05 m3, which corresponds to 13.8 watts, at the volumetric power of the solar center. This is 285 kcal/day, about 10% of the actual average caloric intake and output for humans in non-stressful conditions.
+ Earth's atmosphere near sea level has a particle density of about 2×1025 m−3.
+References
+ Williams, D. R. (1 July 2013). "Sun Fact Sheet". NASA. Retrieved 2013-08-12.
+ Asplund, M.; Grevesse, N.; Sauval, A. J. (2006). "The new solar abundances - Part I: the observations". Communications in Asteroseismology 147: 76–79. Bibcode:2006CoAst.147...76A. doi:10.1553/cia147s76.
+ "Eclipse 99: Frequently Asked Questions". NASA. Retrieved 2010-10-24.
+ Hinshaw, G.; et al. (2009). "Five-year Wilkinson Microwave Anisotropy Probe observations: data processing, sky maps, and basic results". The Astrophysical Journal Supplement Series 180 (2): 225–245. arXiv:0803.0732. Bibcode:2009ApJS..180..225H. doi:10.1088/0067-0049/180/2/225.
+ Emilio, M.; Kuhn, J. R.; Bush, R. I.; Scholl, I. F. (2012). "Measuring the Solar Radius from Space during the 2003 and 2006 Mercury Transits". The Astrophysical Journal 750 (2): 135. arXiv:1203.4898. Bibcode:2012ApJ...750..135E. doi:10.1088/0004-637X/750/2/135.
+ "Solar System Exploration: Planets: Sun: Facts & Figures". NASA. Archived from the original on 2008-01-02.
+ Ko, M. (1999). "Density of the Sun". In Elert, G. The Physics Factbook.
+ Bonanno, A.; Schlattl, H.; Paternò, L. (2008). "The age of the Sun and the relativistic corrections in the EOS". Astronomy and Astrophysics 390 (3): 1115–1118. arXiv:astro-ph/0204331. Bibcode:2002A&A...390.1115B. doi:10.1051/0004-6361:20020749.
+ "The Absolute Chronology and Thermal Processing of Solids in the Solar Protoplanetary Disk". Science 338 (6107). 2 November 2012. pp. 651–655. doi:10.1126/science.1226919. Retrieved 17 March 2014.(registration required)
+ Seidelmann, P. K.; et al. (2000). "Report Of The IAU/IAG Working Group On Cartographic Coordinates And Rotational Elements Of The Planets And Satellites: 2000". Retrieved 2006-03-22.
+ "The Sun's Vital Statistics". Stanford Solar Center. Retrieved 2008-07-29. Citing Eddy, J. (1979). A New Sun: The Solar Results From Skylab. NASA. p. 37. NASA SP-402.
+ "How Round is the Sun?". NASA. 2 October 2008. Retrieved 7 March 2011.
+ "First Ever STEREO Images of the Entire Sun". NASA. 6 February 2011. Retrieved 7 March 2011.
+ Woolfson, M. (2000). "The origin and evolution of the solar system". Astronomy & Geophysics 41 (1): 12. Bibcode:2000A&G....41a..12W. doi:10.1046/j.1468-4004.2000.00012.x.
+ Basu, S.; Antia, H. M. (2008). "Helioseismology and Solar Abundances". Physics Reports 457 (5–6): 217. arXiv:0711.4590. Bibcode:2008PhR...457..217B. doi:10.1016/j.physrep.2007.12.002.
+ Connelly, James N.; Bizzarro, Martin; Krot, Alexander N.; Nordlund, Åke; Wielandt, Daniel; Ivanova, Marina A. (2 November 2012). "The Absolute Chronology and Thermal Processing of Solids in the Solar Protoplanetary Disk". Science 338 (6107): 651–655. Bibcode:2012Sci...338..651C. doi:10.1126/science.1226919.
+ Wilk, S. R. (2009). "The Yellow Sun Paradox". Optics & Photonics News: 12–13.
+ Phillips, K. J. H. (1995). Guide to the Sun. Cambridge University Press. pp. 47–53. ISBN 978-0-521-39788-9.
+ Karl S. Kruszelnicki (17 April 2012). "Dr Karl's Great Moments In Science: Lazy Sun is less energetic than compost". Australian Broadcasting Corporation. Retrieved 25 February 2014. "Every second, the Sun burns 620 million tonnes of hydrogen..."
+ Than, K. (2006). "Astronomers Had it Wrong: Most Stars are Single". Space.com. Retrieved 2007-08-01.
+ Lada, C. J. (2006). "Stellar multiplicity and the initial mass function: Most stars are single". Astrophysical Journal Letters 640 (1): L63–L66. arXiv:astro-ph/0601375. Bibcode:2006ApJ...640L..63L. doi:10.1086/503158.
+ Burton, W. B. (1986). "Stellar parameters". Space Science Reviews 43 (3–4): 244–250. doi:10.1007/BF00190626.
+ Bessell, M. S.; Castelli, F.; Plez, B. (1998). "Model atmospheres broad-band colors, bolometric corrections and temperature calibrations for O–M stars". Astronomy and Astrophysics 333: 231–250. Bibcode:1998A&A...333..231B.
+ "A Star with two North Poles". Science @ NASA. NASA. 22 April 2003.
+ Riley, P.; Linker, J. A.; Mikić, Z. (2002). "Modeling the heliospheric current sheet: Solar cycle variations". Journal of Geophysical Research 107 (A7): SSH 8–1. Bibcode:2002JGRA..107.1136R. doi:10.1029/2001JA000299. CiteID 1136.
+ http://interstellar.jpl.nasa.gov/interstellar/probe/introduction/neighborhood.html, Our Local Galactic Neighborhood, NASA
+ http://www.centauri-dreams.org/?p=14203, Into the Interstellar Void, Centauri Dreams
+ Adams, F. C.; Graves, G.; Laughlin, G. J. M. (2004). "Red Dwarfs and the End of the Main Sequence". Revista Mexicana de Astronomía y Astrofísica 22: 46–49. Bibcode:2004RMxAC..22...46A.
+ Kogut, A.; et al. (1993). "Dipole Anisotropy in the COBE Differential Microwave Radiometers First-Year Sky Maps". Astrophysical Journal 419: 1. arXiv:astro-ph/9312056. Bibcode:1993ApJ...419....1K. doi:10.1086/173453.
+ "Equinoxes, Solstices, Perihelion, and Aphelion, 2000–2020". US Naval Observatory. 31 January 2008. Retrieved 2009-07-17.
+ Simon, A. (2001). The Real Science Behind the X-Files : Microbes, meteorites, and mutants. Simon & Schuster. pp. 25–27. ISBN 0-684-85618-2.
+ Barnhart, R. K. (1995). The Barnhart Concise Dictionary of Etymology. HarperCollins. p. 776. ISBN 0-06-270084-7.
+ Mallory, J. P. (1989). In Search of the Indo-Europeans: Language, Archaeology and Myth. Thames & Hudson. p. 129. ISBN 0-500-27616-1.
+ Barnhart, R. K. (1995). The Barnhart Concise Dictionary of Etymology. HarperCollins. p. 778. ISBN 0-06-270084-7.
+ Little, W; Fowler, H. W.; Coulson, J. "Sol". Oxford Universal Dictionary on Historical Principles (3rd ed.). ASIN B000QS3QVQ.
+ "Sol". Merriam-Webster. Retrieved 2009-07-19.
+ "Opportunity's View, Sol 959 (Vertical)". NASA. 15 November 2006. Retrieved 2007-08-01.
+ Allison, M.; Schmunk, R. (8 August 2012). "Technical Notes on Mars Solar Time as Adopted by the Mars24 Sunclock". NASA/GISS. Retrieved 2012-09-16.
+ Godier, S.; Rozelot, J.-P. (2000). "The solar oblateness and its relationship with the structure of the tachocline and of the Sun's subsurface". Astronomy and Astrophysics 355: 365–374. Bibcode:2000A&A...355..365G.
+ Jones, G. (16 August 2012). "Sun is the most perfect sphere ever observed in nature". The Guardian. Retrieved 2013-08-19.
+ Phillips, K. J. H. (1995). Guide to the Sun. Cambridge University Press. pp. 78–79. ISBN 978-0-521-39788-9.
+ Schutz, B. F. (2003). Gravity from the ground up. Cambridge University Press. pp. 98–99. ISBN 978-0-521-45506-0.
+ Zeilik, M. A.; Gregory, S. A. (1998). Introductory Astronomy & Astrophysics (4th ed.). Saunders College Publishing. p. 322. ISBN 0-03-006228-4.
+ Falk, S. W.; Lattmer, J. M.; Margolis, S. H. (1977). "Are supernovae sources of presolar grains?". Nature 270 (5639): 700–701. Bibcode:1977Natur.270..700F. doi:10.1038/270700a0.
+ Zirker, J. B. (2002). Journey from the Center of the Sun. Princeton University Press. p. 11. ISBN 978-0-691-05781-1.
+ Phillips, K. J. H. (1995). Guide to the Sun. Cambridge University Press. p. 73. ISBN 978-0-521-39788-9.
+ Phillips, K. J. H. (1995). Guide to the Sun. Cambridge University Press. pp. 58–67. ISBN 978-0-521-39788-9.
+ García, R.; et al. (2007). "Tracking solar gravity modes: the dynamics of the solar core". Science 316 (5831): 1591–1593. Bibcode:2007Sci...316.1591G. doi:10.1126/science.1140598. PMID 17478682.
+ Basu, S.; et al. (2009). "Fresh insights on the structure of the solar core". The Astrophysical Journal 699 (699): 1403. arXiv:0905.0651. Bibcode:2009ApJ...699.1403B. doi:10.1088/0004-637X/699/2/1403.
+ "NASA/Marshall Solar Physics". Marshall Space Flight Center. 18 January 2007. Retrieved 2009-07-11.
+ Broggini, C. (2003). "Nuclear Processes at Solar Energy". Physics in Collision, Proceedings of the XXIII International Conference. p. 21. arXiv:astro-ph/0308537. Bibcode:2003phco.conf...21B.
+ Goupil, M. J.; Lebreton, Y.; Marques, J. P.; Samadi, R.; Baudin, F. (2011). "Open issues in probing interiors of solar-like oscillating main sequence stars 1. From the Sun to nearly suns". Journal of Physics: Conference Series 271 (1): 012031. arXiv:1102.0247. Bibcode:2011JPhCS.271a2031G. doi:10.1088/1742-6596/271/1/012031.
+ Zirker, J. B. (2002). Journey from the Center of the Sun. Princeton University Press. pp. 15–34. ISBN 978-0-691-05781-1.
+ Shu, F. H. (1982). The Physical Universe: An Introduction to Astronomy. University Science Books. p. 102. ISBN 0-935702-05-9.
+ Cohen, H. (9 November 1998). "Table of temperatures, power densities, luminosities by radius in the Sun". Contemporary Physics Education Project. Archived from the original on 2011-08-16. Retrieved 2011-08-30.
+ Haubold, H. J.; Mathai, A. M. (1994). "Solar Nuclear Energy Generation & The Chlorine Solar Neutrino Experiment". AIP Conference Proceedings 320: 102. arXiv:astro-ph/9405040. Bibcode:1995AIPC..320..102H. doi:10.1063/1.47009.
+ Myers, S. T. (18 February 1999). "Lecture 11 – Stellar Structure I: Hydrostatic Equilibrium". Introduction to Astrophysics II. Retrieved 15 July 2009.
+ "Ancient Sunlight". Technology Through Time (50). NASA. 2007. Retrieved 2009-06-24.
+ Stix, M. (2003). "On the time scale of energy transport in the sun". Solar Physics 212 (1): 3–6. Bibcode:2003SoPh..212....3S. doi:10.1023/A:1022952621810.
+ Schlattl, H. (2001). "Three-flavor oscillation solutions for the solar neutrino problem". Physical Review D 64 (1): 013009. arXiv:hep-ph/0102063. Bibcode:2001PhRvD..64a3009S. doi:10.1103/PhysRevD.64.013009.
+ "NASA – Sun". World Book at NASA. Retrieved 2012-10-10.
+ Tobias, S. M. (2005). "The solar tachocline: Formation, stability and its role in the solar dynamo". In A. M. Soward et al.. Fluid Dynamics and Dynamos in Astrophysics and Geophysics. CRC Press. pp. 193–235. ISBN 978-0-8493-3355-2.
+ Mullan, D. J (2000). "Solar Physics: From the Deep Interior to the Hot Corona". In Page, D., Hirsch, J.G. From the Sun to the Great Attractor. Springer. p. 22. ISBN 978-3-540-41064-5.
+ Abhyankar, K. D. (1977). "A Survey of the Solar Atmospheric Models". Bulletin of the Astronomical Society of India 5: 40–44. Bibcode:1977BASI....5...40A.
+ Gibson, E. G. (1973). The Quiet Sun. NASA. ASIN B0006C7RS0.
+ Shu, F. H. (1991). The Physics of Astrophysics, Volume 1. University Science Books. ISBN 0-935702-64-4.
+ Rast, M.; Nordlund, Å.; Stein, R.; Toomre, J. (1993). "Ionization Effects in Three-Dimensional Solar Granulation Simulations". The Astrophysical Journal Letters 408 (1): L53–L56. Bibcode:1993ApJ...408L..53R. doi:10.1086/186829.
+ Parnel, C. "Discovery of Helium". University of St Andrews. Retrieved 2006-03-22.
+ De Pontieu, B.; et al. (2007). "Chromospheric Alfvénic Waves Strong Enough to Power the Solar Wind". Science 318 (5856): 1574–77. Bibcode:2007Sci...318.1574D. doi:10.1126/science.1151747. PMID 18063784.
+ Solanki, S. K.; Livingston, W.; Ayres, T. (1994). "New Light on the Heart of Darkness of the Solar Chromosphere". Science 263 (5143): 64–66. Bibcode:1994Sci...263...64S. doi:10.1126/science.263.5143.64. PMID 17748350.
+ Hansteen, V. H.; Leer, E.; Holzer, T. E. (1997). "The role of helium in the outer solar atmosphere". The Astrophysical Journal 482 (1): 498–509. Bibcode:1997ApJ...482..498H. doi:10.1086/304111.
+ Erdèlyi, R.; Ballai, I. (2007). "Heating of the solar and stellar coronae: a review". Astron. Nachr. 328 (8): 726–733. Bibcode:2007AN....328..726E. doi:10.1002/asna.200710803.
+ Dwivedi, B. N. (2006). "Our ultraviolet Sun". Current Science 91 (5): 587–595.
+ Russell, C. T. (2001). "Solar wind and interplanetary magnetic filed: A tutorial". In Song, Paul; Singer, Howard J. and Siscoe, George L. Space Weather (Geophysical Monograph). American Geophysical Union. pp. 73–88. ISBN 978-0-87590-984-4.
+ A. G, Emslie; J. A., Miller (2003). "Particle Acceleration". In Dwivedi, B. N. Dynamic Sun. Cambridge University Press. p. 275. ISBN 978-0-521-81057-9.
+ "The Distortion of the Heliosphere: Our Interstellar Magnetic Compass" (Press release). European Space Agency. 2005. Retrieved 2006-03-22.
+ "The Mean Magnetic Field of the Sun". Wilcox Solar Observatory. 2006. Retrieved 2007-08-01.
+ Zirker, J. B. (2002). Journey from the Center of the Sun. Princeton University Press. pp. 119–120. ISBN 978-0-691-05781-1.
+ Zirker, J. B. (2002). Journey from the Center of the Sun. Princeton University Press. pp. 120–127. ISBN 978-0-691-05781-1.
+ Phillips, K. J. H. (1995). Guide to the Sun. Cambridge University Press. pp. 14–15, 34–38. ISBN 978-0-521-39788-9.
+ "Sun flips magnetic field". CNN. 16 February 2001. Retrieved 2009-07-11.
+ Phillips, T. (15 February 2001). "The Sun Does a Flip". NASA. Retrieved 2009-07-11.
+ Wang, Y.-M.; Sheeley, N. R. (2003). "Modeling the Sun's Large-Scale Magnetic Field during the Maunder Minimum". The Astrophysical Journal 591 (2): 1248–56. Bibcode:2003ApJ...591.1248W. doi:10.1086/375449.
+ http://www.americanscientist.org/issues/pub/stellar-molecules
+ Lodders, Katharina (July 10, 2003). "Solar System Abundances and Condensation Temperatures of the Elements" (PDF). The Astrophysical Journal (The American Astronomical Society) 591 (2): 1220–1247. Bibcode:2003ApJ...591.1220L. doi:10.1086/375492.
+ Lodders, K. (2003). "Abundances and Condensation Temperatures of the Elements" (PDF). Meteoritics & Planetary Science 38 (suppl.): 5272. Bibcode:2003M&PSA..38.5272L.
+ Hansen, C.J.; Kawaler, S.A.; Trimble, V. (2004). Stellar Interiors: Physical Principles, Structure, and Evolution (2nd ed.). Springer. pp. 19–20. ISBN 0-387-20089-4.
+ Hansen, C.J.; Kawaler, S.A.; Trimble, V. (2004). Stellar Interiors: Physical Principles, Structure, and Evolution (2nd ed.). Springer. pp. 77–78. ISBN 0-387-20089-4.
+ Aller, L.H. (1968). "The chemical composition of the Sun and the solar system". Proceedings of the Astronomical Society of Australia 1: 133. Bibcode:1968PASAu...1..133A.
+ Hansen, C.J.; Kawaler, S.A.; Trimble, V. (2004). Stellar Interiors: Physical Principles, Structure, and Evolution (2nd ed.). Springer. § 9.2.3. ISBN 0-387-20089-4.
+ Iben, I Jnr (1965) "Stellar Evolution. II. The Evolution of a 3 M_{sun} Star from the Main Sequence Through Core Helium Burning". (Astrophysical Journal, vol. 142, p.1447)
+ Biemont, E. (1978). "Abundances of singly ionized elements of the iron group in the Sun". Monthly Notices of the Royal Astronomical Society 184: 683–694. Bibcode:1978MNRAS.184..683B.
+ Ross and Aller 1976, Withbroe 1976, Hauge and Engvold 1977, cited in Biemont 1978.
+ Corliss and Bozman (1962 cited in Biemont 1978) and Warner (1967 cited in Biemont 1978)
+ Smith (1976 cited in Biemont 1978)
+ Signer and Suess 1963; Manuel 1967; Marti 1969; Kuroda and Manuel 1970; Srinivasan and Manuel 1971, all cited in Manuel and Hwaung 1983
+ Kuroda and Manuel 1970 cited in Manuel and Hwaung 1983:7
+ Manuel, O. K.; Hwaung, G. (1983). "Solar abundances of the elements". Meteoritics 18 (3): 209. Bibcode:1983Metic..18..209M. doi:10.1111/j.1945-5100.1983.tb00822.x.
+ "The Largest Sunspot in Ten Years". Goddard Space Flight Center. 30 March 2001. Archived from the original on August 23, 2007. Retrieved 2009-07-10.
+ "NASA Satellites Capture Start of New Solar Cycle". PhysOrg. 4 January 2008. Retrieved 2009-07-10.
+ Willson, R. C.; Hudson, H. S. (1991). "The Sun's luminosity over a complete solar cycle". Nature 351 (6321): 42–4. Bibcode:1991Natur.351...42W. doi:10.1038/351042a0.
+ Lean, J.; Skumanich, A.; White, O. (1992). "Estimating the Sun's radiative output during the Maunder Minimum". Geophysical Research Letters 19 (15): 1591–1594. Bibcode:1992GeoRL..19.1591L. doi:10.1029/92GL01578.
+ Mackay, R. M.; Khalil, M. A. K (2000). "Greenhouse gases and global warming". In Singh, S. N. Trace Gas Emissions and Plants. Springer. pp. 1–28. ISBN 978-0-7923-6545-7.
+ Ehrlich, R. (2007). "Solar Resonant Diffusion Waves as a Driver of Terrestrial Climate Change". Journal of Atmospheric and Solar-Terrestrial Physics 69 (7): 759. arXiv:astro-ph/0701117. Bibcode:2007JASTP..69..759E. doi:10.1016/j.jastp.2007.01.005.
+ Clark, S. (2007). "Sun's fickle heart may leave us cold". New Scientist 193 (2588): 12. doi:10.1016/S0262-4079(07)60196-1.
+ Zirker, Jack B. (2002). Journey from the Center of the Sun. Princeton University Press. pp. 7–8. ISBN 978-0-691-05781-1.
+ Amelin, Y.; Krot, A.; Hutcheon, I.; Ulyanov, A. (2002). "Lead isotopic ages of chondrules and calcium-aluminum-rich inclusions". Science 297 (5587): 1678–1683. Bibcode:2002Sci...297.1678A. doi:10.1126/science.1073950. PMID 12215641.
+ Baker, J.; Bizzarro, M.; Wittig, N.; Connelly, J.; Haack, H. (2005). "Early planetesimal melting from an age of 4.5662 Gyr for differentiated meteorites". Nature 436 (7054): 1127–1131. Bibcode:2005Natur.436.1127B. doi:10.1038/nature03882. PMID 16121173.
+ Williams, J. (2010). "The astrophysical environment of the solar birthplace". Contemporary Physics 51 (5): 381–396. arXiv:1008.2973. Bibcode:2010ConPh..51..381W. doi:10.1080/00107511003764725.
+ Ribas, Ignasi (February 2010). The Sun and stars as the primary energy input in planetary atmospheres. "Solar and Stellar Variability: Impact on Earth and Planets, Proceedings of the International Astronomical Union, IAU Symposium". Proceedings of the International Astronomical Union 264: 3–18. arXiv:0911.4872. Bibcode:2010IAUS..264....3R. doi:10.1017/S1743921309992298
+ Goldsmith, D.; Owen, T. (2001). The search for life in the universe. University Science Books. p. 96. ISBN 978-1-891389-16-0.
+ Boothroyd, A. I.; Sackmann, I. ‐J. (1999). "The CNO Isotopes: Deep Circulation in Red Giants and First and Second Dredge‐up". The Astrophysical Journal 510: 232. Bibcode:1999ApJ...510..232B. doi:10.1086/306546.
+ Schröder, K. -P.; Connon Smith, R. (2008). "Distant future of the Sun and Earth revisited". Monthly Notices of the Royal Astronomical Society 386: 155. arXiv:0801.4031. Bibcode:2008MNRAS.386..155S. doi:10.1111/j.1365-2966.2008.13022.x.
+ Vassiliadis, E.; Wood, P. R. (1993). "Evolution of low- and intermediate-mass stars to the end of the asymptotic giant branch with mass loss". The Astrophysical Journal 413: 641. Bibcode:1993ApJ...413..641V. doi:10.1086/173033.
+ Bibcode: 1995A&A...297..727B
+ Bibcode: 1995A&A...299..755B
+ Schröder, K.-P.; Smith, R.C. (2008). "Distant future of the Sun and Earth revisited". Monthly Notices of the Royal Astronomical Society 386 (1): 155. arXiv:0801.4031. Bibcode:2008MNRAS.386..155S. doi:10.1111/j.1365-2966.2008.13022.x. See also Palmer, J. (2008). "Hope dims that Earth will survive Sun's death". New Scientist. Retrieved 2008-03-24.
+ Carrington, D. (2000-02-21). "Date set for desert Earth". BBC News. Retrieved 2007-03-31.
+ "Construction of a Composite Total Solar Irradiance (TSI) Time Series from 1978 to present". Retrieved 2005-10-05.
+ Solar radiation
+ El-Sharkawi, Mohamed A. (2005). Electric energy. CRC Press. pp. 87–88. ISBN 978-0-8493-3078-0.
+ "Reference Solar Spectral Irradiance: Air Mass 1.5". Retrieved 2009-11-12.
+ Phillips, Kenneth J. H. (1995). Guide to the Sun. Cambridge University Press. pp. 319–321. ISBN 978-0-521-39788-9.
+ Reid, M.J. (1993). "The distance to the center of the Galaxy". Annual Review of Astronomy and Astrophysics 31 (1): 345–372. Bibcode:1993ARA&A..31..345R. doi:10.1146/annurev.aa.31.090193.002021.
+ Eisenhauer, F.; et al. (2003). "A Geometric Determination of the Distance to the Galactic Center". Astrophysical Journal 597 (2): L121–L124. arXiv:astro-ph/0306220. Bibcode:2003ApJ...597L.121E. doi:10.1086/380188.
+ Horrobin, M.; et al. (2004). "First results from SPIFFI. I: The Galactic Center" (PDF). Astronomische Nachrichten 325 (2): 120–123. Bibcode:2004AN....325...88H. doi:10.1002/asna.200310181.
+ Eisenhauer, F.; et al. (2005). "SINFONI in the Galactic Center: Young Stars and Infrared Flares in the Central Light-Month". Astrophysical Journal 628 (1): 246–259. arXiv:astro-ph/0502129. Bibcode:2005ApJ...628..246E. doi:10.1086/430667.
+ Gehrels, Neil; Chen, Wan; Mereghetti, S. (February 25, 1993). "The Geminga supernova as a possible cause of the local interstellar bubble". Nature 361 (6414): 706–707. Bibcode:1993Natur.361..704B. doi:10.1038/361704a0.
+ English, J. (2000). "Exposing the Stuff Between the Stars" (Press release). Hubble News Desk. Retrieved 2007-05-10.
+ Gillman, M.; Erenler, H. (2008). "The galactic cycle of extinction". International Journal of Astrobiology 7 (1): 17–26. Bibcode:2008IJAsB...7...17G. doi:10.1017/S1473550408004047.
+ Leong, S. (2002). "Period of the Sun's Orbit around the Galaxy (Cosmic Year)". The Physics Factbook. Retrieved 2007-05-10.
+ Croswell, K. (2008). "Milky Way keeps tight grip on its neighbor". New Scientist 199 (2669): 8. doi:10.1016/S0262-4079(08)62026-6.
+ Garlick, M.A. (2002). The Story of the Solar System. Cambridge University Press. p. 46. ISBN 0-521-80336-5.
+ Javaraiah (2005). "Sun's retrograde motion and violation of even-odd cycle rule in sunspot activity". Mon.Not.Roy.Astron.Soc. 362 (4): 1311–1318. arXiv:astro-ph/0507269. Bibcode:2005MNRAS.362.1311J. doi:10.1111/j.1365-2966.2005.09403.x.
+ Alfvén, H. (1947). "Magneto-hydrodynamic waves, and the heating of the solar corona". Monthly Notices of the Royal Astronomical Society 107 (2): 211. Bibcode:1947MNRAS.107..211A.
+ Parker, E.N. (1988). "Nanoflares and the solar X-ray corona". Astrophysical Journal 330 (1): 474. Bibcode:1988ApJ...330..474P. doi:10.1086/166485.
+ Sturrock, P.A.; Uchida, Y. (1981). "Coronal heating by stochastic magnetic pumping". Astrophysical Journal 246 (1): 331. Bibcode:1981ApJ...246..331S. doi:10.1086/158926.
+ Kasting, J.F.; Ackerman, T.P. (1986). "Climatic Consequences of Very High Carbon Dioxide Levels in the Earth's Early Atmosphere". Science 234 (4782): 1383–1385. doi:10.1126/science.11539665. PMID 11539665.
+ "planet, n.". Oxford English Dictionary. December 2007. Retrieved 2008-02-07. Note: select the Etymology tab
+ Goldstein, Bernard R. (1997). "Saving the phenomena : the background to Ptolemy's planetary theory". Journal for the History of Astronomy (Cambridge (UK)) 28 (1): 1–12. Bibcode:1997JHA....28....1G.
+ Ptolemy; Toomer, G. J. (1998). Ptolemy's Almagest. Princeton University Press. ISBN 978-0-691-00260-6.
+ David Leverington (2003). Babylon to Voyager and beyond: a history of planetary astronomy. Cambridge University Press. pp. 6–7. ISBN 0-521-80840-5.
+ Sider, D. (1973). "Anaxagoras on the Size of the Sun". Classical Philology 68 (2): 128–129. doi:10.1086/365951. JSTOR 269068.
+ Goldstein, B.R. (1967). "The Arabic Version of Ptolemy's Planetary Hypotheses". Transactions of the American Philosophical Society 57 (4): 9–12. doi:10.2307/1006040. JSTOR 1006040.
+ "Galileo Galilei (1564–1642)". BBC. Retrieved 2006-03-22.
+ Ead, Hamed A. Averroes As A Physician. University of Cairo.
+ A short History of scientific ideas to 1900, C. Singer, Oxford University Press, 1959, p. 151.
+ The Arabian Science, C. Ronan, pp. 201–244 in The Cambridge Illustrated History of the World's Science, Cambridge University Press, 1983; at pp. 213–214.
+ Goldstein, Bernard R. (March 1972). "Theory and Observation in Medieval Astronomy". Isis (University of Chicago Press) 63 (1): 39–47 [44]. doi:10.1086/350839.
+ "Sir Isaac Newton (1643–1727)". BBC. Retrieved 2006-03-22.
+ "Herschel Discovers Infrared Light". Cool Cosmos. Retrieved 2006-03-22.
+ Thomson, W. (1862). "On the Age of the Sun's Heat". Macmillan's Magazine 5: 388–393.
+ Lockyer, J.N. (1890). The meteoritic hypothesis; a statement of the results of a spectroscopic inquiry into the origin of cosmical systems. Macmillan and Co. Bibcode:1890QB981.L78.....
+ Darden, L. (1998). "The Nature of Scientific Inquiry".
+ Hawking, S. W. (2001). The Universe in a Nutshell. Bantam Books. ISBN 0-553-80202-X.
+ "Studying the stars, testing relativity: Sir Arthur Eddington". Space Science. European Space Agency. 2005. Retrieved 2007-08-01.
+ Bethe, H.; Critchfield, C. (1938). "On the Formation of Deuterons by Proton Combination". Physical Review 54 (10): 862–862. Bibcode:1938PhRv...54Q.862B. doi:10.1103/PhysRev.54.862.2.
+ Bethe, H. (1939). "Energy Production in Stars". Physical Review 55 (1): 434–456. Bibcode:1939PhRv...55..434B. doi:10.1103/PhysRev.55.434.
+ Burbidge, E.M.; Burbidge, G.R.; Fowler, W.A.; Hoyle, F. (1957). "Synthesis of the Elements in Stars". Reviews of Modern Physics 29 (4): 547–650. Bibcode:1957RvMP...29..547B. doi:10.1103/RevModPhys.29.547.
+ Phillips, T. (2007). "Stereo Eclipse". Science@NASA. NASA. Retrieved 2008-06-19.
+ Wade, M. (2008). "Pioneer 6-7-8-9-E". Encyclopedia Astronautica. Retrieved 2006-03-22.
+ "Solar System Exploration: Missions: By Target: Our Solar System: Past: Pioneer 9". NASA. Retrieved 2010-10-30. "NASA maintained contact with Pioneer 9 until May 1983"
+ Burlaga, L.F. (2001). "Magnetic Fields and plasmas in the inner heliosphere: Helios results". Planetary and Space Science 49 (14–15): 1619–27. Bibcode:2001P&SS...49.1619B. doi:10.1016/S0032-0633(01)00098-8.
+ Burkepile, C. (1998). "Solar Maximum Mission Overview". Archived from the original on April 5, 2006. Retrieved 2006-03-22.
+ "Result of Re-entry of the Solar X-ray Observatory "Yohkoh" (SOLAR-A) to the Earth's Atmosphere" (Press release). Japan Aerospace Exploration Agency. 2005. Retrieved 2006-03-22.
+ "Mission extensions approved for science missions". ESA Science and Technology. October 7, 2009. Retrieved February 16, 2010.
+ "NASA Successfully Launches a New Eye on the Sun". NASA Press Release Archives. February 11, 2010. Retrieved February 16, 2010.
+ "Sungrazing Comets". LASCO (US Naval Research Laboratory). Retrieved 2009-03-19.
+ JPL/CALTECH (2005). "Ulysses: Primary Mission Results". NASA. Retrieved 2006-03-22.
+ Calaway, M.J.; Stansbery, Eileen K.; Keller, Lindsay P. (2009). "Genesis capturing the Sun: Solar wind irradiation at Lagrange 1". Nuclear Instruments and Methods in Physics Research B 267 (7): 1101. Bibcode:2009NIMPB.267.1101C. doi:10.1016/j.nimb.2009.01.132.
+ "STEREO Spacecraft & Instruments". NASA Missions. March 8, 2006. Retrieved May 30, 2006.
+ Howard R. A., Moses J. D., Socker D. G., Dere K. P., Cook J. W. (2002). "Sun Earth Connection Coronal and Heliospheric Investigation (SECCHI)". Advances in Space Research 29 (12): 2017–2026. Bibcode:2008SSRv..136...67H. doi:10.1007/s11214-008-9341-4.
+ Srinivas Laxman & Rhik Kundu, TNN (2012-09-09). "Aditya 1 launch delayed to 2015-16". The Times of India. Bennett, Coleman & Co. Ltd.
+ White, T.J.; Mainster, M.A.; Wilson, P.W.; Tips, J.H. (1971). "Chorioretinal temperature increases from solar observation". Bulletin of Mathematical Biophysics 33 (1): 1. doi:10.1007/BF02476660.
+ Tso, M.O.M.; La Piana, F.G. (1975). "The Human Fovea After Sungazing". Transactions of the American Academy of Ophthalmology and Otolaryngology 79 (6): OP788–95. PMID 1209815.
+ Hope-Ross, M.W.; Mahon, GJ; Gardiner, TA; Archer, DB (1993). "Ultrastructural findings in solar retinopathy". Eye 7 (4): 29–33. doi:10.1038/eye.1993.7. PMID 8325420.
+ Schatz, H.; Mendelblatt, F. (1973). "Solar Retinopathy from Sun-Gazing Under Influence of LSD". British Journal of Ophthalmology 57 (4): 270–3. doi:10.1136/bjo.57.4.270. PMC 1214879. PMID 4707624.
+ Chou, B.R. (2005). "Eye Safety During Solar Eclipses". "While environmental exposure to UV radiation is known to contribute to the accelerated aging of the outer layers of the eye and the development of cataracts, the concern over improper viewing of the Sun during an eclipse is for the development of "eclipse blindness" or retinal burns."
+ Ham, W.T. Jr.; Mueller, H.A.; Sliney, D.H. (1976). "Retinal sensitivity to damage from short wavelength light". Nature 260 (5547): 153. Bibcode:1976Natur.260..153H. doi:10.1038/260153a0.
+ Ham, W.T. Jr.; Mueller, H.A.; Ruffolo, J.J. Jr.; Guerry, D. III, (1980). "Solar Retinopathy as a function of Wavelength: its Significance for Protective Eyewear". In Williams, T.P.; Baker, B.N. The Effects of Constant Light on Visual Processes. Plenum Press. pp. 319–346. ISBN 0-306-40328-5.
+ Kardos, T. (2003). Earth science. J.W. Walch. p. 87. ISBN 978-0-8251-4500-1.
+ Macdonald, Lee (2102). "2. Equipment for Observing the Sun". How to Observe the Sun Safely. New York: Springer Science + Business Media. p. 17. doi:10.1007/978-1-4614-3825-0_2. "NEVER LOOK DIRECTLY AT THE SUN THROUGH ANY FORM OF OPTICAL EQUIPMENT, EVEN FOR AN INSTANT. A brief glimpse of the Sun through a telescope is enough to cause permanent eye damage, or even blindness. Even looking at the Sun with the naked eye for more than a second or two is not safe. Do not assume that it is safe to look at the Sun through a filter, no matter how dark the filter appears to be."
+ Espenak, F. (2005). "Eye Safety During Solar Eclipses". NASA. Retrieved 2006-03-22.
+ Haber, Jorg; Magnor, Marcus; Seidel, Hans-Peter (2005). "Physically based Simulation of Twilight Phenomena" (PDF). ACM Transactions on Graphics (TOG) 24 (4): 1353–1373. doi:10.1145/1095878.1095884.
+ I.G. Piggin (1972). "Diurnal asymmetries in global radiation". Springer 20 (1): 41–48. Bibcode:1972AMGBB..20...41P. doi:10.1007/BF02243313.
+ "The Green Flash". BBC. Archived from the original on 2008-12-16. Retrieved 2008-08-10.
+ Barsh, G.S. (2003). "What Controls Variation in Human Skin Color?". PLoS Biology 1 (1): e7. doi:10.1371/journal.pbio.0000027. PMC 212702. PMID 14551921.
+Further reading
+ Cohen, Richard (2010). Chasing the Sun: the Epic Story of the Star that Gives us Life. Simon & Schuster. ISBN 1-4000-6875-4.
+ Thompson, M. J. (2004). "Solar interior: Helioseismology and the Sun's interior". Astronomy & Geophysics 45 (4): 21–25.
+External links
+ Nasa SOHO (Solar & Heliospheric Observatory) satellite
+ National Solar Observatory
+ Astronomy Cast: The Sun
+ A collection of spectacular images of the sun from various institutions (The Boston Globe)
+ Satellite observations of solar luminosity
+ Sun|Trek, an educational website about the Sun
+ The Swedish 1-meter Solar Telescope, SST
+ An animated explanation of the structure of the Sun (University of Glamorgan)
+ Animation - The Future of the Sun
+ Solar Conveyor Belt Speeds Up – NASA – images, link to report on Science
+Retrieved from "http://en.wikipedia.org/w/index.php?title=Sun&oldid=612630998"
+Categories:
+ Missions to the Sun
+ G-type main-sequence stars
+ Light sources
+ Plasma physics
+ Space plasmas
+ Stars with proper names
+ Sun
+ Astronomical objects known since antiquity
+ This page was last modified on 12 June 2014 at 13:15.
+ Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.

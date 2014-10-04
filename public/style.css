@@ -1,0 +1,171 @@
+/* Fix user-agent */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #333333;
+  color: #FFFF00;
+}
+
+html {
+  font-family:
+    "HelveticaNeue-Light",
+    "Helvetica Neue Light",
+    "Helvetica Neue",
+    Helvetica,
+    Arial,
+    "Lucida Grande",
+    sans-serif;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+}
+
+#main_content {    
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+#uploadBox {
+    height: 100%;
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+#uploadBox h2 {
+    font-size: 46px;
+    height: 75px;
+    text-align: center;
+}
+#fileInputArea {
+    float: left;
+    height: 75%;
+    position: relative;
+    width: 50%;
+}
+
+#fileInputArea textarea {
+    background-color: #000000;
+    border: 0 none;
+    color: #FFFFFF;
+    font-size: 14px;
+    max-height: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    min-width: 100%;
+    padding: 10px;
+    text-align: left;
+    text-overflow: ellipsis;
+    white-space: pre;
+}
+#console_no {
+    color: #FFFF00;
+    float: left;
+    width: 5%;
+}
+#console_txt {
+    float: right;
+    width: 95%;
+}
+#console_output_1:before {
+    background-color: rgba(255, 255, 255, 0.3);
+    color: #FFFFFF;
+    content: "Output:";
+    font-size: 24px;
+    font-weight: bold;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right: 15px;
+    text-align: center;
+    width: 150px;
+}
+#console_output_1 {
+    background-color: #000000;
+    color: #FFFFFF;
+    float: right;
+    font-size: 14px;
+    height: auto;
+    line-height: 20px;
+    max-height: 45%;
+    min-height: 75px;
+    overflow-x: hidden;
+    padding: 10px;
+    text-align: left;
+    text-overflow: ellipsis;
+    white-space: pre;
+    width: 50%;
+}
+#console_output_2:before {
+    background-color: rgba(255, 255, 255, 0.3);
+    color: #FFFFFF;
+    content: "System:";
+    font-size: 24px;
+    font-weight: bold;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right: 15px;
+    text-align: center;
+    width: 150px;
+}
+#console_output_2 {
+    background-color: #000000;
+    color: #FFFFFF;
+    float: right;
+    font-size: 14px;
+    height: auto;
+    min-height: 75px;
+    line-height: 20px;
+    margin-top: 10px;
+    max-height: 20%;
+    overflow-x: hidden;
+    padding: 10px;
+    text-align: left;
+    text-overflow: ellipsis;
+    white-space: pre;
+    width: 50%;
+}
+
+.console_line {
+    clear: both;
+    float: left;
+    height: auto;
+    width: 100%;
+}
+
+#bottom_buttons {
+    height: 45px;
+    margin-top: 10px;
+}
+.demoText {
+    background-color: #FFFFFF;
+    border: 0 none;
+    color: #000000;
+    float: left;
+    font-size: 16px;
+    height: 45px;
+    margin-left: 5px;
+    width: 150px;
+}
+
+
+#InputTextBoxSend {
+    background-color: #FFFF00;
+    border: 0 none;
+    float: right;
+    font-size: 24px;
+    font-weight: bold;
+    height: 45px;
+    width: 150px;
+}
